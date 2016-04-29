@@ -1,0 +1,29 @@
+{
+  "name": "Vimeofy",
+  "version": "0.0.1",
+  "homepage": "https://github.com/FlipFlopInteractive/Vimeofy",
+  "authors": [
+    "Koen Dirk van Esterik <koen@flipflopinteractive.com>"
+  ],
+  "description": "jQuery plugin that applies a Vimeo player to a DOM element, inspired by Pupunzi's jquery.mb.ytplayer and VodkaBears' Vide.",
+  "main": "./src/scripts/vimeofy.js",
+  "keywords": [
+    "jquery",
+    "vimeo",
+    "player"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  },
+  "devDependencies": {
+    "normalize.less": "~1.0.0"
+  }
+}

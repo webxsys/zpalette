@@ -1,0 +1,95 @@
+---------------
+Feb 22 2016 4:19 -- inspect
+CURL requires SSL support. Please notify webmaster or hosting company. 60 => SSL certificate problem: self signed certificate in certificate chain
+
+---------------
+Feb 22 2016 4:19 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Apache/2.4.7 (Win32) OpenSSL/0.9.8y PHP/5.4.25
+NA: HTTP Host => localhost
+NA: Path_Translated => C:/xamppx/htdocs/Zencart/zc_install/index.php(SCRIPT_FILENAME)
+NA: Real Path => C:\xamppx\htdocs\Zencart
+NA: PHP O/S => WINNT
+NA: PHP API Mode => apache2handler
+NA: PHP Max Execution Time per page => 300
+OK: MySQL Support => ON
+OK: PHP Version => 5.4.25
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: Suggested SQL Cache Folder => C:/xamppx/htdocs/Zencart/cache
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.1.0 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+WARN: CURL SSL Capability => CURL requires SSL support. Please notify webmaster or hosting company. 60 => SSL certificate problem: self signed certificate in certificate chain
+OK: PHP Upload Support => ON  upload_max_filesize=270M;  post_max_size=0
+OK: PHP Upload TMP dir => C:\xamppx\tmp
+OK: Apache .htaccess Support => ON
+NA: PHP include_path => .;C:\xamppx\php\PEAR
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => 
+NA: PHP sendmail 'from' => postmaster@localhost
+OK: PHP open_basedir restrictions => 
+OK: PHP Output Buffering (gzip) => ON
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => C:\xamppx\htdocs\Zencart\cache-->Writeable
+OK: includes/configure.php =>  Writeable
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: logs => OK 777 read/write/execute
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: Core, bcmath, calendar, ctype, date, ereg, filter, ftp, hash, iconv, json, mcrypt, SPL, odbc, pcre, Reflection, session, standard, mysqlnd, tokenizer, zip, zlib, libxml, dom, PDO, bz2, SimpleXML, wddx, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, mbstring, exif, gd, gettext, mysql, mysqli, Phar, pdo_mysql, pdo_sqlite, soap, sockets, sqlite3, xmlrpc, xsl, mhash
+------------------------------
+
+
+---------------
+Feb 22 2016 4:20 -- inspect
+CURL requires SSL support. Please notify webmaster or hosting company. 60 => SSL certificate problem: self signed certificate in certificate chain
+
+---------------
+Feb 22 2016 4:20 -- database_setup
+FATAL: Database does not exist - 
+
+---------------
+Feb 22 2016 4:20 -- database_setup1
+Installer - Page: database_setup -- collected information: Array
+(
+    [language] => english
+    [DIR_FS_SQL_CACHE] => C:/xamppx/htdocs/Zencart/cache
+    [DB_TYPE] => mysql
+    [DB_PREFIX] => 
+    [DB_CHARSET] => utf8
+    [DB_SERVER] => localhost
+    [DB_SERVER_USERNAME] => *****
+    [DB_SERVER_PASSWORD] => ***private***
+    [DB_DATABASE] => *****
+    [SQL_CACHE_METHOD] => none
+)
+
+
+---------------
+Feb 22 2016 4:20 -- database_setup1
+Installer - Page: database_setup -- collected information: Array
+(
+    [language] => english
+    [DIR_FS_SQL_CACHE] => C:/xamppx/htdocs/Zencart/cache
+    [DB_TYPE] => mysql
+    [DB_PREFIX] => 
+    [DB_CHARSET] => utf8
+    [DB_SERVER] => localhost
+    [DB_SERVER_USERNAME] => *****
+    [DB_SERVER_PASSWORD] => ***private***
+    [DB_DATABASE] => *****
+    [SQL_CACHE_METHOD] => none
+)
+
+

@@ -1,0 +1,1 @@
+[22-Apr-2016 13:50:57 America/Los_Angeles] PHP Fatal error:  1062:Duplicate entry '6' for key 'PRIMARY' :: INSERT INTO products_options_types VALUES (6, 'Link'); ==> (as called by) /home/palettepro/public_html/develop/zadmin/sqlpatch.php on line 304 <== in /home/palettepro/public_html/develop/includes/classes/db/mysql/query_factory.php on line 155

@@ -1,0 +1,12 @@
+---------------
+Feb 22 2016 4:19 -- inspect
+CURL requires SSL support. Please notify webmaster or hosting company. 60 => SSL certificate problem: self signed certificate in certificate chain
+
+---------------
+Feb 22 2016 4:20 -- inspect
+CURL requires SSL support. Please notify webmaster or hosting company. 60 => SSL certificate problem: self signed certificate in certificate chain
+
+---------------
+Feb 22 2016 4:20 -- database_setup
+FATAL: Database does not exist - 
+

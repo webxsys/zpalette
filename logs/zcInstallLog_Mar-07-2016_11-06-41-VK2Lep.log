@@ -1,0 +1,76 @@
+---------------
+Mar 07 2016 11:06 -- inspect
+FATAL:  - 
+
+---------------
+Mar 07 2016 11:06 -- inspect
+System Inspection Results: 
+------------------------------
+NA: Webserver => Apache
+NA: HTTP Host => www.zpalette.studio
+NA: Path_Translated => /home/palettepro/public_html/develop/zc_install/index.php(SCRIPT_FILENAME)
+NA: Real Path => /home/palettepro/public_html/develop
+NA: Server Free Disk Space => 411.63 GB
+NA: PHP O/S => Linux
+NA: PHP API Mode => cgi-fcgi
+NA: PHP Max Execution Time per page => 30
+OK: MySQL Support => ON
+OK: PHP Version => 5.5.31
+OK: PHP Sessions Support => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+WARN: Current SQL Cache Folder => C:/xamppx/htdocs/Zencart/cache--><span class='errors'>Unwriteable</span>
+OK: Suggested SQL Cache Folder => /home/palettepro/public_html/develop/cache
+OK: PHP GD Support => ON
+OK: GD Version => GD bundled (2.1.0 compatible)
+OK: PHP ZLIB Compression Support => ON
+OK: PHP OpenSSL Support => ON
+OK: PHP cURL Support => ON
+OK: CURL NON-SSL Capability => Okay
+OK: CURL SSL Capability => Okay
+OK: PHP Upload Support => ON  upload_max_filesize=128M;  post_max_size=128M
+OK: PHP Upload TMP dir => 
+OK: Apache .htaccess Support => ON
+NA: PHP include_path => .:/usr/local/php55/lib:/usr/lib/php:/usr/local/lib/php
+NA: PHP SMTP destination => localhost
+NA: PHP sendmail path => /usr/sbin/sendmail -t -i
+NA: PHP sendmail 'from' => 
+OK: PHP open_basedir restrictions => 
+WARN: PHP Output Buffering (gzip) => OFF
+OK: PHP XML Support => ON
+OK: PHP Session.Save_Path => /home/palettepro/public_html/develop/cache-->Writeable
+OK: includes/configure.php =>  Writeable
+OK: admin/includes/configure.php =>  Writeable
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: logs => OK 777 read/write/execute
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: Core, date, ereg, libxml, openssl, pcre, zlib, bcmath, bz2, calendar, ctype, curl, dom, hash, fileinfo, filter, ftp, gd, gettext, SPL, iconv, session, intl, json, mbstring, mcrypt, standard, mysql, mysqli, mysqlnd, Phar, posix, pspell, Reflection, imap, SimpleXML, soap, sockets, exif, tidy, tokenizer, wddx, xml, xmlreader, xmlrpc, xmlwriter, xsl, zip, cgi-fcgi, PDO, pdo_sqlite, sqlite3, pdo_mysql, imagick, SourceGuardian, ionCube Loader, Zend Guard Loader
+------------------------------
+
+
+---------------
+Mar 07 2016 11:07 -- inspect
+FATAL:  - 
+
+---------------
+Mar 07 2016 11:11 -- database_setup1
+Installer - Page: database_setup -- collected information: Array
+(
+    [language] => english
+    [DIR_FS_SQL_CACHE] => /home/palettepro/public_html/develop/cache
+    [DB_TYPE] => mysql
+    [DB_PREFIX] => 
+    [DB_CHARSET] => utf8
+    [DB_SERVER] => localhost
+    [DB_SERVER_USERNAME] => palettep_zcartdb
+    [DB_SERVER_PASSWORD] => ***private***
+    [DB_DATABASE] => palettep_zenacart
+    [SQL_CACHE_METHOD] => none
+)
+
+

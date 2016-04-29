@@ -1,0 +1,1 @@
+[22-Feb-2016 04:22:18 Europe/Berlin] PHP Fatal error:  1146:Table 'zencart.edify' doesn't exist :: SELECT * FROM edify ==> (as called by) C:\xamppx\htdocs\Zencart\includes\classes\observers\class.google_recaptcha.php on line 12 <== in C:\xamppx\htdocs\Zencart\includes\classes\db\mysql\query_factory.php on line 155
