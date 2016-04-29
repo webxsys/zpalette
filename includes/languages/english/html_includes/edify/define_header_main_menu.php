@@ -153,12 +153,12 @@
             <i class="fa fa-pencil fa-lg"></i><?php echo HEADER_TITLE_ABOUT_US; ?>
         </a>
         <ul class="">
-            <li><a href="#"><?php // echo zen_href_link(FILENAME_PRODUCTS_NEW); ?>
+            <li><a href="http://www.zpalette.studio/develop/zenas-story-ezp-25.html"><?php // echo zen_href_link(FILENAME_PRODUCTS_NEW); ?>
 
                     <?php echo "Zena's Story"; // CATEGORIES_BOX_HEADING_WHATS_NEW; ?>
                 </a>
             </li>
-            <li><a href="#"><?php // echo //zen_href_link(FILENAME_FEATURED_PRODUCTS); ?>
+            <li><a href="http://www.zpalette.studio/develop/behind-the-brand-ezp-26.html"><?php // echo //zen_href_link(FILENAME_FEATURED_PRODUCTS); ?>
                     <?php  // echo // CATEGORIES_BOX_HEADING_FEATURED_PRODUCTS; ?>
                     <?php echo  "Behind The Brand"; ?>
                 </a>
@@ -176,12 +176,12 @@
             <i class="fa fa-mail-forward fa-lg"></i><?php echo HEADER_TITLE_CONTACT_US; ?>
         </a>
         <ul class="">
-            <li><a href="#"><?php // echo zen_href_link(FILENAME_PRODUCTS_NEW); ?>
+            <li><a href="http://www.zpalette.studio/develop/faq-ezp-27.html"><?php // echo zen_href_link(FILENAME_PRODUCTS_NEW); ?>
 
                     <?php echo "FAQ"; // CATEGORIES_BOX_HEADING_WHATS_NEW; ?>
                 </a>
             </li>
-            <li><a href="#"><?php // echo //zen_href_link(FILENAME_FEATURED_PRODUCTS); ?>
+            <li><a href="http://www.zpalette.studio/develop/newsletter-ezp-22.html"><?php // echo //zen_href_link(FILENAME_FEATURED_PRODUCTS); ?>
                     <?php  // echo // CATEGORIES_BOX_HEADING_FEATURED_PRODUCTS; ?>
                     <?php echo  "Newsletter Signup"; ?>
                 </a>
@@ -208,7 +208,7 @@
                 </a>
             </li>
 
-            <li><a href="#"><?php // echo zen_href_link(FILENAME_SPECIALS); ?>
+            <li><a href="http://www.zpalette.studio/develop/careers-ezp-28.html"><?php // echo zen_href_link(FILENAME_SPECIALS); ?>
                     <?php // echo CATEGORIES_BOX_HEADING_SPECIALS; ?>
                     <?php echo "Career Opportunities"; ?>
                 </a>

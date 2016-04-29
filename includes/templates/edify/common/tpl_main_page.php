@@ -355,20 +355,23 @@
                                 <div class="custom-top-banner">
                                     <div class="custom-banner-image col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInUp" data-wow-duration="1s">
                                         <div class="top-banner">
-                                            <a href="<?php echo $banner1_link; ?>"><img alt="custom-banner-1" src="<?php echo $template->get_template_dir
+                                        <?php $banner1a_link ="http://www.zpalette.studio/develop/how-many-fit-ezp-24.html"; ?>
+                                            <a href="<?php echo $banner1a_link; ?>"><img alt="custom-banner-1" src="<?php echo $template->get_template_dir
                                                     ('',DIR_WS_TEMPLATE, $current_page_base,'images').'/banners/'.'HOW-MANY-FIT.jpg';?>" />
                                             </a>
                                         </div>
                                     </div>
                                     <div class="custom-banner-image col-lg-4  col-md-4  col-sm-4  col-xs-12  wow fadeInUp" data-wow-duration="1.5s">
                                         <div class="top-banner">
-                                            <a href="<?php echo $banner2_link; ?>"><img alt="custom-banner-2" src="<?php echo $template->get_template_dir
+                                          <?php $banner2a_link ="http://www.zpalette.studio/develop/video-ezp-19.html"; ?>
+                                            <a href="<?php echo $banner2a_link; ?>"><img alt="custom-banner-2" src="<?php echo $template->get_template_dir
                                                     ('',DIR_WS_TEMPLATE, $current_page_base,'images').'/banners/'.'videos.jpg';?>" /></a>
                                         </div>
                                     </div>
                                     <div class="custom-banner-image col-lg-4  col-md-4  col-sm-4  col-xs-12  wow fadeInUp" data-wow-duration="2s">
                                         <div class="top-banner">
-                                            <a href="<?php echo $banner3_link; ?>"><img alt="custom-banner-3" src="<?php echo $template->get_template_dir
+                                          <?php $banner3a_link ="http://www.zpalette.studio/develop/what-is-depotting-ezp-1.html"; ?>
+                                            <a href="<?php echo $banner3a_link; ?>"><img alt="custom-banner-3" src="<?php echo $template->get_template_dir
                                                     ('',DIR_WS_TEMPLATE, $current_page_base,'images').'/banners/'.'GET-THE-TOOLS2.jpg';?>" /></a>
                                         </div>
                                     </div>
@@ -384,19 +387,21 @@
                                 <div class="custom-top-banner">
                                     <div class="custom-banner-image col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInUp" data-wow-duration="1s">
                                         <div class="top-banner">
-                                            <a href="<?php echo $banner1_link; ?>"><img alt="custom-banner-1" src="<?php echo $template->get_template_dir
+                                            <?php $banner1b_link ="http://www.zpalette.studio/develop/how-to-depot-videos-ezp-9.html"; ?>
+                                            <a href="<?php echo $banner1b_link; ?>"><img alt="custom-banner-1" src="<?php echo $template->get_template_dir
                                                     ('',DIR_WS_TEMPLATE, $current_page_base,'images').'/banners/'.'GET-THE-TOOLS3.jpg';?>" /></a>
                                         </div>
                                     </div>
                                     <div class="custom-banner-image col-lg-4  col-md-4  col-sm-4  col-xs-12  wow fadeInUp" data-wow-duration="1.5s">
                                         <div class="top-banner">
-                                            <a href="<?php echo $banner2_link; ?>"><img alt="custom-banner-2" src="<?php echo $template->get_template_dir
+                                          <?php $banner2b_link ="http://www.zpalette.studio/develop/newsletter-ezp-22.html"; ?>
+                                            <a href="<?php echo $banner2b_link; ?>"><img alt="custom-banner-2" src="<?php echo $template->get_template_dir
                                                     ('',DIR_WS_TEMPLATE, $current_page_base,'images').'/banners/'.'JOIN-THE-CLUB.jpg';?>" /></a>
                                         </div>
                                     </div>
                                     <div class="custom-banner-image col-lg-4  col-md-4  col-sm-4  col-xs-12  wow fadeInUp" data-wow-duration="2s">
                                         <div class="top-banner">
-                                            <a href="<?php echo $banner3_link; ?>"><img alt="custom-banner-3" src="<?php echo $template->get_template_dir
+                                            <a href="<?php echo $banner3b_link; ?>"><img alt="custom-banner-3" src="<?php echo $template->get_template_dir
                                                     ('',DIR_WS_TEMPLATE, $current_page_base,'images').'/banners/'.'Shop-Collabs-EDITED-1.jpg';?>" /></a>
                                         </div>
                                     </div>

@@ -5284,7 +5284,7 @@ ul, ol {
 
 .slideshow-container, .main-breadcrumb {
 
-    background: url("../images/bgpatterns/overlay1.png") repeat scroll 0 0 #F5F5F5;
+    /*background: url("../images/bgpatterns/overlay1.png") repeat scroll 0 0 #F5F5F5;*/
 
 	box-shadow:0 5px 15px -15px inset;
 
@@ -6428,6 +6428,8 @@ ul.social_bookmarks .fa {
 
     font-size: 100%;
 
+	margin-top:50px;
+
 }
 
 .aboutus_address, .aboutus_mail, .aboutus_phone, .aboutus_fax, .aboutus_skype {
@@ -6661,7 +6663,7 @@ ul.social_bookmarks .fa {
 	display:none;
 
 
-	height: 7%;
+	height: 5%;
 }
 
 .sticky-header-wrapper .logo {
