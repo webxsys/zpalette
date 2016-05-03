@@ -572,7 +572,7 @@
 		  	$flag_disable_right = true;
 		}
 		?>  
-              
+        // @TODO : Narrow slideshow height
         <!-- Main Content Wrapper -->
         <div class="main-top">
             <div class="container">

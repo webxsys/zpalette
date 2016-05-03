@@ -48,12 +48,12 @@
                 <?php echo HEADER_TITLE_CONTACT_US; ?>
             </a>
         </li>
-        <li class="navbar-right">
-            <a class="shopping_cart_link" href="<?php echo zen_href_link(FILENAME_SHOPPING_CART); ?>">
-                <?php echo BOX_HEADING_SHOPPING_CART; ?>&nbsp;&nbsp;
-                <?php echo $currencies->format($_SESSION['cart']->show_total());?>
+      <!--  <li class="navbar-right">
+            <a class="shopping_cart_link" href="<?php /*echo zen_href_link(FILENAME_SHOPPING_CART); */?>">
+                <?php /*echo BOX_HEADING_SHOPPING_CART; */?>&nbsp;&nbsp;
+                <?php /*echo $currencies->format($_SESSION['cart']->show_total());*/?>
             </a>
-        </li>
+        </li>-->
     </ul>
     <!-- end dropMenuWrapper-->
     <div class="clearBoth"></div>

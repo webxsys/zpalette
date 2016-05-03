@@ -140,6 +140,13 @@ if (!isset($flag_disable_header) || !$flag_disable_header) {
                               	</li>
                                 <?php }
                                 } ?>
+                                 <li class="navbar-right">
+        <a class="shopping_cart_link" href="<?php /*echo zen_href_link(FILENAME_SHOPPING_CART); */?>">
+            <i class="fa fa-shopping-cart fa-lg"></i>
+            <?php echo BOX_HEADING_SHOPPING_CART; ?>&nbsp;&nbsp;
+            <?php echo $currencies->format($_SESSION['cart']->show_total());?>
+        </a>
+    </li>
                                 <li class="arrow-down last hidden-xs">
                                    	<a data-toggle="tooltip" data-original-title="Quick Contact" href="#">
                                    	<i class="fa fa-angle-down"></i></a>

@@ -3,7 +3,8 @@
         <!-- a href="<?php // echo zen_href_link(FILENAME_DEFAULT); ?>">
         <i class="fa fa-home fa-lg"></i><?php // echo  HEADER_TITLE_CATALOG; ?></a>
     </li -->
-    
+
+    <?php // @TDODO Need to center main navigation ?>
     <!--Categories Link in Menu-->
     <?php 
         $cat_query = "select * from ".DB_PREFIX."categories where categories_status='1' ORDER BY RAND() LIMIT 1";
@@ -215,11 +216,11 @@
             </li>
         </ul>
     </li>
-    <li class="navbar-right">
-        <a class="shopping_cart_link" href="<?php echo zen_href_link(FILENAME_SHOPPING_CART); ?>">
+<!--    <li class="navbar-right">
+        <a class="shopping_cart_link" href="<?php /*echo zen_href_link(FILENAME_SHOPPING_CART); */?>">
             <i class="fa fa-shopping-cart fa-lg"></i>
-            <?php echo BOX_HEADING_SHOPPING_CART; ?>&nbsp;&nbsp;
-            <?php echo $currencies->format($_SESSION['cart']->show_total());?>
+            <?php /*echo BOX_HEADING_SHOPPING_CART; */?>&nbsp;&nbsp;
+            <?php /*echo $currencies->format($_SESSION['cart']->show_total());*/?>
         </a>
-    </li>
+    </li>-->
 </ul>
