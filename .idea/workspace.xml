@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2542e2f1-5e3f-47af-b24d-b231a9daf535" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/css/howmanyfit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/howmanyfit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/howmanyfit.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/js/howmanyfit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/js/howmanyfit_bo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php" afterPath="$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" afterPath="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" />
+    <list id="2542e2f1-5e3f-47af-b24d-b231a9daf535" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+    <list default="true" id="2eab969b-efb7-45b7-a256-b392b132eecf" name="product image sizes" comment="product image sizes" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,12 +53,39 @@
     <favorites_list name="zp" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="tpl_main_page.php" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="define_header_main_menu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="165" column="17" selection-start-line="165" selection-start-column="17" selection-end-line="165" selection-end-column="17" />
+              <folding>
+                <marker date="1462083350978" expanded="true" signature="344:433" placeholder="select * fro..${DB_PREFIX}categories..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="media_manager.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/modules/media_manager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="7" />
+              <folding>
+                <marker date="1461920391620" expanded="true" signature="446:589" placeholder="select media..${TABLE_MEDIA_TO_PRODUCTS}..." />
+                <marker date="1461920391620" expanded="true" signature="943:1102" placeholder="select media..${TABLE_MEDIA_MANAGER}..." />
+                <marker date="1461920391620" expanded="true" signature="1675:1874" placeholder="select media..${TABLE_MEDIA_CLIPS}..." />
+                <marker date="1461920391620" expanded="true" signature="2313:2465" placeholder="select type_..${TABLE_MEDIA_TYPES}..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tpl_main_page.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.538462">
-              <caret line="396" column="122" selection-start-line="396" selection-start-column="122" selection-end-line="396" selection-end-column="122" />
+            <state vertical-scroll-proportion="0.12315271">
+              <caret line="535" column="34" selection-start-line="535" selection-start-column="34" selection-end-line="535" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -81,24 +94,22 @@
       <file leaf-file-name="templatecss.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/templatecss.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.54717">
-              <caret line="6430" column="20" selection-start-line="6430" selection-start-column="20" selection-end-line="6430" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8046" column="11" selection-start-line="8046" selection-start-column="11" selection-end-line="8046" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="palettep_zenacart.edify" pinned="false" current-in-tab="true">
-        <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.edify">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-          <provider editor-type-id="text-editor">
+      <file leaf-file-name="default_filter.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/index_filters/default_filter.php">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <folding>
+                <marker date="1461920391400" expanded="true" signature="8371:8954" placeholder="select disti..${TABLE_PRODUCTS}..." />
+                <marker date="1461920391400" expanded="true" signature="8994:9419" placeholder="select disti..${TABLE_PRODUCTS}..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,42 +117,8 @@
       <file leaf-file-name="tpl_header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.269231">
-              <caret line="218" column="18" selection-start-line="218" selection-start-column="18" selection-end-line="218" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tpl_drop_menu_mega.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_drop_menu_mega.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.692307">
-              <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-              <folding>
-                <marker date="1461920392117" expanded="true" signature="1837:1926" placeholder="select * fro..${DB_PREFIX}categories..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="define_header_main_menu.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.769231">
-              <caret line="210" column="79" selection-start-line="210" selection-start-column="79" selection-end-line="210" selection-end-column="79" />
-              <folding>
-                <marker date="1461949062365" expanded="true" signature="294:383" placeholder="select * fro..${DB_PREFIX}categories..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tpl_drop_menu.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_drop_menu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="145" column="50" selection-start-line="145" selection-start-column="50" selection-end-line="145" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -153,7 +130,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="flatmaster" />
       </map>
     </option>
   </component>
@@ -161,9 +138,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/howmanyfit/howmanyfit.tpl" />
-        <option value="$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php" />
+        <option value="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_mega_menu.php" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/common/tpl_header.php" />
         <option value="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php" />
         <option value="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php" />
       </list>
     </option>
   </component>
@@ -172,12 +152,15 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="22" />
-    <option name="width" value="1616" />
-    <option name="height" value="1186" />
+    <option name="x" value="75" />
+    <option name="y" value="66" />
+    <option name="width" value="1444" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -204,6 +187,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -298,13 +282,98 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zpalette" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slideshow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zpalette" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="banners" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zpalette" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -316,6 +385,8 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -333,6 +404,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -343,48 +419,172 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
+    <task id="Default" summary="Default task">
+      <branch name="flatmaster" repository="C:\xampp\htdocs\zpalette" />
       <changelist id="2542e2f1-5e3f-47af-b24d-b231a9daf535" name="Default" comment="" />
       <created>1461923498301</created>
       <option name="number" value="Default" />
-      <updated>1461923498301</updated>
+      <updated>1461954948693</updated>
     </task>
-    <servers />
+    <task id="LOCAL-00001" summary="dev">
+      <created>1461951760061</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1461951760061</updated>
+    </task>
+    <task active="true" id="LOCAL-00002" summary="product image sizes">
+      <branch name="flatmaster" repository="C:\xampp\htdocs\zpalette" original="true" />
+      <branch name="product-image" repository="C:\xampp\htdocs\zpalette" />
+      <changelist id="2eab969b-efb7-45b7-a256-b392b132eecf" name="product image sizes" comment="" />
+      <created>1461954944622</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1461954948785</updated>
+    </task>
+    <task id="LOCAL-00003" summary="product image sizes">
+      <created>1462282038722</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1462282038723</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers>
+      <GitHub shared="false" url="https://github.com">
+        <option name="assignedIssuesOnly" value="false" />
+        <commitMessageFormat>{id} {summary}</commitMessageFormat>
+        <password />
+        <token>df9fdf9cdf9bdf9fdfccdf9adfcfdf98dfc8df9adf93df9adf9cdf9cdfcedfcbdf93dfcbdf92df98df9ddf9ddfcbdf99df9edfc8df98dfc8dfc8df9adf98dfccdf9fdf9adf93df9ddf9adf9fdfccdf9f</token>
+        <option name="loginAnonymously" value="false" />
+        <option name="preferredCloseTaskState" />
+        <option name="preferredOpenTaskState" />
+        <option name="repoAuthor" value="webxsys" />
+        <option name="repoName" value="zpalette" />
+        <option name="shouldFormatCommitMessage" value="false" />
+        <option name="useHttpAuthentication" value="false" />
+        <option name="useProxy" value="false" />
+        <option name="user" value="" />
+        <username />
+      </GitHub>
+    </servers>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1616" height="1186" extended-state="6" />
+    <frame x="75" y="66" width="1444" height="1047" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24033505" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1651671" sideWeight="0.5041225" order="0" side_tool="true" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2403599" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28501946" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2003891" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23916185" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26734105" sideWeight="0.5041225" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976654" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25421822" sideWeight="0.5086705" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19219653" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25421822" sideWeight="0.4913295" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.115335055" sideWeight="0.4958775" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18385214" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22947131" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dev" />
+    <MESSAGE value="product image sizes" />
+    <option name="LAST_COMMIT_MESSAGE" value="product image sizes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="165" column="17" selection-start-line="165" selection-start-column="17" selection-end-line="165" selection-end-column="17" />
+          <folding>
+            <marker date="1462083350978" expanded="true" signature="344:433" placeholder="select * fro..${DB_PREFIX}categories..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/modules/media_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="7" />
+          <folding>
+            <marker date="1461920391620" expanded="true" signature="446:589" placeholder="select media..${TABLE_MEDIA_TO_PRODUCTS}..." />
+            <marker date="1461920391620" expanded="true" signature="943:1102" placeholder="select media..${TABLE_MEDIA_MANAGER}..." />
+            <marker date="1461920391620" expanded="true" signature="1675:1874" placeholder="select media..${TABLE_MEDIA_CLIPS}..." />
+            <marker date="1461920391620" expanded="true" signature="2313:2465" placeholder="select type_..${TABLE_MEDIA_TYPES}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/templatecss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8046" column="11" selection-start-line="8046" selection-start-column="11" selection-end-line="8046" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/index_filters/default_filter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <marker date="1461920391400" expanded="true" signature="8371:8954" placeholder="select disti..${TABLE_PRODUCTS}..." />
+            <marker date="1461920391400" expanded="true" signature="8994:9419" placeholder="select disti..${TABLE_PRODUCTS}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="145" column="50" selection-start-line="145" selection-start-column="50" selection-end-line="145" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/searches.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.576923">
@@ -397,18 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#div#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#div#3;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -416,110 +604,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1456236085000" expanded="true" signature="1123:1307" placeholder="CREATE TABLE..${_DB_PREFIX_}..." />
-            <marker date="1456236085000" expanded="true" signature="1338:1559" placeholder="CREATE TABLE..${_DB_PREFIX_}..." />
-            <marker date="1456236085000" expanded="true" signature="1590:1936" placeholder="CREATE TABLE..${_DB_PREFIX_}..." />
-            <marker date="1456236085000" expanded="true" signature="2184:2230" placeholder="DROP TABLE `..." />
-            <marker date="1456236085000" expanded="true" signature="2265:2312" placeholder="DROP TABLE `..." />
-            <marker date="1456236085000" expanded="true" signature="2347:2394" placeholder="DROP TABLE `..." />
-            <marker date="1456236085000" expanded="true" signature="3062:3256" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="3075:3237" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="3086:3223" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="3250:3256" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="3330:3751" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="3923:3980" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="4059:4116" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="4835:5001" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="4849:4980" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="4861:4965" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="4994:5001" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="5081:5424" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="5608:5668" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="5777:5817" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="5809:5817" placeholder="..." />
-            <marker date="1456236085000" expanded="false" signature="6630:6640" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="6641:6771" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="6719:6771" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="6765:6771" placeholder="..." />
-            <marker date="1456236085000" expanded="false" signature="7024:7034" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7035:7243" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7115:7225" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7163:7214" placeholder="..." />
-            <marker date="1456236085000" expanded="false" signature="7291:7301" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7302:8027" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7382:7448" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7527:7591" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7667:7732" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7809:7875" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7951:8016" placeholder="..." />
-            <marker date="1456236085000" expanded="false" signature="8381:8393" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="9060:9448" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="9075:9425" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="9088:9409" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="9440:9448" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="9542:10192" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="12091:12118" placeholder="SELECT MAX(i..${_DB_PREFIX_}..." />
-            <marker date="1456236085000" expanded="true" signature="12794:12905" placeholder="SELECT id_br..${_DB_PREFIX_}..." />
-            <marker date="1456236085000" expanded="true" signature="14723:14740" placeholder="SELECT * FRO..${_DB_PREFIX_}..." />
-            <marker date="1456236085000" expanded="true" signature="15004:15021" placeholder="SELECT * FRO..${_DB_PREFIX_}..." />
-            <marker date="1456236085000" expanded="true" signature="15336:15353" placeholder="SELECT * FRO..${_DB_PREFIX_}..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.configuration">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.configuration_group">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.featured">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.538462">
-          <caret line="396" column="122" selection-start-line="396" selection-start-column="122" selection-end-line="396" selection-end-column="122" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/templatecss.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.54717">
-          <caret line="6430" column="20" selection-start-line="6430" selection-start-column="20" selection-end-line="6430" selection-end-column="20" />
-          <folding />
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -527,47 +647,138 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.769231">
-          <caret line="210" column="79" selection-start-line="210" selection-start-column="79" selection-end-line="210" selection-end-column="79" />
-          <folding>
-            <marker date="1461949062365" expanded="true" signature="294:383" placeholder="select * fro..${DB_PREFIX}categories..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_drop_menu_mega.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.692307">
+        <state vertical-scroll-proportion="0.5093633">
           <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.edify">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/html_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8461537">
+          <caret line="78" column="30" selection-start-line="78" selection-start-column="30" selection-end-line="78" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/define_header_main_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/define_header_main_mega_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/define_main_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/define_site_map.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_mega_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.923077">
+          <caret line="51" column="3" selection-start-line="50" selection-start-column="0" selection-end-line="55" selection-end-column="16" />
           <folding>
-            <marker date="1461920392117" expanded="true" signature="1837:1926" placeholder="select * fro..${DB_PREFIX}categories..." />
+            <marker date="1462051658949" expanded="true" signature="1510:1599" placeholder="select * fro..${DB_PREFIX}categories..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.075472">
+          <caret line="201" column="47" selection-start-line="201" selection-start-column="47" selection-end-line="201" selection-end-column="47" />
+          <folding>
+            <marker date="1462060136999" expanded="true" signature="287:301" placeholder="SELECT * FRO..${DB_PREFIX}..." />
+            <marker date="1462060136999" expanded="true" signature="3277:3291" placeholder="SELECT * fro..${DB_PREFIX}..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.269231">
-          <caret line="218" column="18" selection-start-line="218" selection-start-column="18" selection-end-line="218" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="145" column="50" selection-start-line="145" selection-start-column="50" selection-end-line="145" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.edify">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
+    <entry file="file://$PROJECT_DIR$/includes/index_filters/default_filter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <marker date="1461920391400" expanded="true" signature="8371:8954" placeholder="select disti..${TABLE_PRODUCTS}..." />
+            <marker date="1461920391400" expanded="true" signature="8994:9419" placeholder="select disti..${TABLE_PRODUCTS}..." />
+          </folding>
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/modules/media_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="7" />
+          <folding>
+            <marker date="1461920391620" expanded="true" signature="446:589" placeholder="select media..${TABLE_MEDIA_TO_PRODUCTS}..." />
+            <marker date="1461920391620" expanded="true" signature="943:1102" placeholder="select media..${TABLE_MEDIA_MANAGER}..." />
+            <marker date="1461920391620" expanded="true" signature="1675:1874" placeholder="select media..${TABLE_MEDIA_CLIPS}..." />
+            <marker date="1461920391620" expanded="true" signature="2313:2465" placeholder="select type_..${TABLE_MEDIA_TYPES}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="165" column="17" selection-start-line="165" selection-start-column="17" selection-end-line="165" selection-end-column="17" />
+          <folding>
+            <marker date="1462083350978" expanded="true" signature="344:433" placeholder="select * fro..${DB_PREFIX}categories..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/templatecss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8046" column="11" selection-start-line="8046" selection-start-column="11" selection-end-line="8046" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12315271">
+          <caret line="535" column="34" selection-start-line="535" selection-start-column="34" selection-end-line="535" selection-end-column="34" />
           <folding />
         </state>
       </provider>
