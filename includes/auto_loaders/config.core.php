@@ -32,6 +32,7 @@ if (!defined('USE_PCONNECT')) define('USE_PCONNECT', 'false');
  * require(DIR_WS_CLASSES . 'breadcrumb.php');
  * require(DIR_WS_CLASSES . 'language.php');
  *
+ *
  */
   $autoLoadConfig[0][] = array('autoType'=>'include',
                                'loadFile'=> DIR_WS_INCLUDES . 'version.php');
@@ -82,6 +83,14 @@ if (!defined('USE_PCONNECT')) define('USE_PCONNECT', 'false');
                                'className'=>'zcPassword',
                                'objectName'=>'zcPassword');
 
+  // db
+  $autoLoadConfig[0][] = array('autoType'=>'class',
+                               'loadFile'=>'howManyFit.php');
+
+  $autoLoadConfig[0][] = array('autoType'=>'classInstantiate',
+                               'className'=>'howManyFit',
+                               'objectName'=>'howManyFit');
+  // db
 
 
 /**

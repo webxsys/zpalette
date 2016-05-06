@@ -355,7 +355,7 @@
                                 <div class="custom-top-banner">
                                     <div class="custom-banner-image col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInUp" data-wow-duration="1s">
                                         <div class="top-banner">
-                                        <?php $banner1a_link ="http://www.zpalette.studio/develop/how-many-fit-ezp-24.html"; ?>
+                                        <?php $banner1a_link ="http://zpalette.studio/develop/index.php?main_page=howManyFit"; ?>
                                             <a href="<?php echo $banner1a_link; ?>"><img alt="custom-banner-1" src="<?php echo $template->get_template_dir
                                                     ('',DIR_WS_TEMPLATE, $current_page_base,'images').'/banners/'.'HOW-MANY-FIT.jpg';?>" />
                                             </a>
@@ -700,6 +700,19 @@
     	</div>
     </div>
 	<?php } ?>
+
+
+	<div style="width:100%;margin:auto 0;padding-bottom:80px;">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><span style="color: #000000; font-size: 24px;">
+			<strong><span style="font-family: Lato;">AS SEEN IN</span></strong></span></p>
+                <p style="width:100%;margin:auto 0;text-align:center;"><a href="#">
+                <img class="aligncenter size-large wp-image-107" src="http://www.zpalette.studio/develop/includes/templates/edify/images/asseenin-1024x212.jpg" alt="asseenin" width="980" height="203" /></a></p>
+
+		</div>
+	</div>
+
+
     <!-- Main Content Wrapper Ends -->
     <!-- Code to Display Home Page Version 2 Ends -->
 <?php
