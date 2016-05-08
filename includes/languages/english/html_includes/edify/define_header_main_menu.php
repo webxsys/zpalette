@@ -164,7 +164,7 @@
                     <?php echo  "Behind The Brand"; ?>
                 </a>
             </li>
-            <li><a href="#"><?php // echo zen_href_link(FILENAME_SPECIALS); ?>
+            <li><a href="http://www.zpalette.studio/develop/press-mentions-ezp-30.html"><?php // echo zen_href_link(FILENAME_SPECIALS); ?>
                     <?php // echo CATEGORIES_BOX_HEADING_SPECIALS; ?>
                     <?php echo "Press Mentions"; ?>
                 </a>
@@ -187,23 +187,23 @@
                     <?php echo  "Newsletter Signup"; ?>
                 </a>
             </li>
-            <li><a href="#"><?php // echo zen_href_link(FILENAME_SPECIALS); ?>
+            <li><a href="http://www.zpalette.studio/develop/contact_us&pg=contact_us.html?subject=1"><?php // echo zen_href_link(FILENAME_SPECIALS); ?>
                     <?php // echo CATEGORIES_BOX_HEADING_SPECIALS; ?>
                     <?php echo "Customer Service"; ?>
                 </a>
             </li>
-            <li><a href="#"><?php // echo zen_href_link(FILENAME_PRODUCTS_NEW); ?>
+            <li><a href="http://www.zpalette.studio/develop/contact_us&pg=contact_us.html?subject=2"><?php // echo zen_href_link(FILENAME_PRODUCTS_NEW); ?>
                     <?php echo "Wholesale Inquires
                     "; // CATEGORIES_BOX_HEADING_WHATS_NEW; ?>
 
                 </a>
             </li>
-            <li><a href="#"><?php // echo //zen_href_link(FILENAME_FEATURED_PRODUCTS); ?>
+            <li><a href="http://www.zpalette.studio/develop/contact_us&pg=contact_us.html"><?php // echo //zen_href_link(FILENAME_FEATURED_PRODUCTS); ?>
                     <?php  // echo // CATEGORIES_BOX_HEADING_FEATURED_PRODUCTS; ?>
                     <?php echo  "Press Inquires"; ?>
                 </a>
             </li>
-            <li><a href="#"><?php // echo zen_href_link(FILENAME_SPECIALS); ?>
+            <li><a href="http://www.zpalette.studio/develop/contact_us&pg=contact_us.html"><?php // echo zen_href_link(FILENAME_SPECIALS); ?>
                     <?php // echo CATEGORIES_BOX_HEADING_SPECIALS; ?>
                     <?php echo "Private Label Inquires"; ?>
                 </a>
