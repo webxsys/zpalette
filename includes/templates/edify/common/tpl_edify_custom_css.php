@@ -192,8 +192,12 @@ a:hover {
 }
 /*Nav*/
 .nav-maincontainer #nav {
-    background: none repeat scroll 0 0 <?php echo $theme_color[1]; ?>;
-r1edsza}
+	background: none repeat scroll 0 0 <?php echo $theme_color[1]; ?>;
+	border-radius:3px;
+	/*display:inline-block;*/
+	width: 100%;
+}
+
 /* Menu Colors */
 .header-container #nav > li.tab_active > a, .header-container #nav > li:hover > a, .header-container #nav > li > a:active, .header-container .nav > li > a:hover, .header-container .nav > li > a:focus {
 	background-color: <?php echo $theme_color[0]; ?>;

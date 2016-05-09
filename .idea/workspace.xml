@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eab969b-efb7-45b7-a256-b392b132eecf" name="product image sizes" comment="how to">
+    <list default="true" id="2eab969b-efb7-45b7-a256-b392b132eecf" name="product image sizes" comment="faq pages links">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_contact_us_default.php" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_contact_us_default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php" afterPath="$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/css/menumaker.css" afterPath="$PROJECT_DIR$/includes/templates/edify/css/menumaker.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" afterPath="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/jscript/edify_homepage_1.js" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/edify_homepage_1.js" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,24 +52,6 @@
         <option name="myItemId" value="MySQL - palettep_zenacart@216.157.102.137" />
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="palettep_zenacart" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="howmanyfit_qties" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="MySQL - palettep_zenacart@216.157.102.137" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
     </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
@@ -73,77 +60,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header_php.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/modules/pages/howManyFit/header_php.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tpl_contact_us_default.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/templates/edify/templates/tpl_contact_us_default.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="121" column="25" selection-start-line="121" selection-start-column="25" selection-end-line="121" selection-end-column="25" />
-              <folding>
-                <marker date="1462586812472" expanded="true" signature="8092:8156" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="define_header_main_mega_menu.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_mega_menu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-              <folding>
-                <marker date="1462051658949" expanded="true" signature="1510:1599" placeholder="select * fro..${DB_PREFIX}categories..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="define_header_main_menu.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="define_header_main_menu.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.4241486">
-              <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.153846">
+              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
               <folding>
-                <marker date="1462595306751" expanded="true" signature="344:433" placeholder="select * fro..${DB_PREFIX}categories..." />
+                <element signature="e#1605#1646#0#PHP" expanded="true" />
+                <marker date="1462727932447" expanded="true" signature="351:440" placeholder="select * fro..${DB_PREFIX}categories..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="english.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/languages/edify/english.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
+      <file leaf-file-name="palettep_zenacart.categories" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.categories">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact_us.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/languages/english/edify/contact_us.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding>
-                <element signature="e#6#294#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="define_contact_us.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/define_contact_us.php">
-          <provider selected="true" editor-type-id="text-editor">
+          <provider editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
@@ -151,11 +88,96 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tpl_header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_header.php">
-          <provider selected="true" editor-type-id="text-editor">
+      <file leaf-file-name="palettep_zenacart.meta_tags_categories_description" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.meta_tags_categories_description">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+          <provider editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="225" column="29" selection-start-line="225" selection-start-column="29" selection-end-line="225" selection-end-column="29" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="palettep_zenacart.categories_description" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.categories_description">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="templatecss.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/templatecss.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.150944">
+              <caret line="6678" column="17" selection-start-line="6678" selection-start-column="17" selection-end-line="6678" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myDEBUG-1462562328-922126.log" pinned="true" current-in-tab="false">
+        <entry file="REMOTE_DEPLOYMENT_FS://&lt;e52d3d3c-1f72-4b90-841f-aab1ebfed1bb&gt;/develop/logs/myDEBUG-1462562328-922126.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myDEBUG-1462527564-886522.log" pinned="true" current-in-tab="false">
+        <entry file="REMOTE_DEPLOYMENT_FS://&lt;e52d3d3c-1f72-4b90-841f-aab1ebfed1bb&gt;/develop/logs/myDEBUG-1462527564-886522.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="palettep_zenacart.configuration" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.configuration">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edify_homepage_1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/includes/templates/edify/jscript/edify_homepage_1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8741135">
+              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menumaker.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/menumaker.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3076923">
+              <caret line="95" column="27" selection-start-line="95" selection-start-column="27" selection-end-line="95" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -176,8 +198,6 @@
       <list>
         <option value="$PROJECT_DIR$/howmanyfit/howmanyfit.tpl" />
         <option value="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_mega_menu.php" />
-        <option value="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" />
-        <option value="$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php" />
         <option value="$PROJECT_DIR$/includes/classes/order.php" />
         <option value="$PROJECT_DIR$/includes/auto_loaders/config.core.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/08f56470-8a28-4682-a0dc-1c63a0b44b05/console_1.sql" />
@@ -190,7 +210,11 @@
         <option value="$PROJECT_DIR$/includes/templates/edify/jscript/howmanyfit.js" />
         <option value="$PROJECT_DIR$/includes/modules/pages/howManyFit/header_php.php" />
         <option value="$PROJECT_DIR$/includes/templates/edify/templates/tpl_contact_us_default.php" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/css/menumaker.css" />
         <option value="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/jscript/edify_homepage_1.js" />
       </list>
     </option>
   </component>
@@ -204,10 +228,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
-    <option name="y" value="68" />
-    <option name="width" value="1585" />
-    <option name="height" value="1115" />
+    <option name="x" value="96" />
+    <option name="y" value="134" />
+    <option name="width" value="1505" />
+    <option name="height" value="966" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -328,47 +352,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zpalette" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="languages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zpalette" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="languages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edify" />
+              <option name="myItemId" value="jscript" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -469,7 +453,13 @@
       <option name="project" value="LOCAL" />
       <updated>1462568763285</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="faq pages links">
+      <created>1462702182244</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1462702182244</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers>
       <GitHub shared="false" url="https://github.com">
         <option name="assignedIssuesOnly" value="false" />
@@ -499,27 +489,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="68" width="1585" height="1115" extended-state="0" />
+    <frame x="96" y="134" width="1505" height="966" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19601542" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2242623" sideWeight="0.69163424" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22422145" sideWeight="0.69163424" order="0" side_tool="true" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976654" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21259843" sideWeight="0.50289017" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21915168" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26854753" sideWeight="0.48586118" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2484429" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2987805" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21036585" sideWeight="0.49710983" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26732674" sideWeight="0.48586118" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2062982" sideWeight="0.30836576" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21107627" sideWeight="0.49710983" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29885057" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
@@ -539,7 +529,8 @@
     <MESSAGE value="dev" />
     <MESSAGE value="product image sizes" />
     <MESSAGE value="how to" />
-    <option name="LAST_COMMIT_MESSAGE" value="how to" />
+    <MESSAGE value="faq pages links" />
+    <option name="LAST_COMMIT_MESSAGE" value="faq pages links" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -548,59 +539,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/includes/modules/meta_tags.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="18.307692">
-          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/modules/pages/featured_products/header_php.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/init_includes/init_db_config_read.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/init_includes/init_file_db_names.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/templates/edify/templates/tpl_specials_default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/init_includes/init_database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/classes/db/mysql/query_factory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1461920391154" expanded="true" signature="14090:14122" placeholder="INSERT INTO ${$tableName}..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/classes/db/mysql/define_queries.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -671,13 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/templatecss.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4989733">
-          <caret line="4580" column="4" selection-start-line="4580" selection-start-column="4" selection-end-line="4580" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.edify">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -732,18 +663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.ezpages">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.59856266">
@@ -755,6 +674,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.3911704">
           <caret line="73" column="15" selection-start-line="73" selection-start-column="15" selection-end-line="73" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -840,6 +760,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -847,6 +768,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="104" selection-start-line="12" selection-start-column="104" selection-end-line="12" selection-end-column="104" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -866,7 +788,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/modules/pages/howManyFit/header_php.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-11.115385">
           <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
           <folding />
         </state>
@@ -884,6 +806,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.8846154">
           <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+          <folding>
+            <marker date="1461920392117" expanded="true" signature="1837:1926" placeholder="select * fro..${DB_PREFIX}categories..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -892,16 +817,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/languages/english/edify/contact_us.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="e#6#294#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -930,9 +845,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.ezpages">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/languages/english/edify/contact_us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#294#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7169812">
+          <caret line="196" column="27" selection-start-line="196" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+          <folding>
+            <marker date="1462721591433" expanded="true" signature="287:301" placeholder="SELECT * FRO..${DB_PREFIX}..." />
+            <marker date="1462721591433" expanded="true" signature="3277:3291" placeholder="SELECT * fro..${DB_PREFIX}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_mega_menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-0.65384614">
           <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
           <folding>
             <marker date="1462051658949" expanded="true" signature="1510:1599" placeholder="select * fro..${DB_PREFIX}categories..." />
@@ -940,13 +889,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/menumaker.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923">
+          <caret line="95" column="27" selection-start-line="95" selection-start-column="27" selection-end-line="95" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4241486">
-          <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+        <state vertical-scroll-proportion="-9.153846">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
           <folding>
-            <marker date="1462595306751" expanded="true" signature="344:433" placeholder="select * fro..${DB_PREFIX}categories..." />
+            <element signature="e#1605#1646#0#PHP" expanded="true" />
+            <marker date="1462727932447" expanded="true" signature="351:440" placeholder="select * fro..${DB_PREFIX}categories..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.categories_description">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.categories">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.meta_tags_categories_description">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/templatecss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.150944">
+          <caret line="6678" column="17" selection-start-line="6678" selection-start-column="17" selection-end-line="6678" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.configuration">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/jscript/edify_homepage_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8741135">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>

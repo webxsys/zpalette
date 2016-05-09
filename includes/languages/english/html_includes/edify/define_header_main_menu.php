@@ -1,7 +1,7 @@
 <ul id="nav" class="nav">
     <!--li id='home' -->
         <!-- a href="<?php // echo zen_href_link(FILENAME_DEFAULT); ?>">
-        <i class="fa fa-home fa-lg"></i><?php // echo  HEADER_TITLE_CATALOG; ?></a>
+        <!-- i class="fa fa-home fa-lg"></i --><?php // echo  HEADER_TITLE_CATALOG; ?></a>
     </li -->
 
     <?php // @TDODO Need to center main navigation ?>
@@ -13,8 +13,8 @@
     ?>
     
     <li id='categories'>
-        <a href="#">
-        <i class="fa fa-inbox fa-lg"></i><?php echo HEADER_TITLE_CATEGORIES; ?>
+        <a href="http://www.zpalette.studio/develop/products_all.html">
+        <!-- i class="fa fa-inbox fa-lg"></i --><?php echo HEADER_TITLE_CATEGORIES; ?>
         </a>
     <?php			
         // load the UL-generator class and produce the menu list dynamically from there
@@ -39,51 +39,51 @@
     //     $manufacturers_id=$man->fields['manufacturers_id'];
     ?>
     
-   <!-- <li id="products">
+   <li id="products">
         <a href="#">
-            <i class="fa fa-map-marker fa-lg"></i><?php /*echo "WHERE TO BUY"; */?>
+<!--            <i class="fa fa-map-marker fa-lg"></i>--><?php echo "WHERE TO BUY";?>
         </a>
             <ul class="">
                 <li><a href="#"><?php /*// echo zen_href_link(FILENAME_PRODUCTS_NEW); */?>
 
-                        <?php /*echo "USA"; // CATEGORIES_BOX_HEADING_WHATS_NEW; */?>
+                        <?php echo "USA"; // CATEGORIES_BOX_HEADING_WHATS_NEW; */?>
                     </a>
                 </li>
-                <li><a href="<?php /*echo zen_href_link(FILENAME_SHOP_INTERNATIONAL); */?>">
+                <li><a href="<?php echo zen_href_link(FILENAME_SHOP_INTERNATIONAL); ?>">
                         <?php /* // echo // CATEGORIES_BOX_HEADING_FEATURED_PRODUCTS; */?>
-                    <?php /*echo  "International"; */?>
+                    <?php echo  "International"; ?>
                     </a>
                 </li>
-                <li><a href="<?php /*echo zen_href_link(FILENAME_SHOP_ONLINE); */?>">
+                <li><a href="<?php echo zen_href_link(FILENAME_SHOP_ONLINE); ?>">
                         <?php /*// echo CATEGORIES_BOX_HEADING_SPECIALS; */?>
-                    <?php /*echo "Online"; */?>
+                    <?php echo "Online"; ?>
                     </a>
                 </li>
-                <li><a href="<?php /*echo zen_href_link(FILENAME_AMAZON_RETAILERS); */?>">
+                <li><a href="<?php echo zen_href_link(FILENAME_AMAZON_RETAILERS); ?>">
                         <?php /*// echo CATEGORIES_BOX_HEADING_SPECIALS; */?>
-                        <?php /*echo "Authorized Amazon Retailers"; */?>
+                        <?php echo "Authorized Amazon Retailers"; ?>
                     </a>
                 </li>
             </ul>
-    </li>-->
-   <!-- <li id="brands">
+    </li>
+   <li id="brands">
         <a href="#">
-        <i class="fa fa-leaf fa-lg"></i><?php /*echo "EXPERIENCE"; */?>
+<!--        <i class="fa fa-leaf fa-lg"></i>--><?php echo "EXPERIENCE"; ?>
         </a>
                 <ul class="">
-                    <li><a href="<?php /*echo zen_href_link(FILENAME_VIDEO); */?>">
-                            <?php /*echo "Video"; // CATEGORIES_BOX_HEADING_WHATS_NEW; */?>
+                    <li><a href="<?php echo zen_href_link(FILENAME_VIDEO); ?>">
+                            <?php echo "Video"; // CATEGORIES_BOX_HEADING_WHATS_NEW; */?>
                         </a>
                     </li>
-                    <li><a href="<?php /*echo zen_href_link(FILENAME_WONDERLAND_STORY); */?>">
-                            <?php /*echo  "Wonderland Story"; */?>
+                    <li><a href="<?php echo zen_href_link(FILENAME_WONDERLAND_STORY); ?>">
+                            <?php echo  "Wonderland Story"; ?>
                         </a>
                     </li>
-                    <li><a href="<?php /*echo zen_href_link(FILENAME_CRYSTAL_Z); */?>">
-                            <?php /*echo "Crystal Z Palette"; */?>
+                    <li><a href="<?php echo zen_href_link(FILENAME_CRYSTAL_Z); ?>">
+                            <?php echo "Crystal Z Palette"; ?>
                         </a>
                     </li>
-                   </ul>-->
+                   </ul>
                 <?php
                   // Omit from man nav - db - 03.23.17
                   /*
@@ -102,13 +102,13 @@
                                     <?php echo $manufacturers_name; ?></a>			
                                 </li>
                                 <?php 
-                             }
+         -->                    }
                                 $manufacturers->MoveNext();
                         }
                    */
                 //
                 ?>
-<!--      </li>-->
+      </li>
     <!--Manufacturers Link in Menu-->
     
     <!--Display the EZ Pages link in Menu. Uncomment if needed. -->
@@ -116,7 +116,7 @@
     EXCLUDE_ADMIN_IP_FOR_MAINTENANCE, $_SERVER['REMOTE_ADDR'])))) { ?>
     <li id='ezpages' class="<?php if($pg=='ezpages') { echo "tab_active";}?>">
         <a href="#">
-            <i class="fa fa-rss-square fa-lg"></i><?php echo "What's New"; // echo HEADER_TITLE_EZPAGES; ?>
+            <!-- i class="fa fa-rss-square fa-lg"></i --><?php echo "What's New"; // echo HEADER_TITLE_EZPAGES; ?>
         </a>
         <ul class="nav-child unstyled">	
             <?php require($template->get_template_dir('tpl_ezpages_bar_header.php',DIR_WS_TEMPLATE, 
@@ -151,7 +151,7 @@
 
     <li class="about_us">
             <a href="#">
-            <i class="fa fa-pencil fa-lg"></i><?php echo HEADER_TITLE_ABOUT_US; ?>
+<!--            <i class="fa fa-pencil fa-lg"></i>--><?php echo HEADER_TITLE_ABOUT_US; ?>
         </a>
         <ul class="">
             <li><a href="http://www.zpalette.studio/develop/zenas-story-ezp-25.html"><?php // echo zen_href_link(FILENAME_PRODUCTS_NEW); ?>
@@ -174,7 +174,7 @@
 
     <li class="contact_us last">
         <a href="<?php echo zen_href_link(FILENAME_CONTACT_US, '', 'NONSSL'); ?>">
-            <i class="fa fa-mail-forward fa-lg"></i><?php echo HEADER_TITLE_CONTACT_US; ?>
+            <!-- i class="fa fa-mail-forward fa-lg"></i --><?php echo HEADER_TITLE_CONTACT_US; ?>
         </a>
         <ul class="">
             <li><a href="http://www.zpalette.studio/develop/faq-ezp-27.html"><?php // echo zen_href_link(FILENAME_PRODUCTS_NEW); ?>

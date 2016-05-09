@@ -27,7 +27,7 @@ var sticky = jQuery.noConflict();
 			if (sticky(window).width() < 768) {
 				sticky(".sticky-header-wrapper").css('display', 'none');
 			}
-            else if(scroll_pos > 250 && sticky(window).width() > 767) {
+            else if(scroll_pos > 26 && sticky(window).width() > 767) {
 				sticky(".sticky-header-wrapper").fadeIn();
 			}
 			else {

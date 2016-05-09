@@ -5232,7 +5232,7 @@ ul, ol {
 
 	/* font-size:1.05em; */
 
-	font-size: .95em;
+	font-size: 1.15em;
 
 	text-transform:uppercase;
 
@@ -6663,7 +6663,7 @@ ul.social_bookmarks .fa {
 	display:none;
 
 
-	height: 5%;
+	height: 44px;
 }
 
 .sticky-header-wrapper .logo {
@@ -6676,6 +6676,7 @@ ul.social_bookmarks .fa {
 
 .sticky-header-content .logo img {
 
+	display:none;
     width: 100px;
 
 }

@@ -24,8 +24,9 @@
   line-height: 0;
   height: 0;
 
+
   /* db */
-  text-align: center;
+  border-radius: 3px;
 }
 #cssmenu #menu-button {
   display: none;
@@ -48,7 +49,7 @@
   float: none;
 }
 #cssmenu.align-center ul ul {
-  text-align: left;
+  text-align: center;
 }
 #cssmenu.align-right > ul > li {
 /*  float: right; */
@@ -92,7 +93,7 @@
 	border-top: 4px solid #FFFFFF;
 }
 #cssmenu > ul > li.has-sub > a {
-  padding: 10px 20px 10px 15px;
+  padding: 12px 50px 10px 50px;
 }
 #cssmenu .nav.open li.has-sub:before {
 	content: none;

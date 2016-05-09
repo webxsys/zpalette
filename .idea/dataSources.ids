@@ -2437,7 +2437,7 @@ language_id</columns>
       </column>
       <column id="662" parent="55" name="shipping_method">
         <mandatory>1</mandatory>
-        <data-type>varchar(128)</data-type>
+        <data-type>varchar(255)</data-type>
         <default-expression>&apos;&apos;</default-expression>
       </column>
       <column id="663" parent="55" name="shipping_module_code">
