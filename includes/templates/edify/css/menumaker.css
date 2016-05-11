@@ -93,7 +93,7 @@
 	border-top: 4px solid #FFFFFF;
 }
 #cssmenu > ul > li.has-sub > a {
-  padding: 12px 50px 10px 50px;
+  padding: 12px 60px 10px 80px;
 }
 #cssmenu .nav.open li.has-sub:before {
 	content: none;

@@ -112,18 +112,18 @@
     <!--Manufacturers Link in Menu-->
     
     <!--Display the EZ Pages link in Menu. Uncomment if needed. -->
-    <?php if (EZPAGES_STATUS_HEADER == '1' or (EZPAGES_STATUS_HEADER == '2' and (strstr(
-    EXCLUDE_ADMIN_IP_FOR_MAINTENANCE, $_SERVER['REMOTE_ADDR'])))) { ?>
-    <li id='ezpages' class="<?php if($pg=='ezpages') { echo "tab_active";}?>">
+<!--    <?php /*if (EZPAGES_STATUS_HEADER == '1' or (EZPAGES_STATUS_HEADER == '2' and (strstr(
+    EXCLUDE_ADMIN_IP_FOR_MAINTENANCE, $_SERVER['REMOTE_ADDR'])))) { */?>
+    <li id='ezpages' class="<?php /*if($pg=='ezpages') { echo "tab_active";}*/?>">
         <a href="#">
-            <!-- i class="fa fa-rss-square fa-lg"></i --><?php echo "What's New"; // echo HEADER_TITLE_EZPAGES; ?>
+            <!-- i class="fa fa-rss-square fa-lg"></i --><?php /*echo "What's New"; // echo HEADER_TITLE_EZPAGES; */?>
         </a>
         <ul class="nav-child unstyled">	
-            <?php require($template->get_template_dir('tpl_ezpages_bar_header.php',DIR_WS_TEMPLATE, 
-            $current_page_base,'templates'). '/tpl_ezpages_bar_header.php'); ?>
+            <?php /*require($template->get_template_dir('tpl_ezpages_bar_header.php',DIR_WS_TEMPLATE,
+            $current_page_base,'templates'). '/tpl_ezpages_bar_header.php'); */?>
         </ul>    
     </li>		
-    <?php } ?>
+    --><?php /*} */?>
     <!--EZ Pages Menu Ends Here-->
  <!--   <li class="about_us">
         <a href="#">

@@ -8,14 +8,8 @@ jq( document ).ready( function(){
 	function getMakeups(id_brand)
 	{
 
-
-		// grab span values
-	//	var makeup_options = '';
-
-
 		var makeup_options = '<option value="0">--</option>';
 
-	//	jq('#checkmakeup').show();
 		jq('.brand_'+id_brand).each(function(index, el) {
 			makeup_options += '<option value="'+jq(el).data('makeup-id')+'">'+jq(el).text()+'</option>';
 		});
@@ -29,7 +23,6 @@ jq( document ).ready( function(){
 
 	jq('#checkbrand').change(function(e) {
 		var trigger = $(this).val();
-	//	alert(trigger);
 		getMakeups(trigger);
 	});
 

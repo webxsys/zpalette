@@ -49,46 +49,6 @@ class howManyFit extends base
 
 
 
- /*   private function _installTables(){
-
-        // 3 tables, brand, makeup, qties
-        $sql = 'CREATE TABLE  `'._DB_PREFIX_.$this->table_name.'` (
-				`id_brand` INT( 12 ) NOT NULL AUTO_INCREMENT,
-				`name` VARCHAR( 64 ) NOT NULL ,
-				PRIMARY KEY (  `id_brand` )
-				) ENGINE =' ._MYSQL_ENGINE_;
-
-        $sql2 = 'CREATE TABLE  `'._DB_PREFIX_.$this->table_name2.'` (
-				`id_brand` INT( 12 ) NOT NULL ,
-				`id_makeup` INT( 12 ) NOT NULL ,
-				`name` VARCHAR( 64 ) NOT NULL ,
-				PRIMARY KEY (  `id_brand`, `id_makeup` )
-				) ENGINE =' ._MYSQL_ENGINE_;
-
-        $sql3 = 'CREATE TABLE  `'._DB_PREFIX_.$this->table_name3.'` (
-				`id_brand` INT( 12 ) NOT NULL ,
-				`id_makeup` INT( 12 ) NOT NULL ,
-				`xlarge` INT( 4 ) NOT NULL ,
-				`dome` INT( 4 ) NOT NULL ,
-				`large` INT( 4 ) NOT NULL ,
-				`medium` INT( 4 ) NOT NULL ,
-				`small` INT( 4 ) NOT NULL ,
-				PRIMARY KEY (  `id_brand`, `id_makeup` )
-				) ENGINE =' ._MYSQL_ENGINE_;
-
-
-        if (!Db::getInstance()->Execute($sql) OR !Db::getInstance()->Execute($sql2) OR !Db::getInstance()->Execute($sql3))
-            return false;
-        else return true;
-    }*/
-
-
-  /*  private function _eraseTables(){
-        if(!Db::getInstance()->Execute('DROP TABLE `'._DB_PREFIX_.$this->table_name.'`') OR !Db::getInstance()->Execute('DROP TABLE `'._DB_PREFIX_.$this->table_name2.'`') OR !Db::getInstance()->Execute('DROP TABLE `'._DB_PREFIX_.$this->table_name3.'`'))
-            return false;
-        else return true;
-    }*/
-
 
     public function getContent(){
         $this->_html = '<h2>'.$this->displayName.'</h2>';
@@ -569,7 +529,6 @@ class howManyFit extends base
         $zp_makeups = $db->Execute($makeup_query);
 
         while(!$zp_makeups->EOF){
-         //   $makeup_array[$zp_makeups->fields['id_brand']] =  $zp_makeups->fields['id_makeup'] . "," . $zp_makeups->fields['name'];
             $makeup_array[$zp_makeups->fields['id_brand']][$zp_makeups->fields['id_makeup']] = $zp_makeups->fields['name'];
             $zp_makeups->Movenext();
         }
@@ -580,24 +539,24 @@ class howManyFit extends base
     {
         global $db;
         $assoc_array = array(array());
+        global $assoc_array;
         $assoc_query = "select * from howmanyfit_qties";
         $zp_assocs = $db->Execute($assoc_query);
 
         while(!$zp_assocs->EOF){
-         //$assoc_array[] =  $zp_assocs->fields['id_makeup'];
             $assoc_array[$zp_assocs->fields['id_brand']][$zp_assocs->fields['id_makeup']] = array(
-                "xlarge " => $zp_assocs->fields['xlarge'],
-                "dome " => $zp_assocs->fields['dome'],
-                "large " => $zp_assocs->fields['large'],
-                "medium" => $zp_assocs->fields['medium'],
-                "small" => $zp_assocs->fields['small']
+                "Extra Large " => $zp_assocs->fields['xlarge'],
+                "Dome " => $zp_assocs->fields['dome'],
+                "Large " => $zp_assocs->fields['large'],
+                "Medium " => $zp_assocs->fields['medium'],
+                "Small " => $zp_assocs->fields['small']
             );
             $zp_assocs->Movenext();
         }
         return $assoc_array;
     }
 
-    public function hookCustomCMSpage($params)
+/*    public function hookCustomCMSpage($params)
     {
 
         if (Tools::getValue('id_cms') == 29) { //  change to 29
@@ -630,7 +589,7 @@ class howManyFit extends base
         $this->context->controller->addJS($this->_path.'js/howmanyfit.js', 'all');
 
 
-    }
+    }*/
 
 
 }

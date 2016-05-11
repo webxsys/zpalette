@@ -104,6 +104,7 @@ require($template->get_template_dir('tpl_edify_custom_css.php',DIR_WS_TEMPLATE, 
   </script>
   <script type="text/javascript" src="includes/templates/edify/jscript/howmanyfit.js"></script>
   <script type="text/javascript" src="includes/templates/edify/jscript/howmanyfit_bo.js"></script>
+  <script type="text/javascript" src="includes/templates/edify/jscript/jquery.dump.js"></script>
 
   <!-- db -->
 
