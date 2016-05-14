@@ -17,6 +17,8 @@
 <?php } // show please select unless all are readonly ?>
 
 <?php
+
+
     for($i=0;$i<sizeof($options_name);$i++) {
 ?>
 <?php
@@ -28,8 +30,12 @@
 ?>
 
 <div class="wrapperAttribsOptions">
-<span class="label"><?php echo $options_name[$i]; ?></span>
-<div class="back"><?php echo "\n" . $options_menu[$i]; ?></div>
+    <span class="label">
+        <?php echo $options_name[$i]; ?>
+    </span>
+    <div class="back">
+        <?php echo "\n" . $options_menu[$i]; ?>
+    </div>
 </div>
 
 

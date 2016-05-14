@@ -2,7 +2,6 @@ var jq = jQuery.noConflict();
 
 	jq( document ).ready( function(){
 
-
 	function getMakeups(id_brand)
 	{
 		var makeup_options = '<option value="0">--</option>';
@@ -31,5 +30,8 @@ var jq = jQuery.noConflict();
 	jq('#checkmakeup').change(function(e) {
 		getAssoc(jq('#checkbrand').val(), jq(this).val());
 	});
+
+
+
 
 });
