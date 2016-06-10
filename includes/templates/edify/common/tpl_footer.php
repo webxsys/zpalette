@@ -260,13 +260,12 @@ if ($this_is_home_page){ ?>
 
 <!-- JQuery Lightbox JS and Cloud Zoom JS-->  
 
-<?php if (in_array($current_page_base,explode(",",'product_info,product_reviews_info,product_reviews,product_reviews_write'))) { ?>
-
-<script src="<?php echo $template->get_template_dir('',DIR_WS_TEMPLATE, $current_page_base,'jscript').'/jscript_jquery_1-4-4.js'?>" type="text/javascript"></script>
-
-<script src="<?php  echo $template->get_template_dir('',DIR_WS_TEMPLATE, $current_page_base,'jscript').'/cloud-zoom.1.0.3.js'?>" type="text/javascript"></script>
-
-<script type="text/javascript">
+<?php // if (in_array($current_page_base,explode(",",'product_info,product_reviews_info,product_reviews,product_reviews_write'))) { ?>
+<!--
+<script src="<?php /*echo $template->get_template_dir('',DIR_WS_TEMPLATE, $current_page_base,'jscript').'/jscript_jquery_1-4-4.js'*/?>" type="text/javascript"></script>
+<script src="<?php /* echo $template->get_template_dir('',DIR_WS_TEMPLATE, $current_page_base,'jscript').'/cloud-zoom.1.0.3.js'*/?>" type="text/javascript"></script>
+-->
+<!--<script type="text/javascript">
 
 //Cloud Zoom
 
@@ -274,8 +273,8 @@ var cld = jQuery.noConflict();
 
 cld('#zoom01, .cloud-zoom-gallery').CloudZoom();
 
-</script>
+</script>-->
 
-<?php } ?>
+<? // } ?>
 
 <!-- JQuery Lightbox JS and Cloud Zoom JS Ends--> 

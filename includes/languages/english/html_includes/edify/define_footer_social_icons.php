@@ -7,7 +7,15 @@
                 <div class="social">
                     <h2><?php echo FOOTER_TITLE_CONNECT_US; ?></h2>
                     <div class="social-wrapper">
-                        <ul class="social_bookmarks">                                
+                        <ul class="social_bookmarks">
+                            <?php // if($instagram_link != NULL) {?>
+                                <li class="instagram">
+                                    <a data-original-title="Instagram" data-toggle="tooltip"
+                                       href="http://www.instagram.com/zpalette<?php echo $instagram_link;?>" target="_blank">
+                                        <i class="fa fa-instagram fa-lg"></i>
+                                    </a>
+                                </li>
+                            <?php // } ?>
                             <?php if($facebook_link != NULL) {?>
                             <li class="facebook">
                                 <a data-original-title="Facebook" data-toggle="tooltip" 
@@ -23,7 +31,23 @@
                                     <i class="fa fa-twitter fa-lg"></i>
                                 </a>
                             </li>
-                            <?php } ?>                     
+                            <?php } ?>
+                            <?php if($youtube_link != NULL) {?>
+                                <li class="youtube">
+                                    <a data-original-title="Youtube" data-toggle="tooltip"
+                                       href="https://www.youtube.com/user/zpalette<?php // echo $youtube_link; ?>" target="_blank">
+                                        <i class="fa fa-youtube fa-lg"></i>
+                                    </a>
+                                </li>
+                            <?php } ?>
+                            <?php // if($snapchat_link != NULL) {?>
+                                <li class="snapchat">
+                                    <a data-original-title="Snapchat" data-toggle="tooltip"
+                                       href="<?php echo $snapchat_link; ?>" target="_blank">
+                                        <i class="fa fa-snapchat-ghost fa-lg"></i>
+                                    </a>
+                                </li>
+                            <?php // } ?>
                             <?php if($pinterest_link != NULL) {?>
                             <li class="pinterest">
                                 <a data-original-title="Pinterest" data-toggle="tooltip" 
@@ -56,14 +80,7 @@
                                 </a>
                             </li>
                             <?php } ?>
-                            <?php if($youtube_link != NULL) {?>
-                            <li class="youtube">
-                                <a data-original-title="Youtube" data-toggle="tooltip"
-                                    href="<?php echo $youtube_link; ?>" target="_blank">
-                                    <i class="fa fa-youtube fa-lg"></i>
-                                </a>
-                            </li>
-                            <?php } ?>
+
                         </ul>
                     </div>
                 </div>

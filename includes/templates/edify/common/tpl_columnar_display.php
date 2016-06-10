@@ -20,7 +20,7 @@
  }
  ?>
 <?php
-if (is_array($list_box_contents) > 0 ) 
+if (is_array($list_box_contents) > 0 )
 	{
 		$string_parts = explode("=", $list_box_contents[0][0]['params']);
 		$param = $string_parts[1];
@@ -33,17 +33,22 @@ if (is_array($list_box_contents) > 0 )
 		$param3= explode(" ", $string_parts[1]);
 		$param3 = $param3[1];
 		$param3 = trim($param3,'"');
-		//print_r($param3);
+
+		print_r($param3);
+		echo "param3 : ".$param3."<br>";
 		$param4= explode(" ", $string_parts[1]);
 		$param4 = $param4[0].$param4[1];
 		$param4 = trim($param4,'"');
-		//print_r($param4);
+		print_r($param4);
+		echo "param4 : ".$param4."<br>";
+
 		$param5= explode(" ", $string_parts[1]);
 		$param5 = $param5[0];
 		$param5 = trim($param5,'"');
-		
-		//print_r($param5);
-		
+
+		print_r($param5);
+		echo "param5 : ".$param5."<br>";
+
 		if($param1 == "categoryListBoxContents") 
 		{ 
 		?>
@@ -236,7 +241,8 @@ if (is_array($list_box_contents) > 0 )
       						$r_params = "";
       						if (isset($list_box_contents[$row][$col]['params'])) $r_params .= ' ' . (string)$list_box_contents[$row][$col]['params'];
      						if (isset($list_box_contents[$row][$col]['text'])) 
-							{ 
+							{
+
 								echo '<div' . $r_params . '>' . $list_box_contents[$row][$col]['text'] .  '</div>' . "\n";
 					 		}
     					}

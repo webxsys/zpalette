@@ -1,9 +1,10 @@
 <ul id="nav" class="nav">
     <!--li id='home' -->
         <!-- a href="<?php // echo zen_href_link(FILENAME_DEFAULT); ?>">
-        <i class="fa fa-home fa-lg"></i><?php // echo  HEADER_TITLE_CATALOG; ?></a>
+        <!-- i class="fa fa-home fa-lg"></i --><?php // echo  HEADER_TITLE_CATALOG; ?></a>
     </li -->
-    
+
+    <?php // @TDODO Need to center main navigation ?>
     <!--Categories Link in Menu-->
     <?php 
         $cat_query = "select * from ".DB_PREFIX."categories where categories_status='1' ORDER BY RAND() LIMIT 1";
@@ -12,8 +13,8 @@
     ?>
     
     <li id='categories'>
-        <a href="#">
-        <i class="fa fa-inbox fa-lg"></i><?php echo HEADER_TITLE_CATEGORIES; ?>
+        <a href="http://www.zpalette.studio/develop/products_all.html">
+<!--        <i class="fa fa-inbox fa-lg"></i>--><?php echo HEADER_TITLE_CATEGORIES; ?>
         </a>
     <?php			
         // load the UL-generator class and produce the menu list dynamically from there
@@ -37,52 +38,70 @@
     //    $man = $db->Execute($man_query);
     //     $manufacturers_id=$man->fields['manufacturers_id'];
     ?>
-    
-   <!-- <li id="products">
-        <a href="#">
-            <i class="fa fa-map-marker fa-lg"></i><?php /*echo "WHERE TO BUY"; */?>
-        </a>
-            <ul class="">
-                <li><a href="#"><?php /*// echo zen_href_link(FILENAME_PRODUCTS_NEW); */?>
 
-                        <?php /*echo "USA"; // CATEGORIES_BOX_HEADING_WHATS_NEW; */?>
-                    </a>
-                </li>
-                <li><a href="<?php /*echo zen_href_link(FILENAME_SHOP_INTERNATIONAL); */?>">
-                        <?php /* // echo // CATEGORIES_BOX_HEADING_FEATURED_PRODUCTS; */?>
-                    <?php /*echo  "International"; */?>
-                    </a>
-                </li>
-                <li><a href="<?php /*echo zen_href_link(FILENAME_SHOP_ONLINE); */?>">
-                        <?php /*// echo CATEGORIES_BOX_HEADING_SPECIALS; */?>
-                    <?php /*echo "Online"; */?>
-                    </a>
-                </li>
-                <li><a href="<?php /*echo zen_href_link(FILENAME_AMAZON_RETAILERS); */?>">
-                        <?php /*// echo CATEGORIES_BOX_HEADING_SPECIALS; */?>
-                        <?php /*echo "Authorized Amazon Retailers"; */?>
-                    </a>
-                </li>
+    <?php if (EZPAGES_STATUS_HEADER == '1' or (EZPAGES_STATUS_HEADER == '2' and (strstr(
+                EXCLUDE_ADMIN_IP_FOR_MAINTENANCE, $_SERVER['REMOTE_ADDR'])))) { ?>
+        <li id='ezpages' class="<?php if($pg=='ezpages') { echo "tab_active";}?>">
+            <a href="#">
+<!--                <i class="fa fa-rss-square fa-lg"></i>--><?php echo "What's New";  ?>
+            </a>
+            <ul class="nav-child unstyled">
+                <?php require($template->get_template_dir('tpl_ezpages_bar_header.php',DIR_WS_TEMPLATE,
+                        $current_page_base,'templates'). '/tpl_ezpages_bar_header.php'); ?>
             </ul>
-    </li>-->
-   <!-- <li id="brands">
+        </li>
+    <?php } ?>
+    <li class="about_us">
         <a href="#">
-        <i class="fa fa-leaf fa-lg"></i><?php /*echo "EXPERIENCE"; */?>
+<!--                <i class="fa fa-pencil fa-lg"></i>--><?php echo HEADER_TITLE_ABOUT_US; ?>
+        </a>
+        <ul class="">
+            <li><a href="http://www.zpalette.studio/develop/zenas-story-ezp-25.html"><?php // echo zen_href_link(FILENAME_PRODUCTS_NEW); ?>
+
+                    <?php echo "Zena's Story"; // CATEGORIES_BOX_HEADING_WHATS_NEW; ?>
+                </a>
+            </li>
+            <li><a href="http://www.zpalette.studio/develop/behind-the-brand-ezp-26.html"><?php // echo //zen_href_link(FILENAME_FEATURED_PRODUCTS); ?>
+                    <?php  // echo // CATEGORIES_BOX_HEADING_FEATURED_PRODUCTS; ?>
+                    <?php echo  "Behind The Brand"; ?>
+                </a>
+            </li>
+            <li><a href="http://www.zpalette.studio/develop/press-mentions-ezp-30.html"><?php // echo zen_href_link(FILENAME_SPECIALS); ?>
+                    <?php // echo CATEGORIES_BOX_HEADING_SPECIALS; ?>
+                    <?php echo "Press Mentions"; ?>
+                </a>
+            </li>
+            <li><a href="http://www.zpalette.studio/develop/crystal-z-palette-ezp-20.html?zenid=d5fd9a66e65bb03251f31dd5ce702f85"><?php // echo zen_href_link(FILENAME_SPECIALS); ?>
+                    <?php // echo CATEGORIES_BOX_HEADING_SPECIALS; ?>
+                    <?php echo "Crystal Z Palette"; ?>
+                </a>
+            </li>
+        </ul>
+    </li>
+
+   <li id="brands">
+        <a href="#">
+<!--          <i class="fa fa-leaf fa-lg"></i>--><?php echo "DE-POTTING"; ?>
         </a>
                 <ul class="">
-                    <li><a href="<?php /*echo zen_href_link(FILENAME_VIDEO); */?>">
-                            <?php /*echo "Video"; // CATEGORIES_BOX_HEADING_WHATS_NEW; */?>
+                    <li><a href="http://www.zpalette.studio/develop/what-is-depotting-ezp-1.html">
+                            <?php echo "What is De-potting ?"; // CATEGORIES_BOX_HEADING_WHATS_NEW; */?>
                         </a>
                     </li>
-                    <li><a href="<?php /*echo zen_href_link(FILENAME_WONDERLAND_STORY); */?>">
-                            <?php /*echo  "Wonderland Story"; */?>
+                    <li><a href="http://www.zpalette.studio/develop/how-to-depot-videos-ezp-9.html">
+                            <?php echo  "How to De-Pot Videos" ?>
                         </a>
                     </li>
-                    <li><a href="<?php /*echo zen_href_link(FILENAME_CRYSTAL_Z); */?>">
-                            <?php /*echo "Crystal Z Palette"; */?>
+                    <li><a href="http://www.zpalette.studio/develop/depotting-party-ezp-6.html?zenid=e0916eb5c1f9030ae129d0077fbaa4d1">
+                            <?php echo  "Depotting Party" ?>
                         </a>
                     </li>
-                   </ul>-->
+                    <li><a href="http://www.zpalette.studio/develop/eyeshadow-refills-ezp-10.html?zenid=bc87f4f953e89b7e4fc7f665d87ca2ec">
+                            <?php echo  "Eyeshadow Refills" ?>
+                        </a>
+                    </li>
+
+                   </ul>
                 <?php
                   // Omit from man nav - db - 03.23.17
                   /*
@@ -101,28 +120,17 @@
                                     <?php echo $manufacturers_name; ?></a>			
                                 </li>
                                 <?php 
-                             }
+         -->                    }
                                 $manufacturers->MoveNext();
                         }
                    */
                 //
                 ?>
-<!--      </li>-->
+      </li>
     <!--Manufacturers Link in Menu-->
     
     <!--Display the EZ Pages link in Menu. Uncomment if needed. -->
-    <?php if (EZPAGES_STATUS_HEADER == '1' or (EZPAGES_STATUS_HEADER == '2' and (strstr(
-    EXCLUDE_ADMIN_IP_FOR_MAINTENANCE, $_SERVER['REMOTE_ADDR'])))) { ?>
-    <li id='ezpages' class="<?php if($pg=='ezpages') { echo "tab_active";}?>">
-        <a href="#">
-            <i class="fa fa-rss-square fa-lg"></i><?php echo "What's New"; // echo HEADER_TITLE_EZPAGES; ?>
-        </a>
-        <ul class="nav-child unstyled">	
-            <?php require($template->get_template_dir('tpl_ezpages_bar_header.php',DIR_WS_TEMPLATE, 
-            $current_page_base,'templates'). '/tpl_ezpages_bar_header.php'); ?>
-        </ul>    
-    </li>		
-    <?php } ?>
+
     <!--EZ Pages Menu Ends Here-->
  <!--   <li class="about_us">
         <a href="#">
@@ -148,32 +156,11 @@
         </a>
     </li>-->
 
-    <li class="about_us">
-            <a href="#">
-            <i class="fa fa-pencil fa-lg"></i><?php echo HEADER_TITLE_ABOUT_US; ?>
-        </a>
-        <ul class="">
-            <li><a href="http://www.zpalette.studio/develop/zenas-story-ezp-25.html"><?php // echo zen_href_link(FILENAME_PRODUCTS_NEW); ?>
 
-                    <?php echo "Zena's Story"; // CATEGORIES_BOX_HEADING_WHATS_NEW; ?>
-                </a>
-            </li>
-            <li><a href="http://www.zpalette.studio/develop/behind-the-brand-ezp-26.html"><?php // echo //zen_href_link(FILENAME_FEATURED_PRODUCTS); ?>
-                    <?php  // echo // CATEGORIES_BOX_HEADING_FEATURED_PRODUCTS; ?>
-                    <?php echo  "Behind The Brand"; ?>
-                </a>
-            </li>
-            <li><a href="#"><?php // echo zen_href_link(FILENAME_SPECIALS); ?>
-                    <?php // echo CATEGORIES_BOX_HEADING_SPECIALS; ?>
-                    <?php echo "Press Mentions"; ?>
-                </a>
-            </li>
-        </ul>
-    </li>
 
     <li class="contact_us last">
         <a href="<?php echo zen_href_link(FILENAME_CONTACT_US, '', 'NONSSL'); ?>">
-            <i class="fa fa-mail-forward fa-lg"></i><?php echo HEADER_TITLE_CONTACT_US; ?>
+<!--            <i class="fa fa-mail-forward fa-lg"></i>--><?php echo HEADER_TITLE_CONTACT_US; ?>
         </a>
         <ul class="">
             <li><a href="http://www.zpalette.studio/develop/faq-ezp-27.html"><?php // echo zen_href_link(FILENAME_PRODUCTS_NEW); ?>
@@ -186,23 +173,23 @@
                     <?php echo  "Newsletter Signup"; ?>
                 </a>
             </li>
-            <li><a href="#"><?php // echo zen_href_link(FILENAME_SPECIALS); ?>
+            <li><a href="http://www.zpalette.studio/develop/contact_us&pg=contact_us.html?subject=1"><?php // echo zen_href_link(FILENAME_SPECIALS); ?>
                     <?php // echo CATEGORIES_BOX_HEADING_SPECIALS; ?>
                     <?php echo "Customer Service"; ?>
                 </a>
             </li>
-            <li><a href="#"><?php // echo zen_href_link(FILENAME_PRODUCTS_NEW); ?>
+            <li><a href="http://www.zpalette.studio/develop/contact_us&pg=contact_us.html?subject=2"><?php // echo zen_href_link(FILENAME_PRODUCTS_NEW); ?>
                     <?php echo "Wholesale Inquires
                     "; // CATEGORIES_BOX_HEADING_WHATS_NEW; ?>
 
                 </a>
             </li>
-            <li><a href="#"><?php // echo //zen_href_link(FILENAME_FEATURED_PRODUCTS); ?>
+            <li><a href="http://www.zpalette.studio/develop/contact_us&pg=contact_us.html"><?php // echo //zen_href_link(FILENAME_FEATURED_PRODUCTS); ?>
                     <?php  // echo // CATEGORIES_BOX_HEADING_FEATURED_PRODUCTS; ?>
                     <?php echo  "Press Inquires"; ?>
                 </a>
             </li>
-            <li><a href="#"><?php // echo zen_href_link(FILENAME_SPECIALS); ?>
+            <li><a href="http://www.zpalette.studio/develop/contact_us&pg=contact_us.html"><?php // echo zen_href_link(FILENAME_SPECIALS); ?>
                     <?php // echo CATEGORIES_BOX_HEADING_SPECIALS; ?>
                     <?php echo "Private Label Inquires"; ?>
                 </a>
@@ -215,11 +202,11 @@
             </li>
         </ul>
     </li>
-    <li class="navbar-right">
-        <a class="shopping_cart_link" href="<?php echo zen_href_link(FILENAME_SHOPPING_CART); ?>">
+<!--    <li class="navbar-right">
+        <a class="shopping_cart_link" href="<?php /*echo zen_href_link(FILENAME_SHOPPING_CART); */?>">
             <i class="fa fa-shopping-cart fa-lg"></i>
-            <?php echo BOX_HEADING_SHOPPING_CART; ?>&nbsp;&nbsp;
-            <?php echo $currencies->format($_SESSION['cart']->show_total());?>
+            <?php /*echo BOX_HEADING_SHOPPING_CART; */?>&nbsp;&nbsp;
+            <?php /*echo $currencies->format($_SESSION['cart']->show_total());*/?>
         </a>
-    </li>
+    </li>-->
 </ul>

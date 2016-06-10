@@ -10,39 +10,37 @@
  * @copyright Portions Copyright 2003 osCommerce
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
  * @version $Id: tpl_index_product_list.php 15589 2010-02-27 15:03:49Z ajeh $
+ * modified 2012-06-26 by A. Sarfraz
+ * modified 2012-09-22 & 2012-10-06 by Glenn Herbert (gjh42)
  */
 ?>
 <div class="centerColumn" id="indexProductList">
-	<header>
-	    <h1 id="productListHeading"><?php echo $breadcrumb->last(); ?></h1>
-	</header>
-    	<?php
-			if (PRODUCT_LIST_CATEGORIES_IMAGE_STATUS == 'true') {
-			// categories_image
-			  if ($categories_image = zen_get_categories_image($current_category_id)) {
-			?>
-            <div id="indexProductListCatDescription" class="content row">
-				<div id="categoryImgListing" class="categoryImg col-md-12 col-sm-12"><?php echo zen_image(DIR_WS_IMAGES . $categories_image, '', CATEGORY_ICON_IMAGE_WIDTH, CATEGORY_ICON_IMAGE_HEIGHT); ?></div>
-			</div>
-			<?php
-			  }
-			} // categories_image
-		?>
-    	<?php
-        // categories_description
-            if ($current_categories_description != '') {
-        ?>
-        <!--<div class="category-description col-md-7 col-sm-7"><p><?php //echo $current_categories_description;  ?></p></div>-->
-    
-    <?php } // categories_description ?>
-	
-    
-<div class="sorter">
+
+<h1 id="productListHeading"><?php echo $breadcrumb->last(); ?></h1>
+
+<?php
+if (PRODUCT_LIST_CATEGORIES_IMAGE_STATUS == 'true') {
+// categories_image
+  if ($categories_image = zen_get_categories_image($current_category_id)) {
+?>
+<div id="categoryImgListing" class="categoryImg"><?php echo zen_image(DIR_WS_IMAGES . $categories_image, '', CATEGORY_ICON_IMAGE_WIDTH, CATEGORY_ICON_IMAGE_HEIGHT); ?></div>
+<?php
+  }
+} // categories_image
+?>
+
+<?php
+// categories_description
+    if ($current_categories_description != '') {
+?>
+<div id="indexProductListCatDescription" class="content"><?php echo $current_categories_description;  ?></div>
+<?php } // categories_description ?>
+
 <?php
   $check_for_alpha = $listing_sql;
   $check_for_alpha = $db->Execute($check_for_alpha);
 
-  if ($do_filter_list || ($check_for_alpha->RecordCount() > 0 && PRODUCT_LIST_ALPHA_SORTER == 'true')) {
+  if ($do_filter_list || ($check_for_alpha->RecordCount() > 0 && PRODUCT_LIST_ALPHA_SORTER == 'true') || (defined('PRODUCT_LISTING_LAYOUT_STYLE_CUSTOMER') and PRODUCT_LISTING_LAYOUT_STYLE_CUSTOMER == '1')) {//form if list/grid enabled
   $form = zen_draw_form('filter', zen_href_link(FILENAME_DEFAULT), 'get') . '<label class="inputLabel">' .TEXT_SHOW . '</label>';
 ?>
 
@@ -81,7 +79,10 @@
   if ($do_filter_list) {
     echo zen_draw_pull_down_menu('filter_id', $options, (isset($_GET['filter_id']) ? $_GET['filter_id'] : ''), 'onchange="this.form.submit()"');
   }
-
+  
+  if (defined('PRODUCT_LISTING_LAYOUT_STYLE_CUSTOMER') and PRODUCT_LISTING_LAYOUT_STYLE_CUSTOMER == '1') {
+    echo '<div id="viewControl">' . zen_draw_pull_down_menu('view', array(array('id'=>'rows','text'=>PRODUCT_LISTING_LAYOUT_ROWS),array('id'=>'columns','text'=>PRODUCT_LISTING_LAYOUT_COLUMNS)), (isset($_GET['view']) ? $_GET['view'] : (defined('PRODUCT_LISTING_LAYOUT_STYLE')? PRODUCT_LISTING_LAYOUT_STYLE: 'rows')), 'onchange="this.form.submit()"') . '</div>';  
+  }
   // draw alpha sorter
   require(DIR_WS_MODULES . zen_get_module_directory(FILENAME_PRODUCT_LISTING_ALPHA_SORTER));
 ?>
@@ -89,8 +90,8 @@
 <?php
   }
 ?>
-<!--<br class="clearBoth" />-->
-</div>
+<br class="clearBoth" />
+
 <?php
 /**
  * require the code for listing products
@@ -133,7 +134,7 @@ while (!$show_display_category->EOF) {
  * display the Special Products Center Box
  */
 ?>
-<?php //require($template->get_template_dir('tpl_modules_specials_default.php',DIR_WS_TEMPLATE, $current_page_base,'templates'). '/tpl_modules_specials_default.php'); ?>
+<?php require($template->get_template_dir('tpl_modules_specials_default.php',DIR_WS_TEMPLATE, $current_page_base,'templates'). '/tpl_modules_specials_default.php'); ?>
 <?php } ?>
 
 <?php
@@ -148,7 +149,7 @@ while (!$show_display_category->EOF) {
 
 <?php
   if ($show_display_category->fields['configuration_key'] == 'SHOW_PRODUCT_INFO_MISSING_UPCOMING') {
-    //include(DIR_WS_MODULES . zen_get_module_directory(FILENAME_UPCOMING_PRODUCTS));
+    include(DIR_WS_MODULES . zen_get_module_directory(FILENAME_UPCOMING_PRODUCTS));
   }
 ?>
 <?php
@@ -189,7 +190,7 @@ if ($error_categories == false and $show_display_category->RecordCount() > 0) {
 <?php } ?>
 
 <?php
-   if ($show_display_category->fields['configuration_key'] == 'SHOW_PRODUCT_INFO_LISTING_BELOW_NEW_PRODUCTS') { ?>
+    if ($show_display_category->fields['configuration_key'] == 'SHOW_PRODUCT_INFO_LISTING_BELOW_NEW_PRODUCTS') { ?>
 <?php
 /**
  * display the New Products Center Box
@@ -199,9 +200,9 @@ if ($error_categories == false and $show_display_category->RecordCount() > 0) {
 <?php } ?>
 
 <?php
-    //if ($show_display_category->fields['configuration_key'] == 'SHOW_PRODUCT_INFO_LISTING_BELOW_UPCOMING') {
-      //include(DIR_WS_MODULES . zen_get_module_directory(FILENAME_UPCOMING_PRODUCTS));
-    //}
+    if ($show_display_category->fields['configuration_key'] == 'SHOW_PRODUCT_INFO_LISTING_BELOW_UPCOMING') {
+      include(DIR_WS_MODULES . zen_get_module_directory(FILENAME_UPCOMING_PRODUCTS));
+    }
 ?>
 <?php
   $show_display_category->MoveNext();
@@ -213,4 +214,3 @@ if ($error_categories == false and $show_display_category->RecordCount() > 0) {
 ?>
 
 </div>
-

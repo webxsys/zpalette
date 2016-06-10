@@ -150,15 +150,44 @@
     		}
 		?>
         <div class="row sender-name-email">
-        	<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 sender-name">
-        		<label><?php echo ENTRY_NAME . '<span class="alertrequired">' . ENTRY_REQUIRED_SYMBOL . '</span>'; ?></label>
-        		<?php echo zen_draw_input_field('contactname', $name, ' size="40" id="contactname"') ; ?>
-        	</div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 sender-email" for="email-address">
-        		<label><?php echo ENTRY_EMAIL . '<span class="alertrequired">' . ENTRY_REQUIRED_SYMBOL . '</span>'; ?></label>
+                <div><label><?php echo "Subject Heading"; ?></label></div>
+                <select name="subject" id="subject" onchange="showElemFromSelect('subject')">
+                    <option>-- Choose --</option>
+                    <option value="1">Customer Service</option>
+                    <option value="2">Press Inquires</option>
+                    <option value="3">Private Label Inquires</option>
+                    <option value="4">Wholesale Inquires</option>
+                </select>
+                <!--                --><?php //echo zen_draw_input_field('orderref', ($order_ref), ' size="40" id="order-ref"') ; ?>
+            </div>
+            <!--    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 sender-name">
+        		<label><?php /*echo ENTRY_NAME . '<span class="alertrequired">' . ENTRY_REQUIRED_SYMBOL . '</span>'; */?></label>
+        		<?php /*echo zen_draw_input_field('contactname', $name, ' size="40" id="contactname"') ; */?>
+        	</div>-->
+        </div>
+        <br class="clearBoth" />
+
+        <div class="row sender-name-email">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 sender-email" for="email-address">
+                <label><?php echo "Order Reference"; ?></label>
+                <?php echo zen_draw_input_field('orderref', ($order_ref), ' size="40" id="order-ref"') ; ?>
+            </div>
+        </div>
+
+        <br class="clearBoth" />
+        <div class="row sender-name-email">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 sender-name">
+                <label><?php echo ENTRY_NAME . '<span class="alertrequired">' . ENTRY_REQUIRED_SYMBOL . '</span>'; ?></label>
+                <?php echo zen_draw_input_field('contactname', $name, ' size="40" id="contactname"') ; ?>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 sender-email" for="email-address">
+                <label><?php echo ENTRY_EMAIL . '<span class="alertrequired">' . ENTRY_REQUIRED_SYMBOL . '</span>'; ?></label>
                 <?php echo zen_draw_input_field('email', ($email_address), ' size="40" id="email-address"') ; ?>
-        	</div>
-		</div>
+            </div>
+
+        </div>
+
         <br class="clearBoth" />
         <div class="row message-detail">
 			<div class="col-lg-12 contactus-message" for="enquiry">

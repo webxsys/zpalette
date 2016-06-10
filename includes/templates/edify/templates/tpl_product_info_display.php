@@ -31,7 +31,8 @@
 
 //require($template->get_template_dir('/tpl_modules_category_icon_display.php',DIR_WS_TEMPLATE, $current_page_base,'templates'). '/tpl_modules_category_icon_display.php'); ?>
 <header>
-	<h1 class="product_head">
+	<!-- h1 class="product_head" -->
+    <h1>
     	<?php if (PRODUCT_INFO_PREVIOUS_NEXT == 1 or PRODUCT_INFO_PREVIOUS_NEXT == 3) { 
 				if ($products_found_count > 1) {
 			?>

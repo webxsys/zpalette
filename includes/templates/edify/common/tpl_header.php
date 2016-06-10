@@ -108,12 +108,12 @@ if (!isset($flag_disable_header) || !$flag_disable_header) {
                     <div class="header-top-right col-lg-6 col-md-6 col-sm-6 col-xs-12">
                        	<div class="top-link">
                            	<ul class="links">
-                                <li class="first">
+                               <!-- <li class="first">
                                     <a href="#">
                                         <i class="fa fa-tablet fa-lg"></i>
-                                        <?php echo HEADER_TITLE_BLOG; ?>&nbsp;&nbsp;
+                                        <?php /*echo HEADER_TITLE_BLOG; */?>&nbsp;&nbsp;
                                     </a>
-                                </li>
+                                </li>-->
                             	<li>
                                 	<a class='my_account' href="<?php echo zen_href_link(FILENAME_ACCOUNT, '', 'SSL'); ?>">
                                     	<i class="fa fa-user"></i><?php echo HEADER_TITLE_MY_ACCOUNT; ?>
@@ -140,6 +140,13 @@ if (!isset($flag_disable_header) || !$flag_disable_header) {
                               	</li>
                                 <?php }
                                 } ?>
+                                 <li class="navbar-right">
+        <a class="shopping_cart_link" href="<?php /*echo zen_href_link(FILENAME_SHOPPING_CART); */?>">
+            <i class="fa fa-shopping-cart fa-lg"></i>
+            <?php echo BOX_HEADING_SHOPPING_CART; ?>&nbsp;&nbsp;
+            <?php echo $currencies->format($_SESSION['cart']->show_total());?>
+        </a>
+    </li>
                                 <li class="arrow-down last hidden-xs">
                                    	<a data-toggle="tooltip" data-original-title="Quick Contact" href="#">
                                    	<i class="fa fa-angle-down"></i></a>
@@ -278,12 +285,12 @@ if (!isset($flag_disable_header) || !$flag_disable_header) {
 												<i class="fa fa-pencil fa-lg"></i><?php echo HEADER_TITLE_CONTACT_US; ?>
                    							</a>
                  						</li>
-                                        <li class="last">
+                                       <!-- <li class="last">
                                             <a href="#">
                                                 <i class="fa fa-tablet fa-lg"></i>
-                                                <?php echo HEADER_TITLE_BLOG; ?>&nbsp;&nbsp;
+                                                <?php /*echo HEADER_TITLE_BLOG; */?>&nbsp;&nbsp;
                                             </a>
-                                        </li>
+                                        </li>-->
                                    	</ul>
                                 </nav>   
                            	</div>

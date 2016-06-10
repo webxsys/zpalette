@@ -55,28 +55,36 @@
 					$flag_disable_right = true;
 					$flag_disable_left = true;
 				?>
-                <div class="slideshow-container"><!-- Slideshow-Container-->
+                  <!-- Slideshow-Container-->
+            <div class="slideshow-container">
+    			<div class="container">
                 	<div class="main-slideshow-wrapper">
                         <div class="row">
-                        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        		<div id="main-slideshow" class="owl-carousel owl-theme">
+
+
+                           <!--<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" -->
+
+                    		<div style="display: block;height:400px;">
+                    		                           			                            <div id="background"></div>
+
                             	<?php
-	                                while(!$slideshow_query_result->EOF) {
-                                    $slider_image = $slideshow_query_result->fields['slideshow_image'];
+	                         //       while(!$slideshow_query_result->EOF) {
+                            //        $slider_image = $slideshow_query_result->fields['slideshow_image'];
+                                    ?>
+                                <!--	<div class="item">
+                                		<img alt="slideshow-images" src="<?php /* echo $template->get_template_dir  ('', DIR_WS_TEMPLATE, $current_page_base,'images').'/slideshow/'.$slider_image;*/?>" >
+                                	</div>-->
+                                    <?php
+                               // 	    $slideshow_query_result->MoveNext();
+                               //     }
                                 ?>
-                                	<div class="item">
-                                		<img alt="slideshow-images" src="<?php echo $template->get_template_dir('',DIR_WS_TEMPLATE, $current_page_base,'images').'/slideshow/'.$slider_image;?>" />
-                                	</div>
-                                <?php
-                                	$slideshow_query_result->MoveNext();
-                                    }
-                                ?>
-                                </div>
-                            </div>
+                               </div>
+                             <!-- </div>-->
                         </div>
                 	</div>
            		</div>
-                <!-- Slideshow-Container Ends-->
+			</div>
+            <!-- Slideshow-Container Ends-->
                 
                 <!-- Custom Top Banner Container -->
                 <?php if($display_banner == "yes") { ?>
@@ -292,26 +300,31 @@
 			$flag_disable_left = true;
 		?>		
    			
-            <!-- Slideshow-Container-->
+           <!-- Slideshow-Container-->
             <div class="slideshow-container">
     			<div class="container">
                 	<div class="main-slideshow-wrapper">
                         <div class="row">
-                           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        		<div id="main-slideshow" class="owl-carousel owl-theme">
+
+
+                           <!--<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" -->
+
+                    		<div style="display: block;height:400px;">
+                    		  <!-- div id="background"></div -->
+                                <section class="section-second"></section>
                             	<?php
-	                                while(!$slideshow_query_result->EOF) {
-                                    $slider_image = $slideshow_query_result->fields['slideshow_image'];
+	                         //       while(!$slideshow_query_result->EOF) {
+                            //        $slider_image = $slideshow_query_result->fields['slideshow_image'];
                                     ?>
-                                	<div class="item">
-                                		<img alt="slideshow-images" src="<?php  echo $template->get_template_dir  ('', DIR_WS_TEMPLATE, $current_page_base,'images').'/slideshow/'.$slider_image;?>" >
-                                	</div>
+                                <!--	<div class="item">
+                                		<img alt="slideshow-images" src="<?php /* echo $template->get_template_dir  ('', DIR_WS_TEMPLATE, $current_page_base,'images').'/slideshow/'.$slider_image;*/?>" >
+                                	</div>-->
                                     <?php
-                                	    $slideshow_query_result->MoveNext();
-                                    }
+                               // 	    $slideshow_query_result->MoveNext();
+                               //     }
                                 ?>
-                                </div>
-                            </div>
+                               </div>
+                             <!-- </div>-->
                         </div>
                 	</div>
            		</div>
@@ -355,7 +368,7 @@
                                 <div class="custom-top-banner">
                                     <div class="custom-banner-image col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInUp" data-wow-duration="1s">
                                         <div class="top-banner">
-                                        <?php $banner1a_link ="http://www.zpalette.studio/develop/how-many-fit-ezp-24.html"; ?>
+                                        <?php $banner1a_link ="http://zpalette.studio/develop/index.php?main_page=howManyFit"; ?>
                                             <a href="<?php echo $banner1a_link; ?>"><img alt="custom-banner-1" src="<?php echo $template->get_template_dir
                                                     ('',DIR_WS_TEMPLATE, $current_page_base,'images').'/banners/'.'HOW-MANY-FIT.jpg';?>" />
                                             </a>
@@ -572,8 +585,11 @@
 		  	$flag_disable_right = true;
 		}
 		?>  
-              
+        // @TODO : Narrow slideshow height
         <!-- Main Content Wrapper -->
+       <!-- background video element db -->
+
+        <section class="section-second"></section>
         <div class="main-top">
             <div class="container">
                 <div class="main">
@@ -652,7 +668,7 @@
 												('upload'); ?>
                                                 <!-- eof upload alerts -->
                                                 <?php /*prepares and displays center column*/ ?>
-                                                <?php require($body_code); ?>
+                                                 <?php require($body_code); ?>
                                                 <?php
                                                   if (SHOW_BANNERS_GROUP_SET4 != '' && $banner = zen_banner_exists
 												  ('dynamic', SHOW_BANNERS_GROUP_SET4)) {
@@ -700,6 +716,19 @@
     	</div>
     </div>
 	<?php } ?>
+
+
+	<div style="width:100%;margin:auto 0;padding-bottom:80px;margin-top:60px;">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><span style="color: #000000; font-size: 24px;">
+			<strong><span style="font-family: Lato;">AS SEEN IN</span></strong></span></p>
+                <p style="width:100%;margin:auto 0;text-align:center;"><a href="http://www.zpalette.studio/develop/press-mentions-ezp-30.html">
+                <img class="aligncenter size-large wp-image-107" src="http://www.zpalette.studio/develop/includes/templates/edify/images/asseenin-1024x212.jpg" alt="asseenin" width="980" height="203" /></a></p>
+
+		</div>
+	</div>
+
+
     <!-- Main Content Wrapper Ends -->
     <!-- Code to Display Home Page Version 2 Ends -->
 <?php

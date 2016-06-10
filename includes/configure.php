@@ -6,7 +6,7 @@
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
  * File Built by zc_install on 2016-03-07 11:13:05
  */
-
+ 
 
 /*************** NOTE: This file is similar, but DIFFERENT from the "admin" version of configure.php. ***********/
 /***************       The 2 files should be kept separate and not used to overwrite each other.      ***********/
@@ -15,7 +15,7 @@
   // HTTP_SERVER is your Main webserver: eg-http://www.your_domain.com
   // HTTPS_SERVER is your Secure webserver: eg-https://www.your_domain.com
   define('HTTP_SERVER', 'http://www.zpalette.studio');
-  define('HTTPS_SERVER', 'https://www.zpalette.studio');
+  define('HTTPS_SERVER', 'http://www.zpalette.studio');
 
   // Use secure webserver for checkout procedure?
   define('ENABLE_SSL', 'false');

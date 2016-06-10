@@ -50,8 +50,8 @@ define('HEADER_TITLE_GV_FAQ','Gift Certificate FAQ');
 define('HEADER_TITLE_DISCOUNT_COUPON','Discount Coupons');
 define('HEADER_TITLE_UNSUBSCRIBE','Newsletter Unsubscribe');
 
-//define('HEADER_TITLE_CONTACT_US','Contact Us');
-define('HEADER_TITLE_CONTACT_US','Connect');
+define('HEADER_TITLE_CONTACT_US','Contact Us');
+//define('HEADER_TITLE_CONTACT_US','Connect');
 //define('HEADER_TITLE_LOGIN', 'Log In');  defined in includes/languages/english/apple_zen/header.php
 // define('HEADER_TITLE_CREATE_ACCOUNT','Register'); defined in includes/languages/english/apple_zen/header.php
 define('HEADER_TITLE_NEWSLETTERS','Newsletters');

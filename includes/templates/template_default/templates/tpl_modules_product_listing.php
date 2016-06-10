@@ -7,6 +7,8 @@
  * @copyright Portions Copyright 2003 osCommerce
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
  * @version $Id: tpl_modules_product_listing.php 3241 2006-03-22 04:27:27Z ajeh $
+ * UPDATED TO WORK WITH COLUMNAR PRODUCT LISTING 04/04/2006
+ * Modified for admin control of customer option by Glenn Herbert (gjh42) 2012-09-21   2012-11-17 grid sorter
  */
  include(DIR_WS_MODULES . zen_get_module_directory(FILENAME_PRODUCT_LISTING));
 ?>
@@ -34,7 +36,18 @@
 /**
  * load the list_box_content template to display the products
  */
+if ($product_listing_layout_style == 'columns') {
+  if (PRODUCT_LISTING_GRID_SORT) { 
+    echo "\n" . '<div id="gridSorter">' . PRODUCT_LISTING_GRID_SORT_TEXT . '<ul>';
+    for ($col=0;$col<sizeof($grid_sort);$col++) {
+      if ($grid_sort[$col]['text']) echo '<li class="item">' . $grid_sort[$col]['text'] . '</li>';
+    }
+    echo '</ul></div>' . "\n";
+  }
+  require($template->get_template_dir('tpl_columnar_display.php',DIR_WS_TEMPLATE, $current_page_base,'common'). '/tpl_columnar_display.php');
+} else {// (PRODUCT_LISTING_LAYOUT_STYLE == 'rows')
   require($template->get_template_dir('tpl_tabular_display.php',DIR_WS_TEMPLATE, $current_page_base,'common'). '/tpl_tabular_display.php');
+}
 ?>
 
 <?php if ( ($listing_split->number_of_rows > 0) && ((PREV_NEXT_BAR_LOCATION == '2') || (PREV_NEXT_BAR_LOCATION == '3')) ) {

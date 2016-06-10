@@ -73,9 +73,9 @@ if ($num_images) {
   $row = 0;
   $col = 0;
   if ($num_images < IMAGES_AUTO_ADDED || IMAGES_AUTO_ADDED == 0 ) {
-    $col_width = floor(100/$num_images);
+    $col_width = floor(200/$num_images);
   } else {
-    $col_width = floor(100/IMAGES_AUTO_ADDED);
+    $col_width = floor(200/IMAGES_AUTO_ADDED);
   }
 
   for ($i=0, $n=$num_images; $i<$n; $i++) {
@@ -100,7 +100,7 @@ if ($num_images) {
     //      $link = $alternate_link;
 
     // List Box array generation:
-    $list_box_contents[$row][$col] = array('params' => 'class="additionalImages centeredContent back"' . ' ' . 'style="width:' . $col_width . '%;"',
+    $list_box_contents[$row][$col] = array('params' => 'class="additionalImages centeredContent back"' . ' ' . 'style="border:1px solid #e5e5e5;width:' . '60' . '%;"',
                                            'text' => "\n      " . $link);
     $col ++;
     if ($col > (IMAGES_AUTO_ADDED -1)) {

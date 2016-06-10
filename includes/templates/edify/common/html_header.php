@@ -50,7 +50,7 @@ require(DIR_WS_MODULES . zen_get_module_directory('meta_tags.php'));
 <link rel="stylesheet" href="<?php echo $template->get_template_dir('',DIR_WS_TEMPLATE, $current_page_base,'css').'/animate.css'?>" type="text/css" media="screen" />
 <!-- Animation CSS on Scroll Ends -->
 <!-- Font Awesome CSS -->
-<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.css" rel="stylesheet" />
 <!-- Font Awesome CSS Ends -->
 <!-- Dropdown Select Menu CSS -->
 <link rel="stylesheet" href="<?php echo $template->get_template_dir('',DIR_WS_TEMPLATE, $current_page_base,'css').'/select2.css'?>" type="text/css" media="screen" />
@@ -67,11 +67,11 @@ require($template->get_template_dir('tpl_edify_custom_css.php',DIR_WS_TEMPLATE, 
 ?>
   <!-- db --->
 
-  <style>
+<!--  <style>
     #background {
 
       position: absolute;
-      top: 47%;
+      top: 30%;
       left: 0;
       width: 100%;
       height: 65%;
@@ -81,11 +81,11 @@ require($template->get_template_dir('tpl_edify_custom_css.php',DIR_WS_TEMPLATE, 
       background-position: center center;
       background-size: cover;
       overflow: hidden;
-      z-index: 10;
+      z-index: -10;
     }
-  </style>
+  </style>-->
 
-  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+ <!-- <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
   <script type="text/javascript" src="Vimeofy/src/scripts/vimeofy.js"></script>
   <script>
     var $jq = jQuery.noConflict();
@@ -93,7 +93,7 @@ require($template->get_template_dir('tpl_edify_custom_css.php',DIR_WS_TEMPLATE, 
 
       $jq( '#background' ).vimeofy({
 
-        'url': 'https://vimeo.com/161227359',
+        'url': 'https://www.youtube.com/watch?v=3GO7iwQbfB0',
         'color': '#ffffff',
         'autoplay': true,
         'loop': true,
@@ -101,7 +101,33 @@ require($template->get_template_dir('tpl_edify_custom_css.php',DIR_WS_TEMPLATE, 
       });
     });
 
+  </script>-->
+  <link href="vidbg-master/css/insideElementDemo.css" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script type="text/javascript">
+    $jq = jQuery.noConflict();
+
+   /* $jq(function($jq){*/
+    $jq( document ).ready( function($jq){
+      $jq('.section-second').vidbg({
+        'mp4': 'vidbg-master/media/ZPaletteExperience.mp4',
+        'poster': 'vidbg-master/media/zpbg.jpg',
+      }, {
+        // Options
+        muted: true,
+        loop: true,
+        overlay: false,
+        overlayColor: '#ffffff',
+        overlayAlpha: 0.8,
+      });
+    });
   </script>
+
+  <script type="text/javascript" src="includes/templates/edify/jscript/vidbg.min.js"></script>
+  <script type="text/javascript" src="includes/templates/edify/jscript/howmanyfit.js"></script>
+  <script type="text/javascript" src="includes/templates/edify/jscript/howmanyfit_bo.js"></script>
+  <script type="text/javascript" src="includes/templates/edify/jscript/colorImageSwap.js"></script>
+
   <!-- db -->
 
 <!-- Edify Theme File for Color -->

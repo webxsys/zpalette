@@ -192,8 +192,14 @@ a:hover {
 }
 /*Nav*/
 .nav-maincontainer #nav {
-    background: none repeat scroll 0 0 <?php echo $theme_color[1]; ?>;
+	background: none repeat scroll 0 0 <?php echo $theme_color[1]; ?>;
+	/*border-radius:3px;
+	display:inline-block;*/
+	width: 100%;
+	margin: 0 auto;
+
 }
+
 /* Menu Colors */
 .header-container #nav > li.tab_active > a, .header-container #nav > li:hover > a, .header-container #nav > li > a:active, .header-container .nav > li > a:hover, .header-container .nav > li > a:focus {
 	background-color: <?php echo $theme_color[0]; ?>;
@@ -205,10 +211,18 @@ a:hover {
 	background-color: <?php echo $theme_color[1]; ?>;
 }
 .header-container #nav ul li ul a, .header-container .header #nav li ul a {
-	color: <?php echo $theme_color[0]; ?>;
+	/* color: */  <?php //// echo $theme_color[0]; ?>;
+	oolor:#ffffff;
+
 }
 #nav li > ul {
-    border-bottom: 2px solid <?php echo $theme_color[1]; ?>;
+    border-bottom: 1px solid #53005D;
+	border-TOP: 1px solid #53005D;
+/*	border-radius: 3px;
+    background-color: #808080; */
+	background-color: #53005D;
+
+	/*opacity: 0.9;*/
 	z-index:999;
 }
 .item .product_image .hover_info .zoom-button a, .item .product_image .hover_info .detailbutton-wrapper a, .centerBoxContentsAlsoPurch .product_image .hover_info .detailbutton-wrapper a, .centerBoxContentsAlsoPurch .product_image .hover_info .zoom-button a, #specialsListing .specialsListBoxContents .product_image .hover_info .detailbutton-wrapper a, #specialsListing .specialsListBoxContents .product_image .hover_info .zoom-button a {
@@ -322,10 +336,10 @@ ul.tabs:before {
 	border-bottom:1px solid <?php echo $theme_color[1]; ?>;
 }
 #centercontent-wrapper header:before {
-	background: none repeat scroll 0 0 <?php echo $theme_color[1]; ?>;
+/*	background: none repeat scroll 0 0 */ <?php // echo $theme_color[1]; ?>;
 }
 #centercontent-wrapper header > h1, .brands-wrapper h2, .category-slideshow-wrapper h2, .box_heading h2 { 
-	border: 1px solid <?php echo $theme_color[1]; ?>;
+/*	border: 1px solid */<?php //echo $theme_color[1]; ?>/*;*/
     color: <?php echo $theme_color[1]; ?>;
 }
 /* Menu Border */

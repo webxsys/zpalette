@@ -14,11 +14,20 @@
 /**
  * WE RECOMMEND THAT YOU USE SSL PROTECTION FOR YOUR ENTIRE ADMIN:
  * To do that, make sure you use a "https:" URL for BOTH the HTTP_SERVER and HTTPS_SERVER entries:
- */
+ */ 
   define('HTTP_SERVER', 'http://www.zpalette.studio');
-  define('HTTPS_SERVER', 'https://www.zpalette.studio');
+  define('HTTPS_SERVER', 'http://www.zpalette.studio');
   define('HTTP_CATALOG_SERVER', 'http://www.zpalette.studio');
-  define('HTTPS_CATALOG_SERVER', 'https://www.zpalette.studio');
+  define('HTTPS_CATALOG_SERVER', 'http://www.zpalette.studio');
+
+/*
+
+  define('HTTP_SERVER', 'https://r2-lax.webserversystems.com/~palettepro');
+  define('HTTPS_SERVER', 'https://r2-lax.webserversystems.com/~palettepro');
+  define('HTTP_CATALOG_SERVER', 'https://r2-lax.webserversystems.com/~palettepro');
+  define('HTTPS_CATALOG_SERVER', 'https://r2-lax.webserversystems.com/~palettepro');
+*/
+
 
   // secure webserver for admin?  Valid choices are 'true' or 'false' (including quotes).
   define('ENABLE_SSL_ADMIN', 'false');

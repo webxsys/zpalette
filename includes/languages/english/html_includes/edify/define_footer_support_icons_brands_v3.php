@@ -5,13 +5,13 @@
             <div class="our-services-details">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow flipInX" data-wow-delay="0.2s">
                     <div class="custom-block free-shipping">
-                        <i class="<?php echo $custom_block1_icon; ?>"></i>
+                        <i class="<?php // echo $custom_block1_icon; ?>"></i>
                         <span class="block-content">
                             <span class="block-title">
-                                <?php echo $custom_block1_title; ?>
+                                <?php // echo $custom_block1_title; ?>
                             </span>
                             <span class="block-text">
-                                <?php echo $custom_block1_subtitle; ?>
+                                <?php // echo $custom_block1_subtitle; ?>
                             </span>
                         </span>
                     </div>

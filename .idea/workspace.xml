@@ -2,22 +2,518 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2542e2f1-5e3f-47af-b24d-b231a9daf535" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/css/howmanyfit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/howmanyfit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/howmanyfit.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/js/howmanyfit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/howmanyfit/js/howmanyfit_bo.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/images/banners/payment.png" afterPath="$PROJECT_DIR$/includes/templates/edify/images/banners/payment.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide1.jpg" afterPath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide2.jpg" afterPath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide3.jpg" afterPath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc1.gif" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc2.gif" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc2.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc3.gif" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc3.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc4.gif" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc4.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc5.gif" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc5.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/.gitignore" afterPath="$PROJECT_DIR$/Vimeofy/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/.jshintrc" afterPath="$PROJECT_DIR$/Vimeofy/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/Gruntfile.js" afterPath="$PROJECT_DIR$/Vimeofy/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/README.md" afterPath="$PROJECT_DIR$/Vimeofy/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/bower.json" afterPath="$PROJECT_DIR$/Vimeofy/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/package.json" afterPath="$PROJECT_DIR$/Vimeofy/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/src/styles/_background.less" afterPath="$PROJECT_DIR$/Vimeofy/src/styles/_background.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/src/styles/styles.less" afterPath="$PROJECT_DIR$/Vimeofy/src/styles/styles.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax.php" afterPath="$PROJECT_DIR$/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.htaccess" afterPath="$PROJECT_DIR$/docs/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/0.about_zen_cart.html" afterPath="$PROJECT_DIR$/docs/0.about_zen_cart.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/1.readme_installation.html" afterPath="$PROJECT_DIR$/docs/1.readme_installation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/2.readme_how_to_upgrade.html" afterPath="$PROJECT_DIR$/docs/2.readme_how_to_upgrade.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/changed_files-v1-5-0.html" afterPath="$PROJECT_DIR$/docs/changed_files-v1-5-0.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/changed_files-v1-5-1.html" afterPath="$PROJECT_DIR$/docs/changed_files-v1-5-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/changed_files-v1-5-2.html" afterPath="$PROJECT_DIR$/docs/changed_files-v1-5-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/changed_files-v1-5-3.html" afterPath="$PROJECT_DIR$/docs/changed_files-v1-5-3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/changed_files-v1-5-4.html" afterPath="$PROJECT_DIR$/docs/changed_files-v1-5-4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/important_site_security_recommendations.html" afterPath="$PROJECT_DIR$/docs/important_site_security_recommendations.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/whatsnew_1.5.1.html" afterPath="$PROJECT_DIR$/docs/whatsnew_1.5.1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/whatsnew_1.5.2.html" afterPath="$PROJECT_DIR$/docs/whatsnew_1.5.2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/whatsnew_1.5.3.html" afterPath="$PROJECT_DIR$/docs/whatsnew_1.5.3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/whatsnew_1.5.4.html" afterPath="$PROJECT_DIR$/docs/whatsnew_1.5.4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/download/.htaccess" afterPath="$PROJECT_DIR$/download/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/editors/.htaccess" afterPath="$PROJECT_DIR$/editors/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/email/.htaccess" afterPath="$PROJECT_DIR$/email/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extras/.htaccess" afterPath="$PROJECT_DIR$/extras/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extras/curltester.php" afterPath="$PROJECT_DIR$/extras/curltester.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extras/ipncheck.php" afterPath="$PROJECT_DIR$/extras/ipncheck.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/howmanyfit/js/howmanyfit.js" afterPath="$PROJECT_DIR$/howmanyfit/js/howmanyfit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/.htaccess" afterPath="$PROJECT_DIR$/images/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/.htaccess" afterPath="$PROJECT_DIR$/includes/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/application_top.php" afterPath="$PROJECT_DIR$/includes/application_top.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/auto_loaders/config.core.php" afterPath="$PROJECT_DIR$/includes/auto_loaders/config.core.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/auto_loaders/config.google_recaptcha.php" afterPath="$PROJECT_DIR$/includes/auto_loaders/config.google_recaptcha.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/auto_loaders/config.products_viewed_counter.php" afterPath="$PROJECT_DIR$/includes/auto_loaders/config.products_viewed_counter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/auto_loaders/index.html" afterPath="$PROJECT_DIR$/includes/auto_loaders/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/auto_loaders/overrides/index.html" afterPath="$PROJECT_DIR$/includes/auto_loaders/overrides/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/auto_loaders/paypal_ipn.core.php" afterPath="$PROJECT_DIR$/includes/auto_loaders/paypal_ipn.core.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/ajax/zcAjaxPayment.php" afterPath="$PROJECT_DIR$/includes/classes/ajax/zcAjaxPayment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/class.base.php" afterPath="$PROJECT_DIR$/includes/classes/class.base.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/class.phpmailer.php" afterPath="$PROJECT_DIR$/includes/classes/class.phpmailer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/class.smtp.php" afterPath="$PROJECT_DIR$/includes/classes/class.smtp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/class.zcPassword.php" afterPath="$PROJECT_DIR$/includes/classes/class.zcPassword.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/db/mysql/query_factory.php" afterPath="$PROJECT_DIR$/includes/classes/db/mysql/query_factory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/observers/class.products_viewed_counter.php" afterPath="$PROJECT_DIR$/includes/classes/observers/class.products_viewed_counter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/observers/index.html" afterPath="$PROJECT_DIR$/includes/classes/observers/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/order.php" afterPath="$PROJECT_DIR$/includes/classes/order.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/products.php" afterPath="$PROJECT_DIR$/includes/classes/products.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/query_cache.php" afterPath="$PROJECT_DIR$/includes/classes/query_cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/shipping.php" afterPath="$PROJECT_DIR$/includes/classes/shipping.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/shopping_cart.php" afterPath="$PROJECT_DIR$/includes/classes/shopping_cart.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/split_page_results.php" afterPath="$PROJECT_DIR$/includes/classes/split_page_results.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/class.html2text.php" afterPath="$PROJECT_DIR$/includes/classes/support/class.html2text.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/htmlfilter.php" afterPath="$PROJECT_DIR$/includes/classes/support/htmlfilter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/index.html" afterPath="$PROJECT_DIR$/includes/classes/support/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/ntlm_sasl_client.php" afterPath="$PROJECT_DIR$/includes/classes/support/ntlm_sasl_client.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ar.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-br.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-br.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ca.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ca.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ch.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-cz.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-cz.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-de.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-de.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-dk.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-dk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-en.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-en.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-eo.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-eo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-es.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-es.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-et.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-et.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-fi.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-fi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-fo.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-fo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-fr.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-fr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-he.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-he.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-hu.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-hu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-it.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-it.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ja.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ja.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-nl.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-nl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-no.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-no.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-pl.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-pl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ro.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ro.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ru.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ru.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-se.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-se.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-sk.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-sk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-tr.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-tr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-zh.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-zh.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-zh_cn.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-zh_cn.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/usu.php" afterPath="$PROJECT_DIR$/includes/classes/usu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/.travis.yml" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/LICENSE.md" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/LICENSE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/README.md" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/composer.json" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/lib/password.php" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/lib/password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/phpunit.xml.dist" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/phpunit.xml.dist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordGetInfoTest.php" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordGetInfoTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordHashTest.php" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordHashTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordNeedsRehashTest.php" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordNeedsRehashTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordVerifyTest.php" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordVerifyTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/version-test.php" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/version-test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/configure.php" afterPath="$PROJECT_DIR$/includes/configure.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/extra_cart_actions/index.html" afterPath="$PROJECT_DIR$/includes/extra_cart_actions/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/extra_configures/enable_error_logging.php" afterPath="$PROJECT_DIR$/includes/extra_configures/enable_error_logging.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/extra_configures/pci_patch_13x_search.php" afterPath="$PROJECT_DIR$/includes/extra_configures/pci_patch_13x_search.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/extra_configures/security_patch_v138_20080919.php" afterPath="$PROJECT_DIR$/includes/extra_configures/security_patch_v138_20080919.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/extra_configures/set_time_zone.php" afterPath="$PROJECT_DIR$/includes/extra_configures/set_time_zone.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/extra_datafiles/products_viewed_counter.php" afterPath="$PROJECT_DIR$/includes/extra_datafiles/products_viewed_counter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/form_check.js.php" afterPath="$PROJECT_DIR$/includes/form_check.js.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/audience.php" afterPath="$PROJECT_DIR$/includes/functions/audience.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/compatibility.php" afterPath="$PROJECT_DIR$/includes/functions/compatibility.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/extra_functions/zen_lightbox.php" afterPath="$PROJECT_DIR$/includes/functions/extra_functions/zen_lightbox.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/functions_categories.php" afterPath="$PROJECT_DIR$/includes/functions/functions_categories.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/functions_customers.php" afterPath="$PROJECT_DIR$/includes/functions/functions_customers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/functions_email.php" afterPath="$PROJECT_DIR$/includes/functions/functions_email.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/functions_general.php" afterPath="$PROJECT_DIR$/includes/functions/functions_general.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/functions_gvcoupons.php" afterPath="$PROJECT_DIR$/includes/functions/functions_gvcoupons.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/functions_lookups.php" afterPath="$PROJECT_DIR$/includes/functions/functions_lookups.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/password_compat.php" afterPath="$PROJECT_DIR$/includes/functions/password_compat.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/password_funcs.php" afterPath="$PROJECT_DIR$/includes/functions/password_funcs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/plugin_support.php" afterPath="$PROJECT_DIR$/includes/functions/plugin_support.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/sessions.php" afterPath="$PROJECT_DIR$/includes/functions/sessions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/index.html" afterPath="$PROJECT_DIR$/includes/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/index_filters/record_company_filter.php" afterPath="$PROJECT_DIR$/includes/index_filters/record_company_filter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/index.html" afterPath="$PROJECT_DIR$/includes/init_includes/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_add_crumbs.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_add_crumbs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_canonical.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_canonical.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_cart_handler.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_cart_handler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_database.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_db_config_read.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_db_config_read.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_file_db_names.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_file_db_names.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_general_funcs.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_general_funcs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_gzip.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_gzip.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_header.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_observers.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_observers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_sanitize.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_sanitize.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_sessions.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_sessions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_special_funcs.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_special_funcs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/overrides/index.html" afterPath="$PROJECT_DIR$/includes/init_includes/overrides/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/initsystem.php" afterPath="$PROJECT_DIR$/includes/initsystem.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/edify/english.php" afterPath="$PROJECT_DIR$/includes/languages/edify/english.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english.php" afterPath="$PROJECT_DIR$/includes/languages/english.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/checkout_success.php" afterPath="$PROJECT_DIR$/includes/languages/english/checkout_success.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/create_account.php" afterPath="$PROJECT_DIR$/includes/languages/english/create_account.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/create_account_success.php" afterPath="$PROJECT_DIR$/includes/languages/english/create_account_success.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/download_time_out.php" afterPath="$PROJECT_DIR$/includes/languages/english/download_time_out.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/edify/create_account.php" afterPath="$PROJECT_DIR$/includes/languages/english/edify/create_account.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/extra_definitions/edify/headermenu.php" afterPath="$PROJECT_DIR$/includes/languages/english/extra_definitions/edify/headermenu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/extra_definitions/edify/zen_lightbox.php" afterPath="$PROJECT_DIR$/includes/languages/english/extra_definitions/edify/zen_lightbox.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_checkout_success.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_checkout_success.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_conditions.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_conditions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_contact_us.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_contact_us.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_discount_coupon.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_discount_coupon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_2.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_3.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_4.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_not_found.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_not_found.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_privacy.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_privacy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_shippinginfo.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_shippinginfo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_site_map.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_site_map.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_checkout_success.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_checkout_success.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_conditions.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_conditions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_contact_us.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_contact_us.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_discount_coupon.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_discount_coupon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_main_page.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_main_page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_2.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_3.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_4.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_not_found.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_not_found.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_privacy.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_privacy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_shippinginfo.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_shippinginfo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_site_map.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_site_map.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_account_links.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_account_links.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_social_icons.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_social_icons.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_support_icons_brands.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_support_icons_brands.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_support_icons_brands_v3.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_support_icons_brands_v3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_mega_menu.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_mega_menu.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/meta_tags.php" afterPath="$PROJECT_DIR$/includes/languages/english/meta_tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/modules/order_total/ot_cod_fee.php" afterPath="$PROJECT_DIR$/includes/languages/english/modules/order_total/ot_cod_fee.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/modules/payment/linkpoint_api.php" afterPath="$PROJECT_DIR$/includes/languages/english/modules/payment/linkpoint_api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/modules/payment/paypal.php" afterPath="$PROJECT_DIR$/includes/languages/english/modules/payment/paypal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/modules/payment/paypaldp.php" afterPath="$PROJECT_DIR$/includes/languages/english/modules/payment/paypaldp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/modules/payment/paypalwpp.php" afterPath="$PROJECT_DIR$/includes/languages/english/modules/payment/paypalwpp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/modules/shipping/storepickup.php" afterPath="$PROJECT_DIR$/includes/languages/english/modules/shipping/storepickup.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/page.php" afterPath="$PROJECT_DIR$/includes/languages/english/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/popup_coupon_help.php" afterPath="$PROJECT_DIR$/includes/languages/english/popup_coupon_help.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/main_cart_actions.php" afterPath="$PROJECT_DIR$/includes/main_cart_actions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/additional_images.php" afterPath="$PROJECT_DIR$/includes/modules/additional_images.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/attributes.php" afterPath="$PROJECT_DIR$/includes/modules/attributes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/checkout_new_address.php" afterPath="$PROJECT_DIR$/includes/modules/checkout_new_address.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/checkout_process.php" afterPath="$PROJECT_DIR$/includes/modules/checkout_process.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/create_account.php" afterPath="$PROJECT_DIR$/includes/modules/create_account.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/edify/additional_images.php" afterPath="$PROJECT_DIR$/includes/modules/edify/additional_images.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/edify/attributes.php" afterPath="$PROJECT_DIR$/includes/modules/edify/attributes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/edify/new_products.php" afterPath="$PROJECT_DIR$/includes/modules/edify/new_products.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/edify/product_listing.php" afterPath="$PROJECT_DIR$/includes/modules/edify/product_listing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/extra_definitions.php" afterPath="$PROJECT_DIR$/includes/modules/extra_definitions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/extra_functions.php" afterPath="$PROJECT_DIR$/includes/modules/extra_functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/media_manager.php" afterPath="$PROJECT_DIR$/includes/modules/media_manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/meta_tags.php" afterPath="$PROJECT_DIR$/includes/modules/meta_tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/new_products.php" afterPath="$PROJECT_DIR$/includes/modules/new_products.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/order_total/ot_cod_fee.php" afterPath="$PROJECT_DIR$/includes/modules/order_total/ot_cod_fee.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/order_total/ot_group_pricing.php" afterPath="$PROJECT_DIR$/includes/modules/order_total/ot_group_pricing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/order_total/ot_gv.php" afterPath="$PROJECT_DIR$/includes/modules/order_total/ot_gv.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/order_total/ot_shipping.php" afterPath="$PROJECT_DIR$/includes/modules/order_total/ot_shipping.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/account_edit/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/account_edit/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/account_password/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/account_password/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/account_password/jscript_form_check.php" afterPath="$PROJECT_DIR$/includes/modules/pages/account_password/jscript_form_check.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/advanced_search_result/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/advanced_search_result/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/advanced_search_result/jscript_onload_helper.php" afterPath="$PROJECT_DIR$/includes/modules/pages/advanced_search_result/jscript_onload_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/checkout_confirmation/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/checkout_confirmation/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/checkout_payment/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/checkout_payment/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/checkout_payment_address/jscript_main.php" afterPath="$PROJECT_DIR$/includes/modules/pages/checkout_payment_address/jscript_main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/checkout_shipping/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/checkout_shipping/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/checkout_shipping_address/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/checkout_shipping_address/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/checkout_shipping_address/jscript_main.php" afterPath="$PROJECT_DIR$/includes/modules/pages/checkout_shipping_address/jscript_main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/checkout_success/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/checkout_success/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/contact_us/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/contact_us/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/create_account/jscript_form_check.php" afterPath="$PROJECT_DIR$/includes/modules/pages/create_account/jscript_form_check.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/create_account_success/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/create_account_success/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/discount_coupon/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/discount_coupon/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/document_general_info/jscript_textarea_counter.js" afterPath="$PROJECT_DIR$/includes/modules/pages/document_general_info/jscript_textarea_counter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/document_general_info/main_template_vars.php" afterPath="$PROJECT_DIR$/includes/modules/pages/document_general_info/main_template_vars.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/document_product_info/jscript_textarea_counter.js" afterPath="$PROJECT_DIR$/includes/modules/pages/document_product_info/jscript_textarea_counter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/document_product_info/main_template_vars.php" afterPath="$PROJECT_DIR$/includes/modules/pages/document_product_info/main_template_vars.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/download/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/download/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/gv_send/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/gv_send/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/index/main_template_vars.php" afterPath="$PROJECT_DIR$/includes/modules/pages/index/main_template_vars.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/login/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/login/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/login/jscript_form_check.php" afterPath="$PROJECT_DIR$/includes/modules/pages/login/jscript_form_check.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/password_forgotten/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/password_forgotten/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/product_free_shipping_info/jscript_textarea_counter.js" afterPath="$PROJECT_DIR$/includes/modules/pages/product_free_shipping_info/jscript_textarea_counter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/product_info/jscript_textarea_counter.js" afterPath="$PROJECT_DIR$/includes/modules/pages/product_info/jscript_textarea_counter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/product_music_info/jscript_textarea_counter.js" afterPath="$PROJECT_DIR$/includes/modules/pages/product_music_info/jscript_textarea_counter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/shopping_cart/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/shopping_cart/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/time_out/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/time_out/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/authorizenet.php" afterPath="$PROJECT_DIR$/includes/modules/payment/authorizenet.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/authorizenet_aim.php" afterPath="$PROJECT_DIR$/includes/modules/payment/authorizenet_aim.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/authorizenet_echeck.php" afterPath="$PROJECT_DIR$/includes/modules/payment/authorizenet_echeck.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/cod.php" afterPath="$PROJECT_DIR$/includes/modules/payment/cod.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/freecharger.php" afterPath="$PROJECT_DIR$/includes/modules/payment/freecharger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/linkpoint_api.php" afterPath="$PROJECT_DIR$/includes/modules/payment/linkpoint_api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/linkpoint_api/index.html" afterPath="$PROJECT_DIR$/includes/modules/payment/linkpoint_api/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/moneyorder.php" afterPath="$PROJECT_DIR$/includes/modules/payment/moneyorder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/paypal.php" afterPath="$PROJECT_DIR$/includes/modules/payment/paypal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/paypal/logs/.htaccess" afterPath="$PROJECT_DIR$/includes/modules/payment/paypal/logs/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/paypal/logs/index.html" afterPath="$PROJECT_DIR$/includes/modules/payment/paypal/logs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/paypal/paypal_curl.php" afterPath="$PROJECT_DIR$/includes/modules/payment/paypal/paypal_curl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/paypal/paypal_functions.php" afterPath="$PROJECT_DIR$/includes/modules/payment/paypal/paypal_functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/paypaldp.php" afterPath="$PROJECT_DIR$/includes/modules/payment/paypaldp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/paypalwpp.php" afterPath="$PROJECT_DIR$/includes/modules/payment/paypalwpp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/products_quantity_discounts.php" afterPath="$PROJECT_DIR$/includes/modules/products_quantity_discounts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/shipping/freeoptions.php" afterPath="$PROJECT_DIR$/includes/modules/shipping/freeoptions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/shipping/storepickup.php" afterPath="$PROJECT_DIR$/includes/modules/shipping/storepickup.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/shipping_estimator.php" afterPath="$PROJECT_DIR$/includes/modules/shipping_estimator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/sideboxes/currencies.php" afterPath="$PROJECT_DIR$/includes/modules/sideboxes/currencies.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/sideboxes/information.php" afterPath="$PROJECT_DIR$/includes/modules/sideboxes/information.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/sideboxes/manufacturers.php" afterPath="$PROJECT_DIR$/includes/modules/sideboxes/manufacturers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/upcoming_products.php" afterPath="$PROJECT_DIR$/includes/modules/upcoming_products.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/common/html_header.php" afterPath="$PROJECT_DIR$/includes/templates/edify/common/html_header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/common/tpl_columnar_display.php" afterPath="$PROJECT_DIR$/includes/templates/edify/common/tpl_columnar_display.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php" afterPath="$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/common/tpl_footer.php" afterPath="$PROJECT_DIR$/includes/templates/edify/common/tpl_footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/common/tpl_header.php" afterPath="$PROJECT_DIR$/includes/templates/edify/common/tpl_header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php" afterPath="$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/css/menumaker.css" afterPath="$PROJECT_DIR$/includes/templates/edify/css/menumaker.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" afterPath="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/jscript/cloud-zoom.1.0.3.js" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/cloud-zoom.1.0.3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/jscript/edify_homepage_1.js" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/edify_homepage_1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_contact_us_default.php" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_contact_us_default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_index_product_list.php" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_index_product_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_attributes.php" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_attributes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_main_product_image.php" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_main_product_image.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_product_listing.php" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_product_listing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_product_info_display.php" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_product_info_display.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/common/html_header.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/common/html_header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/common/tpl_header.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/common/tpl_header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/css/stylesheet.css" afterPath="$PROJECT_DIR$/includes/templates/template_default/css/stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/css/stylesheet_css_buttons.css" afterPath="$PROJECT_DIR$/includes/templates/template_default/css/stylesheet_css_buttons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/jscript/jquery.min.js" afterPath="$PROJECT_DIR$/includes/templates/template_default/jscript/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/jscript/jscript_framework.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/jscript/jscript_framework.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/popup_coupon_help/tpl_main_page.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/popup_coupon_help/tpl_main_page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/popup_search_help/tpl_main_page.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/popup_search_help/tpl_main_page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/sideboxes/tpl_reviews_random.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/sideboxes/tpl_reviews_random.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_account_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_account_default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_advanced_search_result_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_advanced_search_result_default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_checkout_shipping_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_checkout_shipping_default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_contact_us_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_contact_us_default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_index_product_list.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_index_product_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_login_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_login_default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_modules_category_row.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_modules_category_row.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_modules_create_account.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_modules_create_account.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_modules_product_listing.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_modules_product_listing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_page_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_page_default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_page_not_found_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_page_not_found_default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_product_info_noproduct.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_product_info_noproduct.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_product_reviews_write_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_product_reviews_write_default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_site_map_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_site_map_default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_time_out_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_time_out_default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_zc_install_suggested_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_zc_install_suggested_default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/version.php" afterPath="$PROJECT_DIR$/includes/version.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ipn_main_handler.php" afterPath="$PROJECT_DIR$/ipn_main_handler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/.htaccess" afterPath="$PROJECT_DIR$/logs/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/index.html" afterPath="$PROJECT_DIR$/logs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/index.php" afterPath="$PROJECT_DIR$/logs/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457394191-28680.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457394191-28680.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457394196-808161.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457394196-808161.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457406159-39239.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457406159-39239.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457406367-784211.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457406367-784211.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457406380-460461.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457406380-460461.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457466750-783955.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457466750-783955.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457550705-991147.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457550705-991147.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457598116-633185.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457598116-633185.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457847812-25109.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457847812-25109.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1458942959-913766.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1458942959-913766.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1458942960-341366.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1458942960-341366.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1458942961-148132.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1458942961-148132.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1458942965-88680.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1458942965-88680.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1458942966-1559.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1458942966-1559.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1458942967-230586.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1458942967-230586.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1459510670-39038.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1459510670-39038.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1459510671-400982.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1459510671-400982.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1460366201-680424.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1460366201-680424.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1460366299-975185.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1460366299-975185.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1460399256-82634.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1460399256-82634.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1460399996-310618.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1460399996-310618.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1460659136-516861.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1460659136-516861.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1460660690-282007.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1460660690-282007.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1460661951-23387.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1460661951-23387.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1461091331-371323.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1461091331-371323.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1461358247-310583.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1461358247-310583.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1461358257-467656.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1461358257-467656.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746189-820605.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746189-820605.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746354-490316.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746354-490316.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746406-605072.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746406-605072.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746407-608875.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746407-608875.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/zcInstallExceptionDetails_Feb-22-2016_04-19-46-u9a5vh.log" afterPath="$PROJECT_DIR$/logs/zcInstallExceptionDetails_Feb-22-2016_04-19-46-u9a5vh.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/zcInstallExceptionDetails_Mar-07-2016_11-06-41-VK2Lep.log" afterPath="$PROJECT_DIR$/logs/zcInstallExceptionDetails_Mar-07-2016_11-06-41-VK2Lep.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/zcInstallLog_Feb-22-2016_04-19-46-u9a5vh.log" afterPath="$PROJECT_DIR$/logs/zcInstallLog_Feb-22-2016_04-19-46-u9a5vh.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/zcInstallLog_Mar-07-2016_11-06-41-VK2Lep.log" afterPath="$PROJECT_DIR$/logs/zcInstallLog_Mar-07-2016_11-06-41-VK2Lep.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/.htaccess" afterPath="$PROJECT_DIR$/media/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pub/.htaccess" afterPath="$PROJECT_DIR$/pub/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/admin_configure.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/admin_configure.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/application_top.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/application_top.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/classes/class.installer_version_manager.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/classes/class.installer_version_manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/classes/installer.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/classes/installer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/functions/general.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/functions/general.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/functions/sessions.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/functions/sessions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/installer_params.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/installer_params.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/languages/english.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/languages/english.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/languages/english/index.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/languages/english/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/languages/english/license.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/languages/english/license.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/admin_setup/header_php.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/admin_setup/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/database_setup/header_php.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/database_setup/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/database_upgrade/header_php.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/database_upgrade/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/inspect/header_php.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/inspect/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/store_setup/header_php.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/store_setup/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/system_setup/header_php.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/system_setup/header_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/phpinfo.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/phpinfo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/store_configure.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/store_configure.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/templates/template_default/common/main_template_vars.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/templates/template_default/common/main_template_vars.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/templates/template_default/templates/admin_setup_default.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/templates/template_default/templates/admin_setup_default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/templates/template_default/templates/tpl_php_version_problem.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/templates/template_default/templates/tpl_php_version_problem.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/index.php" afterPath="$PROJECT_DIR$/xxzc_install/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/popup_help_screen.php" afterPath="$PROJECT_DIR$/xxzc_install/popup_help_screen.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/db_rebuild_autoincrement.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/db_rebuild_autoincrement.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_latin1.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_latin1.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_138_to_139.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_138_to_139.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_139_to_150.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_139_to_150.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_150_to_151.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_150_to_151.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_151_to_152.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_151_to_152.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_152_to_153.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_152_to_153.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_153_to_154.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_153_to_154.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_utf8.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_utf8.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_zencart.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_zencart.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/version.php" afterPath="$PROJECT_DIR$/xxzc_install/version.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/.htaccess" afterPath="$PROJECT_DIR$/zadmin/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/admin_activity.php" afterPath="$PROJECT_DIR$/zadmin/admin_activity.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/admin_page_registration.php" afterPath="$PROJECT_DIR$/zadmin/admin_page_registration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/alert_page.php" afterPath="$PROJECT_DIR$/zadmin/alert_page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/alt_nav.php" afterPath="$PROJECT_DIR$/zadmin/alt_nav.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/attributes_controller.php" afterPath="$PROJECT_DIR$/zadmin/attributes_controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/banner_manager.php" afterPath="$PROJECT_DIR$/zadmin/banner_manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/categories.php" afterPath="$PROJECT_DIR$/zadmin/categories.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/coupon_restrict.php" afterPath="$PROJECT_DIR$/zadmin/coupon_restrict.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/customers.php" afterPath="$PROJECT_DIR$/zadmin/customers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/define_pages_editor.php" afterPath="$PROJECT_DIR$/zadmin/define_pages_editor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/developers_tool_kit.php" afterPath="$PROJECT_DIR$/zadmin/developers_tool_kit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/.htaccess" afterPath="$PROJECT_DIR$/zadmin/includes/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/application_top.php" afterPath="$PROJECT_DIR$/zadmin/includes/application_top.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/attributes_preview.php" afterPath="$PROJECT_DIR$/zadmin/includes/attributes_preview.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.admin.zcObserverLogEventListener.php" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.admin.zcObserverLogEventListener.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.admin.zcObserverLogWriterDatabase.php" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.admin.zcObserverLogWriterDatabase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.admin.zcObserverLogWriterTextfile.php" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.admin.zcObserverLogWriterTextfile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.olark_live_chat_widget.php" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.olark_live_chat_widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.usu.php" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.usu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/auto_loaders/index.html" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/auto_loaders/overrides/index.html" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/overrides/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/classes/box.php" afterPath="$PROJECT_DIR$/zadmin/includes/classes/box.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/classes/class.admin.zcObserverLogEventListener.php" afterPath="$PROJECT_DIR$/zadmin/includes/classes/class.admin.zcObserverLogEventListener.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/classes/class.admin.zcObserverLogWriterDatabase.php" afterPath="$PROJECT_DIR$/zadmin/includes/classes/class.admin.zcObserverLogWriterDatabase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/classes/class.admin.zcObserverLogWriterTextfile.php" afterPath="$PROJECT_DIR$/zadmin/includes/classes/class.admin.zcObserverLogWriterTextfile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/classes/plugin.php" afterPath="$PROJECT_DIR$/zadmin/includes/classes/plugin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/classes/split_page_results_new.php" afterPath="$PROJECT_DIR$/zadmin/includes/classes/split_page_results_new.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/classes/table_block.php" afterPath="$PROJECT_DIR$/zadmin/includes/classes/table_block.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/configure.php" afterPath="$PROJECT_DIR$/zadmin/includes/configure.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/dist-configure.php" afterPath="$PROJECT_DIR$/zadmin/includes/dist-configure.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/extra_configures/enable_error_logging.php" afterPath="$PROJECT_DIR$/zadmin/includes/extra_configures/enable_error_logging.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/extra_configures/plugin.php" afterPath="$PROJECT_DIR$/zadmin/includes/extra_configures/plugin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/extra_configures/security_patch_v138_20090619.php" afterPath="$PROJECT_DIR$/zadmin/includes/extra_configures/security_patch_v138_20090619.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/extra_configures/use_catalog_time_zone.php" afterPath="$PROJECT_DIR$/zadmin/includes/extra_configures/use_catalog_time_zone.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/admin_access.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/admin_access.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/database.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/extra_functions/add_cookie_path_switch.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/extra_functions/add_cookie_path_switch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/extra_functions/usu.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/extra_functions/usu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/functions_metatags.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/functions_metatags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/functions_prices.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/functions_prices.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/general.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/general.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/html_output.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/html_output.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/localization.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/localization.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/graphs/banner_daily.php" afterPath="$PROJECT_DIR$/zadmin/includes/graphs/banner_daily.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/graphs/banner_infobox.php" afterPath="$PROJECT_DIR$/zadmin/includes/graphs/banner_infobox.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/graphs/banner_monthly.php" afterPath="$PROJECT_DIR$/zadmin/includes/graphs/banner_monthly.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/graphs/banner_yearly.php" afterPath="$PROJECT_DIR$/zadmin/includes/graphs/banner_yearly.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/header.php" afterPath="$PROJECT_DIR$/zadmin/includes/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/index.html" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_admin_auth.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_admin_auth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_category_path.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_category_path.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_currencies.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_currencies.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_database.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_errors.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_errors.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_file_db_names.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_file_db_names.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_general_funcs.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_general_funcs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_gzip.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_gzip.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_html_editor.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_html_editor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_image_handler.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_image_handler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_languages.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_languages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_sanitize.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_sanitize.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_sessions.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_sessions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_tlds.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_tlds.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/overrides/index.html" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/overrides/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/initsystem.php" afterPath="$PROJECT_DIR$/zadmin/includes/initsystem.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/attributes_controller.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/attributes_controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/categories.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/categories.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/countries.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/countries.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/coupon_admin.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/coupon_admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/coupon_restrict.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/coupon_restrict.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/developers_tool_kit.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/developers_tool_kit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/document_general.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/document_general.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/document_product.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/document_product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/email_extras.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/email_extras.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/extra_definitions/onlyFor139.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/extra_definitions/onlyFor139.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/extra_definitions/usu.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/extra_definitions/usu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/extra_definitions/zen_lightbox.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/extra_definitions/zen_lightbox.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/index.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/login.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/modules/plugin/plugin.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/modules/plugin/plugin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/modules/plugin/usu.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/modules/plugin/usu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/options_values_manager.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/options_values_manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/password_forgotten.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/password_forgotten.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/product.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/product_free_shipping.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/product_free_shipping.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/product_music.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/product_music.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/stats_customers_referrals.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/stats_customers_referrals.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/store_manager.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/store_manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/whos_online.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/whos_online.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/category_product_listing.phpIH_1456111420.OLD.IH4" afterPath="$PROJECT_DIR$/zadmin/includes/modules/category_product_listing.phpIH_1456111420.OLD.IH4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/document_general/preview_info.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/document_general/preview_info.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/document_general/preview_info_meta_tags.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/document_general/preview_info_meta_tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/document_product/preview_info.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/document_product/preview_info.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/document_product/preview_info_meta_tags.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/document_product/preview_info_meta_tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/product/preview_info.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/product/preview_info.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/product/preview_info_meta_tags.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/product/preview_info_meta_tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/product_free_shipping/preview_info.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/product_free_shipping/preview_info.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/product_free_shipping/preview_info_meta_tags.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/product_free_shipping/preview_info_meta_tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/product_music/preview_info.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/product_music/preview_info.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/product_music/preview_info_meta_tags.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/product_music/preview_info_meta_tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/products_previous_next.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/products_previous_next.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/products_previous_next_display.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/products_previous_next_display.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/update_product_meta_tags.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/update_product_meta_tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/index.php" afterPath="$PROJECT_DIR$/zadmin/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/login.php" afterPath="$PROJECT_DIR$/zadmin/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/mail.php" afterPath="$PROJECT_DIR$/zadmin/mail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/media_manager.php" afterPath="$PROJECT_DIR$/zadmin/media_manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/option_values.php" afterPath="$PROJECT_DIR$/zadmin/option_values.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/options_name_manager.old.php" afterPath="$PROJECT_DIR$/zadmin/options_name_manager.old.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/options_values_manager.php" afterPath="$PROJECT_DIR$/zadmin/options_values_manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/orders.php" afterPath="$PROJECT_DIR$/zadmin/orders.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/password_forgotten.php" afterPath="$PROJECT_DIR$/zadmin/password_forgotten.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/product.php" afterPath="$PROJECT_DIR$/zadmin/product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/product_types.php" afterPath="$PROJECT_DIR$/zadmin/product_types.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/products_price_manager.php" afterPath="$PROJECT_DIR$/zadmin/products_price_manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/products_to_categories.php" afterPath="$PROJECT_DIR$/zadmin/products_to_categories.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/specials.php" afterPath="$PROJECT_DIR$/zadmin/specials.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/sqlpatch.php" afterPath="$PROJECT_DIR$/zadmin/sqlpatch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/stats_customers_referrals.php" afterPath="$PROJECT_DIR$/zadmin/stats_customers_referrals.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/users.php" afterPath="$PROJECT_DIR$/zadmin/users.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/whos_online.php" afterPath="$PROJECT_DIR$/zadmin/whos_online.php" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,6 +533,12 @@
     <option name="SORT_POSITIONED" value="false" />
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+    </PATH>
     <PATH>
       <PATH_ELEMENT>
         <option name="myItemId" />
@@ -67,81 +569,35 @@
     <favorites_list name="zp" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="tpl_main_page.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/templates/classic/css/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.538462">
-              <caret line="396" column="122" selection-start-line="396" selection-start-column="122" selection-end-line="396" selection-end-column="122" />
+            <state vertical-scroll-proportion="-11.5">
+              <caret line="575" column="23" selection-start-line="575" selection-start-column="23" selection-end-line="575" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="templatecss.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tpl_edify_custom_css.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.763637">
+              <caret line="203" column="91" selection-start-line="203" selection-start-column="89" selection-end-line="203" selection-end-column="91" />
+              <folding>
+                <marker date="1465562223364" expanded="true" signature="287:301" placeholder="SELECT * FRO..${DB_PREFIX}..." />
+                <marker date="1465562223364" expanded="true" signature="3277:3291" placeholder="SELECT * fro..${DB_PREFIX}..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="templatecss.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/templatecss.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.54717">
-              <caret line="6430" column="20" selection-start-line="6430" selection-start-column="20" selection-end-line="6430" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="palettep_zenacart.edify" pinned="false" current-in-tab="true">
-        <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.edify">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tpl_header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.269231">
-              <caret line="218" column="18" selection-start-line="218" selection-start-column="18" selection-end-line="218" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tpl_drop_menu_mega.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_drop_menu_mega.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.692307">
-              <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-              <folding>
-                <marker date="1461920392117" expanded="true" signature="1837:1926" placeholder="select * fro..${DB_PREFIX}categories..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="define_header_main_menu.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.769231">
-              <caret line="210" column="79" selection-start-line="210" selection-start-column="79" selection-end-line="210" selection-end-column="79" />
-              <folding>
-                <marker date="1461949062365" expanded="true" signature="294:383" placeholder="select * fro..${DB_PREFIX}categories..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tpl_drop_menu.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_drop_menu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.802">
+              <caret line="7117" column="4" selection-start-line="7117" selection-start-column="4" selection-end-line="7117" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -161,9 +617,33 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/howmanyfit/howmanyfit.tpl" />
-        <option value="$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php" />
-        <option value="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" />
+        <option value="$PROJECT_DIR$/includes/init_includes/init_templates.php" />
+        <option value="&lt;a8d72702-1e87-44ec-a92e-d19e620c3fc0&gt;/develop/includes/templates/edify/common/tpl_main_page.php" />
+        <option value="&lt;a8d72702-1e87-44ec-a92e-d19e620c3fc0&gt;/develop/includes/templates/edify/common/html_header.php" />
+        <option value="$PROJECT_DIR$/includes/modules/edify/attributes.php" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/jscript/colorImageSwap.js" />
+        <option value="$PROJECT_DIR$/Vimeofy/src/assets/vimeofy.php" />
+        <option value="$PROJECT_DIR$/bideo.js-master/index.html" />
+        <option value="$PROJECT_DIR$/bideo.js-master/main.js" />
+        <option value="$PROJECT_DIR$/vidbg-master/demo/elementDemo.html" />
+        <option value="$PROJECT_DIR$/vidbg-master/src/vidbg.js" />
+        <option value="$PROJECT_DIR$/vidbg-master/demo/css/insideElementDemo.css" />
+        <option value="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_social_icons.php" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/jscript/howmanyfit.js" />
+        <option value="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_account_links.php" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/common/tpl_header.php" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/templates/tpl_product_info_display.php" />
         <option value="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/common/html_header.php" />
+        <option value="$PROJECT_DIR$/vidbg-master/css/insideElementDemo.css" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/common/tpl_columnar_display.php" />
+        <option value="&lt;a8d72702-1e87-44ec-a92e-d19e620c3fc0&gt;/develop/includes/templates/template_default/common/tpl_columnar_display.php" />
+        <option value="&lt;a8d72702-1e87-44ec-a92e-d19e620c3fc0&gt;/develop/includes/templates/edify/templates/tpl_modules_product_listing.php" />
+        <option value="&lt;a8d72702-1e87-44ec-a92e-d19e620c3fc0&gt;/develop/includes/templates/edify/css/templatecss.css" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/css/menumaker.css" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" />
+        <option value="$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php" />
       </list>
     </option>
   </component>
@@ -172,12 +652,15 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="22" />
-    <option name="width" value="1616" />
-    <option name="height" value="1186" />
+    <option name="x" value="107" />
+    <option name="y" value="41" />
+    <option name="width" value="1534" />
+    <option name="height" value="856" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -204,6 +687,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -218,7 +703,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zpalette" />
+              <option name="myItemId" value="zpalette_master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -228,7 +713,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zpalette" />
+              <option name="myItemId" value="zpalette_master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -242,7 +727,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zpalette" />
+              <option name="myItemId" value="zpalette_master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -260,7 +745,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zpalette" />
+              <option name="myItemId" value="zpalette_master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -282,7 +767,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zpalette" />
+              <option name="myItemId" value="zpalette_master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -304,8 +789,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -316,6 +799,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -325,14 +809,15 @@
       <TestRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
-      <BehatRunner />
-      <method />
-    </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -343,6 +828,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2542e2f1-5e3f-47af-b24d-b231a9daf535" name="Default" comment="" />
@@ -353,221 +841,461 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1616" height="1186" extended-state="6" />
+    <frame x="107" y="41" width="1534" height="856" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24033505" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1651671" sideWeight="0.5041225" order="0" side_tool="true" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2403599" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28501946" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2003891" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.115335055" sideWeight="0.4958775" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20895523" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17232022" sideWeight="0.49458483" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25350317" sideWeight="0.510661" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.292853" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37617135" sideWeight="0.48933902" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23092999" sideWeight="0.4968017" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2583668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17232022" sideWeight="0.50541514" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923833" sideWeight="0.49773464" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17106201" sideWeight="0.55284554" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/searches.php">
+    <entry file="file://$PROJECT_DIR$/Vide/src/jquery.vide.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.576923">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        <state vertical-scroll-proportion="-0.39968652">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vide/examples/body-bg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bideo.js-master/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vide/examples/block-bg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.653847">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bideo.js-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="35.307693">
+          <caret line="84" column="22" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/howmanyfit/howmanyfit.tpl">
+    <entry file="file://$PROJECT_DIR$/Vimeofy/src/scripts/vimeofy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vidbg-master/demo/css/insideElementDemo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vidbg-master/demo/fullscreenDemo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
-          <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vidbg-master/demo/elementDemo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48552632">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/template_default/common/tpl_main_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95526314">
+          <caret line="79" column="3" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vidbg-master/src/vidbg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.021628499">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#div#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#div#3;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_social_icons.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.384615">
+          <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/jscript/howmanyfit_bo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/jscript/howmanyfit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/howmanyfit/howmanyfit.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.115385">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assoc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_aboutus_column.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/1.readme_installation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="90" column="332" selection-start-line="90" selection-start-column="332" selection-end-line="90" selection-end-column="332" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/templates/tpl_account_default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7090909">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="126" column="18" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a4c301ce/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.edify">
+      <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/templates/tpl_product_info_display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.6153846">
+          <caret line="202" column="17" selection-start-line="202" selection-start-column="17" selection-end-line="202" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_account_links.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.384615">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="16760" selection-start-line="4" selection-start-column="16760" selection-end-line="4" selection-end-column="16760" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a4c301ce/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.products_attributes">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a4c301ce/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.products_options">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a4c301ce/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.products_options_values">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.961538">
+          <caret line="303" column="13" selection-start-line="303" selection-start-column="13" selection-end-line="303" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.384615">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/html_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.6153846">
+          <caret line="119" column="30" selection-start-line="119" selection-start-column="30" selection-end-line="119" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_products_all_listing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.014218">
+          <caret line="123" column="151" selection-start-line="123" selection-start-column="151" selection-end-line="123" selection-end-column="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_main_product_image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a4c301ce/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.configuration">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vidbg-master/css/insideElementDemo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.346153">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_products_new_listing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.6477876">
+          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_tabular_display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48350397">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_product_listing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16837315">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_columnar_display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="49" column="39" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
           <folding>
-            <marker date="1456236085000" expanded="true" signature="1123:1307" placeholder="CREATE TABLE..${_DB_PREFIX_}..." />
-            <marker date="1456236085000" expanded="true" signature="1338:1559" placeholder="CREATE TABLE..${_DB_PREFIX_}..." />
-            <marker date="1456236085000" expanded="true" signature="1590:1936" placeholder="CREATE TABLE..${_DB_PREFIX_}..." />
-            <marker date="1456236085000" expanded="true" signature="2184:2230" placeholder="DROP TABLE `..." />
-            <marker date="1456236085000" expanded="true" signature="2265:2312" placeholder="DROP TABLE `..." />
-            <marker date="1456236085000" expanded="true" signature="2347:2394" placeholder="DROP TABLE `..." />
-            <marker date="1456236085000" expanded="true" signature="3062:3256" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="3075:3237" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="3086:3223" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="3250:3256" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="3330:3751" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="3923:3980" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="4059:4116" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="4835:5001" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="4849:4980" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="4861:4965" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="4994:5001" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="5081:5424" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="5608:5668" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="5777:5817" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="5809:5817" placeholder="..." />
-            <marker date="1456236085000" expanded="false" signature="6630:6640" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="6641:6771" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="6719:6771" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="6765:6771" placeholder="..." />
-            <marker date="1456236085000" expanded="false" signature="7024:7034" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7035:7243" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7115:7225" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7163:7214" placeholder="..." />
-            <marker date="1456236085000" expanded="false" signature="7291:7301" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7302:8027" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7382:7448" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7527:7591" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7667:7732" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7809:7875" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="7951:8016" placeholder="..." />
-            <marker date="1456236085000" expanded="false" signature="8381:8393" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="9060:9448" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="9075:9425" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="9088:9409" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="9440:9448" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="9542:10192" placeholder="..." />
-            <marker date="1456236085000" expanded="true" signature="12091:12118" placeholder="SELECT MAX(i..${_DB_PREFIX_}..." />
-            <marker date="1456236085000" expanded="true" signature="12794:12905" placeholder="SELECT id_br..${_DB_PREFIX_}..." />
-            <marker date="1456236085000" expanded="true" signature="14723:14740" placeholder="SELECT * FRO..${_DB_PREFIX_}..." />
-            <marker date="1456236085000" expanded="true" signature="15004:15021" placeholder="SELECT * FRO..${_DB_PREFIX_}..." />
-            <marker date="1456236085000" expanded="true" signature="15336:15353" placeholder="SELECT * FRO..${_DB_PREFIX_}..." />
+            <element signature="e#6#471#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.configuration">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.configuration_group">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.featured">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/docs/0.about_zen_cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024531025">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.538462">
-          <caret line="396" column="122" selection-start-line="396" selection-start-column="122" selection-end-line="396" selection-end-column="122" />
+        <state vertical-scroll-proportion="-6.3846154">
+          <caret line="591" column="5" selection-start-line="591" selection-start-column="5" selection-end-line="591" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/modules/edify/attributes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5769231">
+          <caret line="243" column="64" selection-start-line="243" selection-start-column="64" selection-end-line="243" selection-end-column="64" />
+          <folding>
+            <marker date="1464636955000" expanded="true" signature="745:1108" placeholder="select count..${TABLE_PRODUCTS_OPTIONS}..." />
+            <marker date="1464636955000" expanded="true" signature="1491:2317" placeholder="select disti..${TABLE_PRODUCTS_OPTIONS}..." />
+            <marker date="1464636955000" expanded="true" signature="3579:4160" placeholder="select pov.p..${TABLE_PRODUCTS_ATTRIBUTES}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_upcoming_products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.923077">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/template_default/css/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.3076925">
+          <caret line="529" column="634" selection-start-line="529" selection-start-column="634" selection-end-line="529" selection-end-column="634" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/modules/classic/product_listing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="164.1923">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/modules/edify/product_listing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="28.384615">
+          <caret line="115" column="5" selection-start-line="115" selection-start-column="5" selection-end-line="115" selection-end-column="5" />
+          <caret line="116" column="3" selection-start-line="116" selection-start-column="3" selection-end-line="116" selection-end-column="3" />
+          <caret line="117" column="28" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
+          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <caret line="120" column="28" selection-start-line="120" selection-start-column="28" selection-end-line="120" selection-end-column="28" />
+          <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+          <caret line="122" column="26" selection-start-line="122" selection-start-column="26" selection-end-line="122" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="7" column="616" selection-start-line="7" selection-start-column="616" selection-end-line="7" selection-end-column="616" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4956012">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/menumaker.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.018182">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/classic/css/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.5">
+          <caret line="575" column="23" selection-start-line="575" selection-start-column="23" selection-end-line="575" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.763637">
+          <caret line="203" column="91" selection-start-line="203" selection-start-column="89" selection-end-line="203" selection-end-column="91" />
+          <folding>
+            <marker date="1465562223364" expanded="true" signature="287:301" placeholder="SELECT * FRO..${DB_PREFIX}..." />
+            <marker date="1465562223364" expanded="true" signature="3277:3291" placeholder="SELECT * fro..${DB_PREFIX}..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/templatecss.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.54717">
-          <caret line="6430" column="20" selection-start-line="6430" selection-start-column="20" selection-end-line="6430" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_drop_menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.769231">
-          <caret line="210" column="79" selection-start-line="210" selection-start-column="79" selection-end-line="210" selection-end-column="79" />
-          <folding>
-            <marker date="1461949062365" expanded="true" signature="294:383" placeholder="select * fro..${DB_PREFIX}categories..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_drop_menu_mega.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.692307">
-          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-          <folding>
-            <marker date="1461920392117" expanded="true" signature="1837:1926" placeholder="select * fro..${DB_PREFIX}categories..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.269231">
-          <caret line="218" column="18" selection-start-line="218" selection-start-column="18" selection-end-line="218" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/fa6479b9/08f56470-8a28-4682-a0dc-1c63a0b44b05/palettep_zenacart.edify">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.802">
+          <caret line="7117" column="4" selection-start-line="7117" selection-start-column="4" selection-end-line="7117" selection-end-column="4" />
           <folding />
         </state>
       </provider>

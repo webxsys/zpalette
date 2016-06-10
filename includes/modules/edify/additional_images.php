@@ -73,9 +73,9 @@ if ($num_images) {
   $row = 0;
   $col = 0;
   if ($num_images < IMAGES_AUTO_ADDED || IMAGES_AUTO_ADDED == 0 ) {
-    $col_width = floor(100/$num_images);
+    $col_width = floor(200/$num_images);
   } else {
-    $col_width = floor(100/IMAGES_AUTO_ADDED);
+    $col_width = floor(200/IMAGES_AUTO_ADDED);
   }
 
   for ($i=0, $n=$num_images; $i<$n; $i++) {
@@ -84,8 +84,9 @@ if ($num_images) {
     // bof Zen Lightbox 2008-12-11 aclarke
 	if (function_exists('handle_image')) {
 		// bof Zen Lightbox 2013-08-24 mc12345678 
-		$newimg = handle_image($products_image_large, addslashes($products_name), LARGE_IMAGE_WIDTH, LARGE_IMAGE_HEIGHT,'');
-		list($src, $alt, $width, $height, $parameters) = $newimg; 
+		$newimg = handle_image($products_image_large, addslashes($products_name), LARGE_IMAGE_WIDTH, LARGE_IMAGE_HEIGHT,'img-thumb');
+
+        list($src, $alt, $width, $height, $parameters) = $newimg;
 			
 		$products_image_large = zen_output_string($src);
 		// eof Zen Lightbox 2013-08-24 mc12345678
@@ -98,6 +99,8 @@ if ($num_images) {
     $flag_display_large = (IMAGE_ADDITIONAL_DISPLAY_LINK_EVEN_WHEN_NO_LARGE == 'Yes' || $flag_has_large);
     $base_image = $products_image_directory . $file;
     $thumb_slashes = zen_image(addslashes($base_image), addslashes($products_name), SMALL_IMAGE_WIDTH, SMALL_IMAGE_HEIGHT);
+
+
 	// bof Zen Lightbox 2008-12-11 aclarke
 	if (function_exists('handle_image')) {
 	// remove additional single quotes from image attributes (important!)

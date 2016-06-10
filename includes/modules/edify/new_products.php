@@ -146,12 +146,12 @@ $lc_button = '<a href="' . zen_href_link($_GET['main_page'], zen_get_all_get_par
       $category_title = zen_get_categories_name((int)$new_products_category_id);
       $title = '
 	  <div class="box_heading box_heading_new">
-	  	<header><h2>'. sprintf(TABLE_HEADING_NEW_PRODUCTS, strftime('%B')) . ($category_title != '' ? ' - ' . $category_title : '' ) . ' </h2></header>
+	  	<header><h1>'. sprintf(TABLE_HEADING_NEW_PRODUCTS, strftime('%B')) . ($category_title != '' ? ' - ' . $category_title : '' ) . ' </h1></header>
 	</div>';
     } else {
       $title = '
 	<div class="box_heading box_heading_new">
-	  	<header><h2>'. sprintf(TABLE_HEADING_NEW_PRODUCTS, strftime('%B')) . ($category_title != '' ? ' - ' . $category_title : '' ) . ' </h2></header>
+	  	<header><h1>'. sprintf(TABLE_HEADING_NEW_PRODUCTS, strftime('%B')) . ($category_title != '' ? ' - ' . $category_title : '' ) . ' </h1></header>
 	</div>';
     }
     $zc_show_new_products = true;

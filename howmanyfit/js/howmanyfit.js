@@ -16,6 +16,8 @@ $(document).ready(function() {
 
 	function getAssoc(id_brand, id_makeup)
 	{
+		var rec =  "<?php echo $assoc_array[5][1]; ?>";
+		alert(rec);
 
 		var palette_content = $('.assoc').find('.brandmakeup_'+id_brand+'_'+id_makeup).clone();
 
