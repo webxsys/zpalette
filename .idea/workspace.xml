@@ -2,518 +2,292 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2542e2f1-5e3f-47af-b24d-b231a9daf535" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/images/banners/payment.png" afterPath="$PROJECT_DIR$/includes/templates/edify/images/banners/payment.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide1.jpg" afterPath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide2.jpg" afterPath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide3.jpg" afterPath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc1.gif" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc1.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc2.gif" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc2.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc3.gif" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc3.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc4.gif" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc4.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc5.gif" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc5.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_black-a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_black-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_black-c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_black-d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_large-c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_large-d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_leopard-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_leopard-c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_leopard-d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_zebra-a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_zebra-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_zebra.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/50_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/50_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/50_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-brushstroke.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-brushstroke_large-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-brushstroke_large-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-brushstroke_large-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-brushstroke_large-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-bubbles.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-bubbles_small-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-bubbles_small-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-bubbles_small-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-bubbles_small-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-bubbles_small-e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-classic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-classic_large-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-classic_large-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-classic_large-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-classic_large-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/black-a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/black-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/black-c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/black-d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/categories/medium-zpalette-c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome_a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome_c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome_d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome_e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome_palette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided-a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided-c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided-z-palette-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided-z-palette-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided-z-palette-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided-z-palette.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided_a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided_c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double_sided_.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double_sided_palette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalettee,-main.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large_a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large_c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large_d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra_large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra_large_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/gift_certificates/gv_5_small-black.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_black-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_black-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_black-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_black-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_lavender-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_lavender-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_lavender-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_lavender-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_lavender.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_leopard-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_leopard-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_leopard-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_leopard-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_leopard.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_orange-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_orange-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_orange-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_orange-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_orange.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pearlwhite-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pearlwhite-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pearlwhite-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pearlwhite-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pearlwhite.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pink-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pink-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pink-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pink-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pink.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_skyblue-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_skyblue-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_skyblue-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_skyblue-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_skyblue.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_yellow-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_yellow-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_yellow-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_yellow-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_yellow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_zebra-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_zebra-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_zebra-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_zebra-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_zebra.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-hotpink.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/leopard-a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/leopard-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/leopard-c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/leopard-d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/leopard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette-a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette-d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette_a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette_c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette_d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mini_palette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mini_round_metal_pans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mini_round_metal_pans.pxr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mini_z_palette.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mini_z_palette_black-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mini_z_palette_black-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mini_z_palette_black-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mirror-z-palette.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/round-empty-metal-pans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/round-metal-stckers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-black-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-black-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-black-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-leopard-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-leopard-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-leopard-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-leopard.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-pink-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-pink-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-pink-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-pink.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black_small-black-a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black_small-black-b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black_small-black-c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black_small-pink.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-pink-zpalette.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/spatula.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/square_empty_metal_pans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/square_metal_stickers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zebra-a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zebra-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zebra-c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zebra-d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zebra.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/buttons/english/zen_lightbox.old/closelabel.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/buttons/english/zen_lightbox.old/nextlabel.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/buttons/english/zen_lightbox.old/prevlabel.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/47.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/48-714x1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/49-750x1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/501-731x1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/52-1024x663.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/53-398x1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/88.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/89-770x1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/90-770x1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/91-770x1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/92-770x1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/93-770x1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/94-770x1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/95-770x1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/96-770x1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/97-770x1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/98-770x1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/asseenin-1024x212.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/banners/payment2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/zen_lightbox.old/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/zen_lightbox.old/closelabel.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/zen_lightbox.old/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/zen_lightbox.old/nextlabel.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/zen_lightbox.old/prevlabel.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc1a.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc2a.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc3a.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc4a.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc5a.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/assoc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/classes/howManyFit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/classes/zen_lightbox.old/autoload_default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/classes/zen_lightbox.old/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/classes/zen_lightbox.old/slimbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/languages/english/extra_definitions/edify/column_layout_grid_defines.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/languages/english/extra_definitions/edify/zen_lightbox.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/languages/english/modules/shipping/usps.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/classic/product_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/edify/additional_images.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/edify/product_listing.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/document_general_info/jscript_zen_lightbox.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/document_product_info/jscript_zen_lightbox.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/howManyFit/header_php.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/page/jscript_zen_lightbox.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/product_free_shipping_info/jscript_zen_lightbox.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/product_info/jscript_zen_lightbox.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/product_music_info/jscript_zen_lightbox.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/product_reviews/jscript_zen_lightbox.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/product_reviews_info/jscript_zen_lightbox.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/product_reviews_write/jscript_zen_lightbox.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/shipping/usps.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/auto_loaders/loader_zen_lightbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/css/zen_lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/assoc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/colorImageSwap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/howmanyfit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/howmanyfit_bo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/jquery-1.4.4.min.js.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/jquery.dump.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/jquery/jquery_zen_lightbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/jquery/jquery_zen_lightbox_options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/jscript_zen_lightbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/vidbg.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_howManyFit_default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_index_product_list.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_main_product_image.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_main_product_image.php.old.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_product_listing.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_index_product_list.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_modules_product_listing.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.zen_lightbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zadmin/includes/extra_datafiles/zen_lightbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_zen_lightbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zadmin/includes/installers/zen_lightbox/1_7_0.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/.gitignore" afterPath="$PROJECT_DIR$/Vimeofy/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/.jshintrc" afterPath="$PROJECT_DIR$/Vimeofy/.jshintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/Gruntfile.js" afterPath="$PROJECT_DIR$/Vimeofy/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/README.md" afterPath="$PROJECT_DIR$/Vimeofy/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/bower.json" afterPath="$PROJECT_DIR$/Vimeofy/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/package.json" afterPath="$PROJECT_DIR$/Vimeofy/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/src/styles/_background.less" afterPath="$PROJECT_DIR$/Vimeofy/src/styles/_background.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vimeofy/src/styles/styles.less" afterPath="$PROJECT_DIR$/Vimeofy/src/styles/styles.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax.php" afterPath="$PROJECT_DIR$/ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.htaccess" afterPath="$PROJECT_DIR$/docs/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/0.about_zen_cart.html" afterPath="$PROJECT_DIR$/docs/0.about_zen_cart.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/1.readme_installation.html" afterPath="$PROJECT_DIR$/docs/1.readme_installation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/2.readme_how_to_upgrade.html" afterPath="$PROJECT_DIR$/docs/2.readme_how_to_upgrade.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/changed_files-v1-5-0.html" afterPath="$PROJECT_DIR$/docs/changed_files-v1-5-0.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/changed_files-v1-5-1.html" afterPath="$PROJECT_DIR$/docs/changed_files-v1-5-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/changed_files-v1-5-2.html" afterPath="$PROJECT_DIR$/docs/changed_files-v1-5-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/changed_files-v1-5-3.html" afterPath="$PROJECT_DIR$/docs/changed_files-v1-5-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/changed_files-v1-5-4.html" afterPath="$PROJECT_DIR$/docs/changed_files-v1-5-4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/important_site_security_recommendations.html" afterPath="$PROJECT_DIR$/docs/important_site_security_recommendations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/whatsnew_1.5.1.html" afterPath="$PROJECT_DIR$/docs/whatsnew_1.5.1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/whatsnew_1.5.2.html" afterPath="$PROJECT_DIR$/docs/whatsnew_1.5.2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/whatsnew_1.5.3.html" afterPath="$PROJECT_DIR$/docs/whatsnew_1.5.3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/whatsnew_1.5.4.html" afterPath="$PROJECT_DIR$/docs/whatsnew_1.5.4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/download/.htaccess" afterPath="$PROJECT_DIR$/download/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/editors/.htaccess" afterPath="$PROJECT_DIR$/editors/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/email/.htaccess" afterPath="$PROJECT_DIR$/email/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extras/.htaccess" afterPath="$PROJECT_DIR$/extras/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extras/curltester.php" afterPath="$PROJECT_DIR$/extras/curltester.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extras/ipncheck.php" afterPath="$PROJECT_DIR$/extras/ipncheck.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/howmanyfit/js/howmanyfit.js" afterPath="$PROJECT_DIR$/howmanyfit/js/howmanyfit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/.htaccess" afterPath="$PROJECT_DIR$/images/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/.htaccess" afterPath="$PROJECT_DIR$/includes/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/application_top.php" afterPath="$PROJECT_DIR$/includes/application_top.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/auto_loaders/config.core.php" afterPath="$PROJECT_DIR$/includes/auto_loaders/config.core.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/auto_loaders/config.google_recaptcha.php" afterPath="$PROJECT_DIR$/includes/auto_loaders/config.google_recaptcha.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/auto_loaders/config.products_viewed_counter.php" afterPath="$PROJECT_DIR$/includes/auto_loaders/config.products_viewed_counter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/auto_loaders/index.html" afterPath="$PROJECT_DIR$/includes/auto_loaders/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/auto_loaders/overrides/index.html" afterPath="$PROJECT_DIR$/includes/auto_loaders/overrides/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/auto_loaders/paypal_ipn.core.php" afterPath="$PROJECT_DIR$/includes/auto_loaders/paypal_ipn.core.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/ajax/zcAjaxPayment.php" afterPath="$PROJECT_DIR$/includes/classes/ajax/zcAjaxPayment.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/class.base.php" afterPath="$PROJECT_DIR$/includes/classes/class.base.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/class.phpmailer.php" afterPath="$PROJECT_DIR$/includes/classes/class.phpmailer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/class.smtp.php" afterPath="$PROJECT_DIR$/includes/classes/class.smtp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/class.zcPassword.php" afterPath="$PROJECT_DIR$/includes/classes/class.zcPassword.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/db/mysql/query_factory.php" afterPath="$PROJECT_DIR$/includes/classes/db/mysql/query_factory.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/observers/class.products_viewed_counter.php" afterPath="$PROJECT_DIR$/includes/classes/observers/class.products_viewed_counter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/observers/index.html" afterPath="$PROJECT_DIR$/includes/classes/observers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/order.php" afterPath="$PROJECT_DIR$/includes/classes/order.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/products.php" afterPath="$PROJECT_DIR$/includes/classes/products.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/query_cache.php" afterPath="$PROJECT_DIR$/includes/classes/query_cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/shipping.php" afterPath="$PROJECT_DIR$/includes/classes/shipping.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/shopping_cart.php" afterPath="$PROJECT_DIR$/includes/classes/shopping_cart.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/split_page_results.php" afterPath="$PROJECT_DIR$/includes/classes/split_page_results.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/class.html2text.php" afterPath="$PROJECT_DIR$/includes/classes/support/class.html2text.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/htmlfilter.php" afterPath="$PROJECT_DIR$/includes/classes/support/htmlfilter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/index.html" afterPath="$PROJECT_DIR$/includes/classes/support/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/ntlm_sasl_client.php" afterPath="$PROJECT_DIR$/includes/classes/support/ntlm_sasl_client.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ar.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-br.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-br.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ca.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ca.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ch.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ch.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-cz.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-cz.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-de.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-de.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-dk.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-dk.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-en.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-en.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-eo.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-eo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-es.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-es.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-et.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-et.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-fi.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-fi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-fo.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-fo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-fr.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-fr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-he.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-he.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-hu.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-hu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-it.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-it.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ja.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ja.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-nl.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-nl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-no.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-no.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-pl.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-pl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ro.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ro.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ru.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-ru.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-se.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-se.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-sk.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-sk.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-tr.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-tr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-zh.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-zh.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-zh_cn.php" afterPath="$PROJECT_DIR$/includes/classes/support/phpmailer.lang-zh_cn.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/usu.php" afterPath="$PROJECT_DIR$/includes/classes/usu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/.travis.yml" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/LICENSE.md" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/LICENSE.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/README.md" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/composer.json" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/lib/password.php" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/lib/password.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/phpunit.xml.dist" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/phpunit.xml.dist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordGetInfoTest.php" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordGetInfoTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordHashTest.php" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordHashTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordNeedsRehashTest.php" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordNeedsRehashTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordVerifyTest.php" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/test/Unit/PasswordVerifyTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/version-test.php" afterPath="$PROJECT_DIR$/includes/classes/vendors/password_compat-master/version-test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/configure.php" afterPath="$PROJECT_DIR$/includes/configure.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/extra_cart_actions/index.html" afterPath="$PROJECT_DIR$/includes/extra_cart_actions/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/extra_configures/enable_error_logging.php" afterPath="$PROJECT_DIR$/includes/extra_configures/enable_error_logging.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/extra_configures/pci_patch_13x_search.php" afterPath="$PROJECT_DIR$/includes/extra_configures/pci_patch_13x_search.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/extra_configures/security_patch_v138_20080919.php" afterPath="$PROJECT_DIR$/includes/extra_configures/security_patch_v138_20080919.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/extra_configures/set_time_zone.php" afterPath="$PROJECT_DIR$/includes/extra_configures/set_time_zone.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/extra_datafiles/products_viewed_counter.php" afterPath="$PROJECT_DIR$/includes/extra_datafiles/products_viewed_counter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/form_check.js.php" afterPath="$PROJECT_DIR$/includes/form_check.js.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/audience.php" afterPath="$PROJECT_DIR$/includes/functions/audience.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/compatibility.php" afterPath="$PROJECT_DIR$/includes/functions/compatibility.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/extra_functions/zen_lightbox.php" afterPath="$PROJECT_DIR$/includes/functions/extra_functions/zen_lightbox.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/functions_categories.php" afterPath="$PROJECT_DIR$/includes/functions/functions_categories.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/functions_customers.php" afterPath="$PROJECT_DIR$/includes/functions/functions_customers.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/functions_email.php" afterPath="$PROJECT_DIR$/includes/functions/functions_email.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/functions_general.php" afterPath="$PROJECT_DIR$/includes/functions/functions_general.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/functions_gvcoupons.php" afterPath="$PROJECT_DIR$/includes/functions/functions_gvcoupons.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/functions_lookups.php" afterPath="$PROJECT_DIR$/includes/functions/functions_lookups.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/password_compat.php" afterPath="$PROJECT_DIR$/includes/functions/password_compat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/password_funcs.php" afterPath="$PROJECT_DIR$/includes/functions/password_funcs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/plugin_support.php" afterPath="$PROJECT_DIR$/includes/functions/plugin_support.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions/sessions.php" afterPath="$PROJECT_DIR$/includes/functions/sessions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/index.html" afterPath="$PROJECT_DIR$/includes/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/index_filters/record_company_filter.php" afterPath="$PROJECT_DIR$/includes/index_filters/record_company_filter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/index.html" afterPath="$PROJECT_DIR$/includes/init_includes/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_add_crumbs.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_add_crumbs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_canonical.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_canonical.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_cart_handler.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_cart_handler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_database.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_db_config_read.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_db_config_read.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_file_db_names.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_file_db_names.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_general_funcs.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_general_funcs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_gzip.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_gzip.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_header.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_observers.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_observers.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_sanitize.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_sanitize.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_sessions.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_sessions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/init_special_funcs.php" afterPath="$PROJECT_DIR$/includes/init_includes/init_special_funcs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/init_includes/overrides/index.html" afterPath="$PROJECT_DIR$/includes/init_includes/overrides/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/initsystem.php" afterPath="$PROJECT_DIR$/includes/initsystem.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/edify/english.php" afterPath="$PROJECT_DIR$/includes/languages/edify/english.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english.php" afterPath="$PROJECT_DIR$/includes/languages/english.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/checkout_success.php" afterPath="$PROJECT_DIR$/includes/languages/english/checkout_success.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/create_account.php" afterPath="$PROJECT_DIR$/includes/languages/english/create_account.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/create_account_success.php" afterPath="$PROJECT_DIR$/includes/languages/english/create_account_success.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/download_time_out.php" afterPath="$PROJECT_DIR$/includes/languages/english/download_time_out.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/edify/create_account.php" afterPath="$PROJECT_DIR$/includes/languages/english/edify/create_account.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/extra_definitions/edify/headermenu.php" afterPath="$PROJECT_DIR$/includes/languages/english/extra_definitions/edify/headermenu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/extra_definitions/edify/zen_lightbox.php" afterPath="$PROJECT_DIR$/includes/languages/english/extra_definitions/edify/zen_lightbox.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_checkout_success.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_checkout_success.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_conditions.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_conditions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_contact_us.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_contact_us.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_discount_coupon.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_discount_coupon.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_2.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_3.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_4.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_not_found.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_page_not_found.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_privacy.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_privacy.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_shippinginfo.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_shippinginfo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_site_map.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/classic/define_site_map.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_checkout_success.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_checkout_success.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_conditions.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_conditions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_contact_us.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_contact_us.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_discount_coupon.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_discount_coupon.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_main_page.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_main_page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_2.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_3.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_4.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_not_found.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_page_not_found.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_privacy.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_privacy.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_shippinginfo.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_shippinginfo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/define_site_map.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/define_site_map.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_account_links.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_account_links.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_social_icons.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_social_icons.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_support_icons_brands.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_support_icons_brands.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_support_icons_brands_v3.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_support_icons_brands_v3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_mega_menu.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_mega_menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_header_main_menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/meta_tags.php" afterPath="$PROJECT_DIR$/includes/languages/english/meta_tags.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/modules/order_total/ot_cod_fee.php" afterPath="$PROJECT_DIR$/includes/languages/english/modules/order_total/ot_cod_fee.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/modules/payment/linkpoint_api.php" afterPath="$PROJECT_DIR$/includes/languages/english/modules/payment/linkpoint_api.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/modules/payment/paypal.php" afterPath="$PROJECT_DIR$/includes/languages/english/modules/payment/paypal.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/modules/payment/paypaldp.php" afterPath="$PROJECT_DIR$/includes/languages/english/modules/payment/paypaldp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/modules/payment/paypalwpp.php" afterPath="$PROJECT_DIR$/includes/languages/english/modules/payment/paypalwpp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/modules/shipping/storepickup.php" afterPath="$PROJECT_DIR$/includes/languages/english/modules/shipping/storepickup.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/page.php" afterPath="$PROJECT_DIR$/includes/languages/english/page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/popup_coupon_help.php" afterPath="$PROJECT_DIR$/includes/languages/english/popup_coupon_help.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/main_cart_actions.php" afterPath="$PROJECT_DIR$/includes/main_cart_actions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/additional_images.php" afterPath="$PROJECT_DIR$/includes/modules/additional_images.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/attributes.php" afterPath="$PROJECT_DIR$/includes/modules/attributes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/checkout_new_address.php" afterPath="$PROJECT_DIR$/includes/modules/checkout_new_address.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/checkout_process.php" afterPath="$PROJECT_DIR$/includes/modules/checkout_process.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/create_account.php" afterPath="$PROJECT_DIR$/includes/modules/create_account.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/edify/additional_images.php" afterPath="$PROJECT_DIR$/includes/modules/edify/additional_images.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/edify/attributes.php" afterPath="$PROJECT_DIR$/includes/modules/edify/attributes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/edify/new_products.php" afterPath="$PROJECT_DIR$/includes/modules/edify/new_products.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/edify/product_listing.php" afterPath="$PROJECT_DIR$/includes/modules/edify/product_listing.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/extra_definitions.php" afterPath="$PROJECT_DIR$/includes/modules/extra_definitions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/extra_functions.php" afterPath="$PROJECT_DIR$/includes/modules/extra_functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/media_manager.php" afterPath="$PROJECT_DIR$/includes/modules/media_manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/meta_tags.php" afterPath="$PROJECT_DIR$/includes/modules/meta_tags.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/new_products.php" afterPath="$PROJECT_DIR$/includes/modules/new_products.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/order_total/ot_cod_fee.php" afterPath="$PROJECT_DIR$/includes/modules/order_total/ot_cod_fee.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/order_total/ot_group_pricing.php" afterPath="$PROJECT_DIR$/includes/modules/order_total/ot_group_pricing.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/order_total/ot_gv.php" afterPath="$PROJECT_DIR$/includes/modules/order_total/ot_gv.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/order_total/ot_shipping.php" afterPath="$PROJECT_DIR$/includes/modules/order_total/ot_shipping.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/account_edit/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/account_edit/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/account_password/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/account_password/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/account_password/jscript_form_check.php" afterPath="$PROJECT_DIR$/includes/modules/pages/account_password/jscript_form_check.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/advanced_search_result/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/advanced_search_result/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/advanced_search_result/jscript_onload_helper.php" afterPath="$PROJECT_DIR$/includes/modules/pages/advanced_search_result/jscript_onload_helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/checkout_confirmation/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/checkout_confirmation/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/checkout_payment/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/checkout_payment/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/checkout_payment_address/jscript_main.php" afterPath="$PROJECT_DIR$/includes/modules/pages/checkout_payment_address/jscript_main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/checkout_shipping/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/checkout_shipping/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/checkout_shipping_address/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/checkout_shipping_address/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/checkout_shipping_address/jscript_main.php" afterPath="$PROJECT_DIR$/includes/modules/pages/checkout_shipping_address/jscript_main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/checkout_success/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/checkout_success/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/contact_us/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/contact_us/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/create_account/jscript_form_check.php" afterPath="$PROJECT_DIR$/includes/modules/pages/create_account/jscript_form_check.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/create_account_success/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/create_account_success/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/discount_coupon/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/discount_coupon/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/document_general_info/jscript_textarea_counter.js" afterPath="$PROJECT_DIR$/includes/modules/pages/document_general_info/jscript_textarea_counter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/document_general_info/main_template_vars.php" afterPath="$PROJECT_DIR$/includes/modules/pages/document_general_info/main_template_vars.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/document_product_info/jscript_textarea_counter.js" afterPath="$PROJECT_DIR$/includes/modules/pages/document_product_info/jscript_textarea_counter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/document_product_info/main_template_vars.php" afterPath="$PROJECT_DIR$/includes/modules/pages/document_product_info/main_template_vars.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/download/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/download/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/gv_send/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/gv_send/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/index/main_template_vars.php" afterPath="$PROJECT_DIR$/includes/modules/pages/index/main_template_vars.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/login/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/login/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/login/jscript_form_check.php" afterPath="$PROJECT_DIR$/includes/modules/pages/login/jscript_form_check.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/password_forgotten/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/password_forgotten/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/product_free_shipping_info/jscript_textarea_counter.js" afterPath="$PROJECT_DIR$/includes/modules/pages/product_free_shipping_info/jscript_textarea_counter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/product_info/jscript_textarea_counter.js" afterPath="$PROJECT_DIR$/includes/modules/pages/product_info/jscript_textarea_counter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/product_music_info/jscript_textarea_counter.js" afterPath="$PROJECT_DIR$/includes/modules/pages/product_music_info/jscript_textarea_counter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/shopping_cart/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/shopping_cart/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/pages/time_out/header_php.php" afterPath="$PROJECT_DIR$/includes/modules/pages/time_out/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/authorizenet.php" afterPath="$PROJECT_DIR$/includes/modules/payment/authorizenet.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/authorizenet_aim.php" afterPath="$PROJECT_DIR$/includes/modules/payment/authorizenet_aim.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/authorizenet_echeck.php" afterPath="$PROJECT_DIR$/includes/modules/payment/authorizenet_echeck.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/cod.php" afterPath="$PROJECT_DIR$/includes/modules/payment/cod.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/freecharger.php" afterPath="$PROJECT_DIR$/includes/modules/payment/freecharger.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/linkpoint_api.php" afterPath="$PROJECT_DIR$/includes/modules/payment/linkpoint_api.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/linkpoint_api/index.html" afterPath="$PROJECT_DIR$/includes/modules/payment/linkpoint_api/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/moneyorder.php" afterPath="$PROJECT_DIR$/includes/modules/payment/moneyorder.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/paypal.php" afterPath="$PROJECT_DIR$/includes/modules/payment/paypal.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/paypal/logs/.htaccess" afterPath="$PROJECT_DIR$/includes/modules/payment/paypal/logs/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/paypal/logs/index.html" afterPath="$PROJECT_DIR$/includes/modules/payment/paypal/logs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/paypal/paypal_curl.php" afterPath="$PROJECT_DIR$/includes/modules/payment/paypal/paypal_curl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/paypal/paypal_functions.php" afterPath="$PROJECT_DIR$/includes/modules/payment/paypal/paypal_functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/paypaldp.php" afterPath="$PROJECT_DIR$/includes/modules/payment/paypaldp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/payment/paypalwpp.php" afterPath="$PROJECT_DIR$/includes/modules/payment/paypalwpp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/products_quantity_discounts.php" afterPath="$PROJECT_DIR$/includes/modules/products_quantity_discounts.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/shipping/freeoptions.php" afterPath="$PROJECT_DIR$/includes/modules/shipping/freeoptions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/shipping/storepickup.php" afterPath="$PROJECT_DIR$/includes/modules/shipping/storepickup.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/shipping_estimator.php" afterPath="$PROJECT_DIR$/includes/modules/shipping_estimator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/sideboxes/currencies.php" afterPath="$PROJECT_DIR$/includes/modules/sideboxes/currencies.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/sideboxes/information.php" afterPath="$PROJECT_DIR$/includes/modules/sideboxes/information.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/sideboxes/manufacturers.php" afterPath="$PROJECT_DIR$/includes/modules/sideboxes/manufacturers.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/modules/upcoming_products.php" afterPath="$PROJECT_DIR$/includes/modules/upcoming_products.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/common/html_header.php" afterPath="$PROJECT_DIR$/includes/templates/edify/common/html_header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/common/tpl_columnar_display.php" afterPath="$PROJECT_DIR$/includes/templates/edify/common/tpl_columnar_display.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php" afterPath="$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/common/tpl_footer.php" afterPath="$PROJECT_DIR$/includes/templates/edify/common/tpl_footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/common/tpl_header.php" afterPath="$PROJECT_DIR$/includes/templates/edify/common/tpl_header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php" afterPath="$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/css/menumaker.css" afterPath="$PROJECT_DIR$/includes/templates/edify/css/menumaker.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" afterPath="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/jscript/cloud-zoom.1.0.3.js" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/cloud-zoom.1.0.3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/jscript/edify_homepage_1.js" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/edify_homepage_1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_contact_us_default.php" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_contact_us_default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_index_product_list.php" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_index_product_list.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_attributes.php" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_attributes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_main_product_image.php" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_main_product_image.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_product_listing.php" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_product_listing.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_product_info_display.php" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_product_info_display.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/common/html_header.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/common/html_header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/common/tpl_header.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/common/tpl_header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/css/stylesheet.css" afterPath="$PROJECT_DIR$/includes/templates/template_default/css/stylesheet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/css/stylesheet_css_buttons.css" afterPath="$PROJECT_DIR$/includes/templates/template_default/css/stylesheet_css_buttons.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/jscript/jquery.min.js" afterPath="$PROJECT_DIR$/includes/templates/template_default/jscript/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/jscript/jscript_framework.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/jscript/jscript_framework.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/popup_coupon_help/tpl_main_page.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/popup_coupon_help/tpl_main_page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/popup_search_help/tpl_main_page.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/popup_search_help/tpl_main_page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/sideboxes/tpl_reviews_random.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/sideboxes/tpl_reviews_random.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_account_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_account_default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_advanced_search_result_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_advanced_search_result_default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_checkout_shipping_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_checkout_shipping_default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_contact_us_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_contact_us_default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_index_product_list.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_index_product_list.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_login_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_login_default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_modules_category_row.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_modules_category_row.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_modules_create_account.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_modules_create_account.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_modules_product_listing.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_modules_product_listing.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_page_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_page_default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_page_not_found_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_page_not_found_default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_product_info_noproduct.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_product_info_noproduct.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_product_reviews_write_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_product_reviews_write_default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_site_map_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_site_map_default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_time_out_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_time_out_default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_zc_install_suggested_default.php" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_zc_install_suggested_default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/version.php" afterPath="$PROJECT_DIR$/includes/version.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ipn_main_handler.php" afterPath="$PROJECT_DIR$/ipn_main_handler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/.htaccess" afterPath="$PROJECT_DIR$/logs/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/index.html" afterPath="$PROJECT_DIR$/logs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/index.php" afterPath="$PROJECT_DIR$/logs/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457394191-28680.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457394191-28680.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457394196-808161.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457394196-808161.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457406159-39239.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457406159-39239.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457406367-784211.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457406367-784211.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457406380-460461.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457406380-460461.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457466750-783955.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457466750-783955.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457550705-991147.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457550705-991147.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457598116-633185.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457598116-633185.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1457847812-25109.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1457847812-25109.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1458942959-913766.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1458942959-913766.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1458942960-341366.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1458942960-341366.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1458942961-148132.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1458942961-148132.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1458942965-88680.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1458942965-88680.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1458942966-1559.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1458942966-1559.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1458942967-230586.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1458942967-230586.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1459510670-39038.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1459510670-39038.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-1459510671-400982.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-1459510671-400982.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1460366201-680424.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1460366201-680424.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1460366299-975185.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1460366299-975185.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1460399256-82634.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1460399256-82634.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1460399996-310618.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1460399996-310618.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1460659136-516861.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1460659136-516861.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1460660690-282007.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1460660690-282007.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1460661951-23387.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1460661951-23387.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1461091331-371323.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1461091331-371323.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1461358247-310583.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1461358247-310583.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1461358257-467656.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1461358257-467656.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746189-820605.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746189-820605.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746354-490316.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746354-490316.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746406-605072.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746406-605072.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746407-608875.log" afterPath="$PROJECT_DIR$/logs/myDEBUG-adm-1461746407-608875.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/zcInstallExceptionDetails_Feb-22-2016_04-19-46-u9a5vh.log" afterPath="$PROJECT_DIR$/logs/zcInstallExceptionDetails_Feb-22-2016_04-19-46-u9a5vh.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/zcInstallExceptionDetails_Mar-07-2016_11-06-41-VK2Lep.log" afterPath="$PROJECT_DIR$/logs/zcInstallExceptionDetails_Mar-07-2016_11-06-41-VK2Lep.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/zcInstallLog_Feb-22-2016_04-19-46-u9a5vh.log" afterPath="$PROJECT_DIR$/logs/zcInstallLog_Feb-22-2016_04-19-46-u9a5vh.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/zcInstallLog_Mar-07-2016_11-06-41-VK2Lep.log" afterPath="$PROJECT_DIR$/logs/zcInstallLog_Mar-07-2016_11-06-41-VK2Lep.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/.htaccess" afterPath="$PROJECT_DIR$/media/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pub/.htaccess" afterPath="$PROJECT_DIR$/pub/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/admin_configure.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/admin_configure.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/application_top.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/application_top.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/classes/class.installer_version_manager.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/classes/class.installer_version_manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/classes/installer.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/classes/installer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/functions/general.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/functions/general.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/functions/sessions.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/functions/sessions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/installer_params.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/installer_params.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/languages/english.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/languages/english.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/languages/english/index.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/languages/english/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/languages/english/license.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/languages/english/license.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/admin_setup/header_php.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/admin_setup/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/database_setup/header_php.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/database_setup/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/database_upgrade/header_php.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/database_upgrade/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/inspect/header_php.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/inspect/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/store_setup/header_php.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/store_setup/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/system_setup/header_php.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/modules/pages/system_setup/header_php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/phpinfo.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/phpinfo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/store_configure.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/store_configure.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/templates/template_default/common/main_template_vars.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/templates/template_default/common/main_template_vars.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/templates/template_default/templates/admin_setup_default.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/templates/template_default/templates/admin_setup_default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/includes/templates/template_default/templates/tpl_php_version_problem.php" afterPath="$PROJECT_DIR$/xxzc_install/includes/templates/template_default/templates/tpl_php_version_problem.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/index.php" afterPath="$PROJECT_DIR$/xxzc_install/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/popup_help_screen.php" afterPath="$PROJECT_DIR$/xxzc_install/popup_help_screen.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/db_rebuild_autoincrement.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/db_rebuild_autoincrement.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_latin1.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_latin1.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_138_to_139.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_138_to_139.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_139_to_150.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_139_to_150.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_150_to_151.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_150_to_151.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_151_to_152.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_151_to_152.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_152_to_153.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_152_to_153.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_153_to_154.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_upgrade_zencart_153_to_154.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_utf8.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_utf8.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/sql/mysql_zencart.sql" afterPath="$PROJECT_DIR$/xxzc_install/sql/mysql_zencart.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xxzc_install/version.php" afterPath="$PROJECT_DIR$/xxzc_install/version.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/.htaccess" afterPath="$PROJECT_DIR$/zadmin/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/admin_activity.php" afterPath="$PROJECT_DIR$/zadmin/admin_activity.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/admin_page_registration.php" afterPath="$PROJECT_DIR$/zadmin/admin_page_registration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/alert_page.php" afterPath="$PROJECT_DIR$/zadmin/alert_page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/alt_nav.php" afterPath="$PROJECT_DIR$/zadmin/alt_nav.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/attributes_controller.php" afterPath="$PROJECT_DIR$/zadmin/attributes_controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/banner_manager.php" afterPath="$PROJECT_DIR$/zadmin/banner_manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/categories.php" afterPath="$PROJECT_DIR$/zadmin/categories.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/coupon_restrict.php" afterPath="$PROJECT_DIR$/zadmin/coupon_restrict.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/customers.php" afterPath="$PROJECT_DIR$/zadmin/customers.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/define_pages_editor.php" afterPath="$PROJECT_DIR$/zadmin/define_pages_editor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/developers_tool_kit.php" afterPath="$PROJECT_DIR$/zadmin/developers_tool_kit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/.htaccess" afterPath="$PROJECT_DIR$/zadmin/includes/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/application_top.php" afterPath="$PROJECT_DIR$/zadmin/includes/application_top.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/attributes_preview.php" afterPath="$PROJECT_DIR$/zadmin/includes/attributes_preview.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.admin.zcObserverLogEventListener.php" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.admin.zcObserverLogEventListener.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.admin.zcObserverLogWriterDatabase.php" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.admin.zcObserverLogWriterDatabase.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.admin.zcObserverLogWriterTextfile.php" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.admin.zcObserverLogWriterTextfile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.olark_live_chat_widget.php" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.olark_live_chat_widget.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.usu.php" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.usu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/auto_loaders/index.html" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/auto_loaders/overrides/index.html" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/overrides/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/classes/box.php" afterPath="$PROJECT_DIR$/zadmin/includes/classes/box.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/classes/class.admin.zcObserverLogEventListener.php" afterPath="$PROJECT_DIR$/zadmin/includes/classes/class.admin.zcObserverLogEventListener.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/classes/class.admin.zcObserverLogWriterDatabase.php" afterPath="$PROJECT_DIR$/zadmin/includes/classes/class.admin.zcObserverLogWriterDatabase.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/classes/class.admin.zcObserverLogWriterTextfile.php" afterPath="$PROJECT_DIR$/zadmin/includes/classes/class.admin.zcObserverLogWriterTextfile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/classes/plugin.php" afterPath="$PROJECT_DIR$/zadmin/includes/classes/plugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/classes/split_page_results_new.php" afterPath="$PROJECT_DIR$/zadmin/includes/classes/split_page_results_new.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/classes/table_block.php" afterPath="$PROJECT_DIR$/zadmin/includes/classes/table_block.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/configure.php" afterPath="$PROJECT_DIR$/zadmin/includes/configure.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/dist-configure.php" afterPath="$PROJECT_DIR$/zadmin/includes/dist-configure.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/extra_configures/enable_error_logging.php" afterPath="$PROJECT_DIR$/zadmin/includes/extra_configures/enable_error_logging.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/extra_configures/plugin.php" afterPath="$PROJECT_DIR$/zadmin/includes/extra_configures/plugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/extra_configures/security_patch_v138_20090619.php" afterPath="$PROJECT_DIR$/zadmin/includes/extra_configures/security_patch_v138_20090619.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/extra_configures/use_catalog_time_zone.php" afterPath="$PROJECT_DIR$/zadmin/includes/extra_configures/use_catalog_time_zone.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/admin_access.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/admin_access.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/database.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/extra_functions/add_cookie_path_switch.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/extra_functions/add_cookie_path_switch.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/extra_functions/usu.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/extra_functions/usu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/functions_metatags.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/functions_metatags.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/functions_prices.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/functions_prices.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/general.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/general.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/html_output.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/html_output.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/functions/localization.php" afterPath="$PROJECT_DIR$/zadmin/includes/functions/localization.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/graphs/banner_daily.php" afterPath="$PROJECT_DIR$/zadmin/includes/graphs/banner_daily.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/graphs/banner_infobox.php" afterPath="$PROJECT_DIR$/zadmin/includes/graphs/banner_infobox.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/graphs/banner_monthly.php" afterPath="$PROJECT_DIR$/zadmin/includes/graphs/banner_monthly.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/graphs/banner_yearly.php" afterPath="$PROJECT_DIR$/zadmin/includes/graphs/banner_yearly.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/header.php" afterPath="$PROJECT_DIR$/zadmin/includes/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/index.html" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_admin_auth.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_admin_auth.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_category_path.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_category_path.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_currencies.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_currencies.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_database.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_errors.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_errors.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_file_db_names.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_file_db_names.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_general_funcs.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_general_funcs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_gzip.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_gzip.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_html_editor.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_html_editor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_image_handler.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_image_handler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_languages.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_languages.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_sanitize.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_sanitize.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_sessions.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_sessions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/init_tlds.php" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_tlds.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/init_includes/overrides/index.html" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/overrides/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/initsystem.php" afterPath="$PROJECT_DIR$/zadmin/includes/initsystem.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/attributes_controller.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/attributes_controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/categories.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/categories.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/countries.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/countries.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/coupon_admin.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/coupon_admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/coupon_restrict.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/coupon_restrict.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/developers_tool_kit.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/developers_tool_kit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/document_general.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/document_general.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/document_product.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/document_product.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/email_extras.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/email_extras.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/extra_definitions/onlyFor139.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/extra_definitions/onlyFor139.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/extra_definitions/usu.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/extra_definitions/usu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/extra_definitions/zen_lightbox.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/extra_definitions/zen_lightbox.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/index.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/login.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/modules/plugin/plugin.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/modules/plugin/plugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/modules/plugin/usu.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/modules/plugin/usu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/options_values_manager.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/options_values_manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/password_forgotten.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/password_forgotten.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/product.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/product.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/product_free_shipping.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/product_free_shipping.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/product_music.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/product_music.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/stats_customers_referrals.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/stats_customers_referrals.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/store_manager.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/store_manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/languages/english/whos_online.php" afterPath="$PROJECT_DIR$/zadmin/includes/languages/english/whos_online.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/category_product_listing.phpIH_1456111420.OLD.IH4" afterPath="$PROJECT_DIR$/zadmin/includes/modules/category_product_listing.phpIH_1456111420.OLD.IH4" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/document_general/preview_info.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/document_general/preview_info.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/document_general/preview_info_meta_tags.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/document_general/preview_info_meta_tags.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/document_product/preview_info.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/document_product/preview_info.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/document_product/preview_info_meta_tags.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/document_product/preview_info_meta_tags.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/product/preview_info.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/product/preview_info.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/product/preview_info_meta_tags.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/product/preview_info_meta_tags.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/product_free_shipping/preview_info.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/product_free_shipping/preview_info.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/product_free_shipping/preview_info_meta_tags.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/product_free_shipping/preview_info_meta_tags.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/product_music/preview_info.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/product_music/preview_info.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/product_music/preview_info_meta_tags.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/product_music/preview_info_meta_tags.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/products_previous_next.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/products_previous_next.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/products_previous_next_display.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/products_previous_next_display.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/includes/modules/update_product_meta_tags.php" afterPath="$PROJECT_DIR$/zadmin/includes/modules/update_product_meta_tags.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/index.php" afterPath="$PROJECT_DIR$/zadmin/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/login.php" afterPath="$PROJECT_DIR$/zadmin/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/mail.php" afterPath="$PROJECT_DIR$/zadmin/mail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/media_manager.php" afterPath="$PROJECT_DIR$/zadmin/media_manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/option_values.php" afterPath="$PROJECT_DIR$/zadmin/option_values.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/options_name_manager.old.php" afterPath="$PROJECT_DIR$/zadmin/options_name_manager.old.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/options_values_manager.php" afterPath="$PROJECT_DIR$/zadmin/options_values_manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/orders.php" afterPath="$PROJECT_DIR$/zadmin/orders.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/password_forgotten.php" afterPath="$PROJECT_DIR$/zadmin/password_forgotten.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/product.php" afterPath="$PROJECT_DIR$/zadmin/product.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/product_types.php" afterPath="$PROJECT_DIR$/zadmin/product_types.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/products_price_manager.php" afterPath="$PROJECT_DIR$/zadmin/products_price_manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/products_to_categories.php" afterPath="$PROJECT_DIR$/zadmin/products_to_categories.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/specials.php" afterPath="$PROJECT_DIR$/zadmin/specials.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/sqlpatch.php" afterPath="$PROJECT_DIR$/zadmin/sqlpatch.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/stats_customers_referrals.php" afterPath="$PROJECT_DIR$/zadmin/stats_customers_referrals.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/users.php" afterPath="$PROJECT_DIR$/zadmin/users.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zadmin/whos_online.php" afterPath="$PROJECT_DIR$/zadmin/whos_online.php" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -596,7 +370,7 @@
       <file leaf-file-name="templatecss.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/templatecss.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.802">
+            <state vertical-scroll-proportion="0.8036072">
               <caret line="7117" column="4" selection-start-line="7117" selection-start-column="4" selection-end-line="7117" selection-end-column="4" />
               <folding />
             </state>
@@ -721,72 +495,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zpalette_master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zpalette_master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edify" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zpalette_master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edify" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -838,6 +546,13 @@
       <option name="number" value="Default" />
       <updated>1461923498301</updated>
     </task>
+    <task id="LOCAL-00001" summary="almost done.  everything working">
+      <created>1465577345648</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1465577345648</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -845,14 +560,15 @@
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20895523" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17232022" sideWeight="0.49458483" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17232022" sideWeight="0.49367088" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25350317" sideWeight="0.510661" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.292853" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37617135" sideWeight="0.48933902" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23092999" sideWeight="0.4968017" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2583668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17232022" sideWeight="0.50541514" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25871313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17232022" sideWeight="0.5063291" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923833" sideWeight="0.49773464" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17106201" sideWeight="0.55284554" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -875,6 +591,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="almost done.  everything working" />
+    <option name="LAST_COMMIT_MESSAGE" value="almost done.  everything working" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1010,6 +730,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.6153846">
           <caret line="90" column="332" selection-start-line="90" selection-start-column="332" selection-end-line="90" selection-end-column="332" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1100,6 +821,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.961538">
           <caret line="303" column="13" selection-start-line="303" selection-start-column="13" selection-end-line="303" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1294,7 +1016,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/templatecss.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.802">
+        <state vertical-scroll-proportion="0.8036072">
           <caret line="7117" column="4" selection-start-line="7117" selection-start-column="4" selection-end-line="7117" selection-end-column="4" />
           <folding />
         </state>
