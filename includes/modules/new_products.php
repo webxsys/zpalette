@@ -12,6 +12,11 @@ if (!defined('IS_ADMIN_FLAG')) {
   die('Illegal Access');
 }
 
+echo "--------> tpl_modules_products_new_listing"."<b>";
+echo "<pre>";
+print_r(debug_print_backtrace());
+die();
+echo "</pre>";
 // initialize vars
 $categories_products_id_list = '';
 $list_of_products = '';

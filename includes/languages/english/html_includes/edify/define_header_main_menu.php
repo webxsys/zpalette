@@ -42,7 +42,7 @@
     <?php if (EZPAGES_STATUS_HEADER == '1' or (EZPAGES_STATUS_HEADER == '2' and (strstr(
                 EXCLUDE_ADMIN_IP_FOR_MAINTENANCE, $_SERVER['REMOTE_ADDR'])))) { ?>
         <li id='ezpages' class="<?php if($pg=='ezpages') { echo "tab_active";}?>">
-            <a href="#">
+            <a href="http://www.zpalette.studio/develop/products_new.html">
 <!--                <i class="fa fa-rss-square fa-lg"></i>--><?php echo "What's New";  ?>
             </a>
             <ul class="nav-child unstyled">

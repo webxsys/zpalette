@@ -14,6 +14,14 @@
  * modified 2012-09-22 & 2012-10-06 by Glenn Herbert (gjh42)
  */
 ?>
+
+<?php
+echo "--------> tpl_modules_products_new_listing"."<b>";
+echo "<pre>";
+print_r(debug_print_backtrace());
+die();
+echo "</pre>";
+?>
 <div class="centerColumn" id="indexProductList">
 
 <h1 id="productListHeading"><?php echo $breadcrumb->last(); ?></h1>

@@ -11,7 +11,13 @@
   $zc_show_new_products = false;
   include(DIR_WS_MODULES . zen_get_module_directory(FILENAME_NEW_PRODUCTS));
 ?>
-
+<?php
+echo "--------> tpl_modules_products_new_listing"."<b>";
+echo "<pre>";
+print_r(debug_print_backtrace());
+die();
+echo "</pre>";
+?>
 <!-- bof: whats_new -->
 <?php if ($zc_show_new_products == true) { ?>
 <div class="centerBoxWrapper wow fadeInDown" id="whatsNew" data-wow-delay="0.6s">

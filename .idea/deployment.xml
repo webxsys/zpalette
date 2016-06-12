@@ -47,7 +47,7 @@
       <paths name="palettepro">
         <serverdata>
           <mappings>
-            <mapping deploy="/develop" local="$PROJECT_DIR$" web="develop" />
+            <mapping deploy="/home/palettepro/public_html/develop" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

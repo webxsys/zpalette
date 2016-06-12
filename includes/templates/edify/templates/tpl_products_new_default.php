@@ -9,6 +9,13 @@
  * @version $Id: tpl_products_new_default.php 2677 2005-12-24 22:30:12Z birdbrain $
  */
 ?>
+<?php
+echo "--------> tpl_modules_products_new_listing"."<b>";
+echo "<pre>";
+print_r(debug_print_backtrace());
+die();
+echo "</pre>";
+?>
 <div class="centerColumn" id="newProductsDefault">
 
 <header>

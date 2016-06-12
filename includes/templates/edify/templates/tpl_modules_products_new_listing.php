@@ -12,6 +12,14 @@
  * @version $Id: tpl_modules_products_new_listing.php 6096 2007-04-01 00:43:21Z ajeh $
  */
 ?>
+
+<?php
+echo "--------> tpl_modules_products_new_listing"."<b>";
+echo "<pre>";
+print_r(debug_print_backtrace());
+die();
+echo "</pre>";
+?>
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
          
 <?php
