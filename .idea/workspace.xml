@@ -2,292 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2542e2f1-5e3f-47af-b24d-b231a9daf535" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_black-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_black-b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_black-c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_black-d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_large-c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_large-d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_leopard-b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_leopard-c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_leopard-d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_zebra-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_zebra-b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01-large_zebra.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/50_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/50_05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/50_06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-brushstroke.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-brushstroke_large-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-brushstroke_large-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-brushstroke_large-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-brushstroke_large-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-bubbles.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-bubbles_small-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-bubbles_small-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-bubbles_small-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-bubbles_small-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-bubbles_small-e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-classic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-classic_large-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-classic_large-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-classic_large-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/betty-boop-classic_large-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/black-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/black-b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/black-c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/black-d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/categories/medium-zpalette-c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette-e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome-zpalette.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome_a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome_c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome_d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome_e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dome_palette.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided-b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided-c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided-z-palette-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided-z-palette-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided-z-palette-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided-z-palette.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided_a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double-sided_c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double_sided_.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/double_sided_palette.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette-e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalette.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large-zpalettee,-main.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large_a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large_c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra-large_d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra_large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra_large_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/gift_certificates/gv_5_small-black.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_black-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_black-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_black-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_black-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_lavender-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_lavender-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_lavender-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_lavender-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_lavender.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_leopard-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_leopard-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_leopard-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_leopard-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_leopard.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_orange-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_orange-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_orange-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_orange-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_orange.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pearlwhite-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pearlwhite-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pearlwhite-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pearlwhite-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pearlwhite.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pink-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pink-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pink-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pink-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_pink.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_skyblue-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_skyblue-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_skyblue-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_skyblue-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_skyblue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_yellow-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_yellow-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_yellow-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_yellow-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_yellow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_zebra-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_zebra-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_zebra-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_zebra-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-color/01-large_zebra.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-black_08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large-zpalette-hotpink.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/large_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/leopard-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/leopard-b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/leopard-c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/leopard-d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/leopard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette-b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette-d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette_a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette_c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium-zpalette_d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/medium_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mini_palette.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mini_round_metal_pans.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mini_round_metal_pans.pxr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mini_z_palette.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mini_z_palette_black-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mini_z_palette_black-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mini_z_palette_black-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mirror-z-palette.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/round-empty-metal-pans.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/round-metal-stckers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-black-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-black-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-black-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-leopard-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-leopard-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-leopard-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-leopard.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-pink-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-pink-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-pink-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black-zpalette_small-pink.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black_small-black-a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black_small-black-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black_small-black-c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-black_small-pink.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small-pink-zpalette.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/spatula.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/square_empty_metal_pans.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/square_metal_stickers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zebra-a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zebra-b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zebra-c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zebra-d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zebra.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/buttons/english/zen_lightbox.old/closelabel.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/buttons/english/zen_lightbox.old/nextlabel.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/buttons/english/zen_lightbox.old/prevlabel.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/47.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/48-714x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/49-750x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/501-731x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/51.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/52-1024x663.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/53-398x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/88.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/89-770x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/90-770x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/91-770x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/92-770x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/93-770x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/94-770x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/95-770x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/96-770x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/97-770x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/98-770x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/asseenin-1024x212.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/banners/payment2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/slideshow/slide-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/zen_lightbox.old/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/zen_lightbox.old/closelabel.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/zen_lightbox.old/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/zen_lightbox.old/nextlabel.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/images/zen_lightbox.old/prevlabel.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc1a.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc2a.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc3a.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc4a.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/template_default/images/icons/cc5a.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/assoc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/classes/howManyFit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/classes/zen_lightbox.old/autoload_default.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/classes/zen_lightbox.old/options.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/classes/zen_lightbox.old/slimbox.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/languages/english/extra_definitions/edify/column_layout_grid_defines.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/languages/english/extra_definitions/edify/zen_lightbox.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/languages/english/modules/shipping/usps.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/classic/product_listing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/edify/additional_images.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/edify/product_listing.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/document_general_info/jscript_zen_lightbox.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/document_product_info/jscript_zen_lightbox.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/howManyFit/header_php.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/page/jscript_zen_lightbox.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/product_free_shipping_info/jscript_zen_lightbox.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/product_info/jscript_zen_lightbox.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/product_music_info/jscript_zen_lightbox.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/product_reviews/jscript_zen_lightbox.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/product_reviews_info/jscript_zen_lightbox.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/pages/product_reviews_write/jscript_zen_lightbox.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/modules/shipping/usps.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/auto_loaders/loader_zen_lightbox.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/css/zen_lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/assoc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/colorImageSwap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/howmanyfit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/howmanyfit_bo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/jquery-1.4.4.min.js.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/jquery.dump.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/jquery/jquery_zen_lightbox.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/jquery/jquery_zen_lightbox_options.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/jscript_zen_lightbox.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/jscript/vidbg.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_howManyFit_default.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_index_product_list.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_main_product_image.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_main_product_image.php.old.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_product_listing.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_index_product_list.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/templates/template_default/templates/tpl_modules_product_listing.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zadmin/includes/auto_loaders/config.zen_lightbox.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zadmin/includes/extra_datafiles/zen_lightbox.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zadmin/includes/init_includes/init_zen_lightbox.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zadmin/includes/installers/zen_lightbox/1_7_0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/demo/media/ZPaletteExperience.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/demo/media/fallback.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/demo/media/mp4_video.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/demo/media/webm_video.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/media/ZPaletteExperience.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/media/fallback.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/media/mp4_video.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/media/webm_video.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/media/zpbg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/ATTRIBUTION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/config.codekit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/css/fullscreenDemo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/css/insideElementDemo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/demo/css/fullscreenDemo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/demo/css/insideElementDemo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/demo/elementDemo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/demo/fullscreenDemo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/dist/vidbg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/dist/vidbg.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vidbg-master/src/vidbg.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_social_icons.php" afterPath="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_social_icons.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php" afterPath="$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/css/menumaker.css" afterPath="$PROJECT_DIR$/includes/templates/edify/css/menumaker.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" afterPath="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -347,7 +90,7 @@
       <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/templates/classic/css/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.5">
+            <state vertical-scroll-proportion="0.0">
               <caret line="575" column="23" selection-start-line="575" selection-start-column="23" selection-end-line="575" selection-end-column="23" />
               <folding />
             </state>
@@ -357,21 +100,71 @@
       <file leaf-file-name="tpl_edify_custom_css.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.763637">
-              <caret line="203" column="91" selection-start-line="203" selection-start-column="89" selection-end-line="203" selection-end-column="91" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="197" column="16" selection-start-line="197" selection-start-column="16" selection-end-line="197" selection-end-column="16" />
               <folding>
-                <marker date="1465562223364" expanded="true" signature="287:301" placeholder="SELECT * FRO..${DB_PREFIX}..." />
-                <marker date="1465562223364" expanded="true" signature="3277:3291" placeholder="SELECT * fro..${DB_PREFIX}..." />
+                <marker date="1465597961022" expanded="true" signature="287:301" placeholder="SELECT * FRO..${DB_PREFIX}..." />
+                <marker date="1465597961022" expanded="true" signature="3277:3291" placeholder="SELECT * fro..${DB_PREFIX}..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="templatecss.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tpl_index_product_list.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/templates/edify/templates/tpl_index_product_list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="136" column="87" selection-start-line="136" selection-start-column="87" selection-end-line="136" selection-end-column="87" />
+              <caret line="137" column="10" selection-start-line="137" selection-start-column="10" selection-end-line="137" selection-end-column="10" />
+              <caret line="138" column="0" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+              <caret line="139" column="5" selection-start-line="139" selection-start-column="5" selection-end-line="139" selection-end-column="5" />
+              <folding>
+                <marker date="1349636864000" expanded="true" signature="4160:4247" placeholder="select categ..${TABLE_CATEGORIES}..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tpl_modules_products_new_listing.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_products_new_listing.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.20877193">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+              <folding>
+                <marker date="1461920392000" expanded="true" signature="9185:9418" placeholder="select confi..${TABLE_CONFIGURATION}..." />
+                <marker date="1461920392000" expanded="true" signature="10913:11146" placeholder="select confi..${TABLE_CONFIGURATION}..." />
+                <marker date="1461920392000" expanded="true" signature="12804:13037" placeholder="select confi..${TABLE_CONFIGURATION}..." />
+                <marker date="1461920392000" expanded="true" signature="13400:13633" placeholder="select confi..${TABLE_CONFIGURATION}..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="templatecss.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/templatecss.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8036072">
-              <caret line="7117" column="4" selection-start-line="7117" selection-start-column="4" selection-end-line="7117" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5919" column="16" selection-start-line="5919" selection-start-column="15" selection-end-line="5919" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="define_footer_social_icons.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_social_icons.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menumaker.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/menumaker.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="244" column="48" selection-start-line="244" selection-start-column="48" selection-end-line="244" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -402,7 +195,6 @@
         <option value="$PROJECT_DIR$/vidbg-master/demo/elementDemo.html" />
         <option value="$PROJECT_DIR$/vidbg-master/src/vidbg.js" />
         <option value="$PROJECT_DIR$/vidbg-master/demo/css/insideElementDemo.css" />
-        <option value="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_social_icons.php" />
         <option value="$PROJECT_DIR$/includes/templates/edify/jscript/howmanyfit.js" />
         <option value="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_account_links.php" />
         <option value="$PROJECT_DIR$/includes/templates/edify/common/tpl_header.php" />
@@ -416,6 +208,7 @@
         <option value="&lt;a8d72702-1e87-44ec-a92e-d19e620c3fc0&gt;/develop/includes/templates/edify/css/templatecss.css" />
         <option value="$PROJECT_DIR$/includes/templates/edify/common/tpl_main_page.php" />
         <option value="$PROJECT_DIR$/includes/templates/edify/css/menumaker.css" />
+        <option value="$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_social_icons.php" />
         <option value="$PROJECT_DIR$/includes/templates/edify/css/templatecss.css" />
         <option value="$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php" />
       </list>
@@ -427,14 +220,17 @@
     <detection-done>true</detection-done>
   </component>
   <component name="PhpServers">
-    <servers />
+    <servers>
+      <server host="http://zpalette.studio/develop" id="37866917-3ad0-41af-bbaa-60c2f16204d9" name="zpalette.studio" />
+    </servers>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpWebServerValidation" deployment_server_id="a8d72702-1e87-44ec-a92e-d19e620c3fc0" path_to_validation_script="C:\xamppx\htdocs\zpalette_master" selected_validation_type="REMOTE" web_path_to_validation_script="http://127.0.0.1/" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="107" />
-    <option name="y" value="41" />
+    <option name="x" value="83" />
+    <option name="y" value="40" />
     <option name="width" value="1534" />
-    <option name="height" value="856" />
+    <option name="height" value="950" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -461,8 +257,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -495,8 +289,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zpalette_master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zpalette_master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -508,8 +344,14 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Built-in Web Server.local built in">
+    <configuration default="false" name="zpalette_master" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -517,7 +359,13 @@
       <TestRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" server_name="zpalette.studio">
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -534,6 +382,22 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="false" name="local built in" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" host="127.0.0.1" port="606">
+      <method />
+    </configuration>
+    <configuration default="false" name="zpalette.studio" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" server_name="zpalette.studio">
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="PHP Built-in Web Server.local built in" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Remote Debug.zpalette.studio" />
+      <item index="2" class="java.lang.String" itemvalue="PHPUnit.zpalette_master" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.zpalette_master" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -552,33 +416,39 @@
       <option name="project" value="LOCAL" />
       <updated>1465577345648</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="almost done.  everything working">
+      <created>1465577912956</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1465577912956</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="107" y="41" width="1534" height="856" extended-state="0" />
+    <frame x="83" y="40" width="1534" height="950" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20895523" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17232022" sideWeight="0.49367088" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25350317" sideWeight="0.510661" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21913162" sideWeight="0.4871795" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25350317" sideWeight="0.510661" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.292853" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37617135" sideWeight="0.48933902" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23092999" sideWeight="0.4968017" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25871313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17232022" sideWeight="0.5063291" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923833" sideWeight="0.49773464" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25802615" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21913162" sideWeight="0.51282054" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923833" sideWeight="0.49773464" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17106201" sideWeight="0.55284554" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23092999" sideWeight="0.4968017" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33214286" sideWeight="0.48933902" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -598,18 +468,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Vide/src/jquery.vide.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.39968652">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Vide/examples/body-bg.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -635,7 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="35.307693">
           <caret line="84" column="22" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -678,16 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.021628499">
           <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_social_icons.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.384615">
-          <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -730,7 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.6153846">
           <caret line="90" column="332" selection-start-line="90" selection-start-column="332" selection-end-line="90" selection-end-column="332" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -821,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.961538">
           <caret line="303" column="13" selection-start-line="303" selection-start-column="13" selection-end-line="303" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -850,7 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -873,13 +722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_products_new_listing.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.6477876">
-          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_tabular_display.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48350397">
@@ -898,9 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.5384617">
           <caret line="49" column="39" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
-          <folding>
-            <element signature="e#6#471#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -908,7 +747,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.024531025">
           <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -916,7 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.3846154">
           <caret line="591" column="5" selection-start-line="591" selection-start-column="5" selection-end-line="591" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -924,11 +761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5769231">
           <caret line="243" column="64" selection-start-line="243" selection-start-column="64" selection-end-line="243" selection-end-column="64" />
-          <folding>
-            <marker date="1464636955000" expanded="true" signature="745:1108" placeholder="select count..${TABLE_PRODUCTS_OPTIONS}..." />
-            <marker date="1464636955000" expanded="true" signature="1491:2317" placeholder="select disti..${TABLE_PRODUCTS_OPTIONS}..." />
-            <marker date="1464636955000" expanded="true" signature="3579:4160" placeholder="select pov.p..${TABLE_PRODUCTS_ATTRIBUTES}..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -936,7 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.923077">
           <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -944,7 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.3076925">
           <caret line="529" column="634" selection-start-line="529" selection-start-column="634" selection-end-line="529" selection-end-column="634" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -952,7 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="164.1923">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -967,7 +796,6 @@
           <caret line="120" column="28" selection-start-line="120" selection-start-column="28" selection-end-line="120" selection-end-column="28" />
           <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
           <caret line="122" column="26" selection-start-line="122" selection-start-column="26" selection-end-line="122" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -975,7 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.576923">
           <caret line="7" column="616" selection-start-line="7" selection-start-column="616" selection-end-line="7" selection-end-column="616" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -983,42 +810,75 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.4956012">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/classic/css/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="575" column="23" selection-start-line="575" selection-start-column="23" selection-end-line="575" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/languages/english/html_includes/edify/define_footer_social_icons.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/templatecss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5919" column="16" selection-start-line="5919" selection-start-column="15" selection-end-line="5919" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/menumaker.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.018182">
-          <caret line="28" column="15" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/templates/classic/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.5">
-          <caret line="575" column="23" selection-start-line="575" selection-start-column="23" selection-end-line="575" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="244" column="48" selection-start-line="244" selection-start-column="48" selection-end-line="244" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/templates/edify/common/tpl_edify_custom_css.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.763637">
-          <caret line="203" column="91" selection-start-line="203" selection-start-column="89" selection-end-line="203" selection-end-column="91" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="197" column="16" selection-start-line="197" selection-start-column="16" selection-end-line="197" selection-end-column="16" />
           <folding>
-            <marker date="1465562223364" expanded="true" signature="287:301" placeholder="SELECT * FRO..${DB_PREFIX}..." />
-            <marker date="1465562223364" expanded="true" signature="3277:3291" placeholder="SELECT * fro..${DB_PREFIX}..." />
+            <marker date="1465597961022" expanded="true" signature="287:301" placeholder="SELECT * FRO..${DB_PREFIX}..." />
+            <marker date="1465597961022" expanded="true" signature="3277:3291" placeholder="SELECT * fro..${DB_PREFIX}..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/templates/edify/css/templatecss.css">
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/templates/tpl_index_product_list.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8036072">
-          <caret line="7117" column="4" selection-start-line="7117" selection-start-column="4" selection-end-line="7117" selection-end-column="4" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="136" column="87" selection-start-line="136" selection-start-column="87" selection-end-line="136" selection-end-column="87" />
+          <caret line="137" column="10" selection-start-line="137" selection-start-column="10" selection-end-line="137" selection-end-column="10" />
+          <caret line="138" column="0" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+          <caret line="139" column="5" selection-start-line="139" selection-start-column="5" selection-end-line="139" selection-end-column="5" />
+          <folding>
+            <marker date="1349636864000" expanded="true" signature="4160:4247" placeholder="select categ..${TABLE_CATEGORIES}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/edify/templates/tpl_modules_products_new_listing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20877193">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <marker date="1461920392000" expanded="true" signature="9185:9418" placeholder="select confi..${TABLE_CONFIGURATION}..." />
+            <marker date="1461920392000" expanded="true" signature="10913:11146" placeholder="select confi..${TABLE_CONFIGURATION}..." />
+            <marker date="1461920392000" expanded="true" signature="12804:13037" placeholder="select confi..${TABLE_CONFIGURATION}..." />
+            <marker date="1461920392000" expanded="true" signature="13400:13633" placeholder="select confi..${TABLE_CONFIGURATION}..." />
+          </folding>
         </state>
       </provider>
     </entry>

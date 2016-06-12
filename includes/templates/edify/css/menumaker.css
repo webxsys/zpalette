@@ -15,6 +15,10 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }*/
+#cssmenu{
+    margin:auto;
+}
+
 #cssmenu:after,
 #cssmenu > ul:after {
   content: ".";
@@ -93,7 +97,7 @@
 	border-top: 4px solid #FFFFFF;
 }
 #cssmenu > ul > li.has-sub > a {
-  padding: 12px 120px 10px 10px;
+  padding: 12px 10px 10px 12px;
 }
 #cssmenu .nav.open li.has-sub:before {
 	content: none;

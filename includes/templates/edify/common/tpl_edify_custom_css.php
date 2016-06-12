@@ -193,10 +193,11 @@ a:hover {
 /*Nav*/
 .nav-maincontainer #nav {
 	background: none repeat scroll 0 0 <?php echo $theme_color[1]; ?>;
-	/*border-radius:3px;
-	display:inline-block;*/
+	/*border-radius:3px;*/
+	display:inline-block;
 	width: 100%;
 	margin: 0 auto;
+	/*text-align: center;*/
 
 }
 
@@ -221,7 +222,7 @@ a:hover {
 /*	border-radius: 3px;
     background-color: #808080; */
 	background-color: #53005D;
-
+    text-shadow: 1px 1px 2px #000000;
 	/*opacity: 0.9;*/
 	z-index:999;
 }

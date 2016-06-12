@@ -44,7 +44,8 @@
                                 <li class="snapchat">
                                     <a data-original-title="Snapchat" data-toggle="tooltip"
                                        href="<?php echo $snapchat_link; ?>" target="_blank">
-                                        <i class="fa fa-snapchat-ghost fa-lg"></i>
+<!--                                        <i class="fa fa-snapchat-ghost fa-lg"></i>-->
+                                        <img src="includes/templates/edify/images/snapchat.png"></img>
                                     </a>
                                 </li>
                             <?php // } ?>

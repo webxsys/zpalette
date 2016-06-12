@@ -5853,12 +5853,16 @@ ul.social_bookmarks .fa {
 
 .social_bookmarks li.snapchat a {
 
+	/*margin-top:-1px;*/
+
 	border: 1px solid #fffc01;
 
 	background: none repeat scroll 0 0 #fffc01;
 
 }
-
+.social_bookmarks li.snapchat a:hover{
+	background: none repeat scroll 0 0 #54005e;
+}
 .social_bookmarks li a:hover {
 
 	border: 1px solid rgba(0, 0, 0, 0.1);
